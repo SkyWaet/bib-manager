@@ -1,0 +1,35 @@
+{
+    "paths": [
+        {
+            "name": "/bib",
+            "lambdaFunction": "bibmanagerbackend14439369",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "bibmanager",
+    "apiName": "bibmanager",
+    "functionArns": [
+        {
+            "lambdaFunction": "bibmanagerbackend14439369"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-bibmanagerbackend-dev-191809-authRole",
+        "unAuthRoleName": "amplify-bibmanagerbackend-dev-191809-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "bibmanagerbackend14439369",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ],
+    "uuid": "d3ac2834"
+}

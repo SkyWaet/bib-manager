@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bibmanagerbackend-dev-191809-authRole",
+      "UnauthRoleArn": "arn:aws:iam::334893293257:role/amplify-bibmanagerbackend-dev-191809-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::334893293257:role/amplify-bibmanagerbackend-dev-191809-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-bibmanagerbackend-dev-191809-deployment",
+      "UnauthRoleName": "amplify-bibmanagerbackend-dev-191809-unauthRole",
+      "StackName": "amplify-bibmanagerbackend-dev-191809",
+      "StackId": "arn:aws:cloudformation:eu-central-1:334893293257:stack/amplify-bibmanagerbackend-dev-191809/35213a10-3583-11eb-8d9a-0a0cf93fecd0",
+      "AmplifyAppId": "d26slcvecqxysx"
+    }
+  }
+}
