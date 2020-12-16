@@ -27,9 +27,16 @@ app.use(function(req, res, next) {
 });
 
 
-app.get('/bib',(req,res)=>{
+app.get('/item',(req,res)=>{
   res.json({"results":[{tag:'KuznetsovMYY-2020-IFAC',title:'Stability analysis of charge-pump phase-locked loops: the hold-in and pull-in ranges'}]})
 })
 
+const invertedIndexSearch = require('./invertedIndexSearch');
+
+app.get('/bib',(req,res)=>{
+  const searchResult = invertedIndexSearch(req.query.searchstring);
+  console.log(searchResult);
+  res.json({"results": searchResult});
+})
 
 module.exports = app
