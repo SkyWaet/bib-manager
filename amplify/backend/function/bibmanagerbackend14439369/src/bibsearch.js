@@ -6,11 +6,17 @@ module.exports = bibsearch = (request) => {
     const parsedRequest = request.split(', ');
     const searchResults = parsedBibitems.filter(bib => {
         const values = Object.values(bib);
-        for (let i in values) {
-            if (values[i].includes(userRequest)) {
-                return true;
-            }
+        let promiseArray = [];
+        for (let i in parsedRequest) {
+            promiseArray.push(new Promise((resolve, reject) => {
+                return filterFunction(values, parsedRequest[i]) ? resolve(1) : reject(0);
+            }))
+        };
+        Promise.allSettled(promiseArray).then((results) => {
+            const sum = results.reduce((accumulator,promiseValue)=>{})
         }
+
+        )
         return false;
 
     });

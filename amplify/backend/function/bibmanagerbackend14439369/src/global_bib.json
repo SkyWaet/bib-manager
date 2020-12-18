@@ -38,7 +38,7 @@
     "NairFZE-2007": {
         "type": "article",
         "tag": "NairFZE-2007",
-        "title": "Feedback control under data rate constraints: {An overview",
+        "title": "Feedback control under data rate constraints: {A}n overview",
         "author": "Nair, G.N. and Fagnani, F. and Zampieri, S. and Evans, R.J.",
         "journal": "Proceedings of the IEEE",
         "volume": "95",
@@ -50,8 +50,8 @@
     "LienardC-1914": {
         "type": "article",
         "tag": "LienardC-1914",
-        "title": "Sur le signe de la partie r{\\'eelle des racines d'une {\\'e}quation alg{\\'e}brique",
-        "author": "Li{\\'enard, A. and Chipart, M.H.",
+        "title": "Sur le signe de la partie r{\\'e}elle des racines d'une {\\'e}quation alg{\\'e}brique",
+        "author": "Li{\\'e}nard, A. and Chipart, M.H.",
         "journal": "J. Math. Pures Appl",
         "volume": "10",
         "number": "4",
@@ -61,7 +61,7 @@
     "MatveevS-2017": {
         "type": "article",
         "tag": "MatveevS-2017",
-        "title": "Two {Lyapunov methods in nonlinear state estimation via finite capacity communication channels",
+        "title": "Two {L}yapunov methods in nonlinear state estimation via finite capacity communication channels",
         "author": "Matveev, A and Pogromsky, A",
         "journal": "IFAC-PapersOnLine",
         "volume": "50",
@@ -115,7 +115,7 @@
         "tag": "Popov-1960-rom",
         "title": "Noi criterii de stabilitate pentru sistemele automate neliniare",
         "author": "Popov, V.M.",
-        "journal": "Studii si cercetari de energetica anul {X",
+        "journal": "Studii si cercetari de energetica anul {X}",
         "number": "1",
         "year": "1960",
         "note": "(in Romanian)"
@@ -123,7 +123,7 @@
     "Pupyrev-2006": {
         "type": "article",
         "tag": "Pupyrev-2006",
-        "title": "Very short memories of {Anatoliy {I}sakovich {L}urie",
+        "title": "Very short memories of {A}natoliy {I}sakovich {L}urie",
         "author": "Pupyrev, V.A.",
         "journal": "Teoriya Mekhanizmov i Mashin (in Russian)",
         "volume": "4",
@@ -142,7 +142,7 @@
     "Fradkov-2003": {
         "type": "book",
         "tag": "Fradkov-2003",
-        "title": "Cybernetical physics: {Principles and examples",
+        "title": "Cybernetical physics: {P}rinciples and examples",
         "author": "Fradkov, A.L.",
         "year": "2003",
         "publisher": "Nauka, SPb"
@@ -150,7 +150,7 @@
     "FradkovE-2005": {
         "type": "article",
         "tag": "FradkovE-2005",
-        "title": "Control of chaos: {Methods and applications in engineering",
+        "title": "Control of chaos: {M}ethods and applications in engineering",
         "author": "Fradkov, A.L. and Evans, R.J.",
         "journal": "Annual Reviews in Control",
         "volume": "29",
@@ -162,7 +162,7 @@
     "Fradkov-2007": {
         "type": "book",
         "tag": "Fradkov-2007",
-        "title": "Cybernetical physics: {From control of chaos to quantum control",
+        "title": "Cybernetical physics: {F}rom control of chaos to quantum control",
         "author": "Fradkov, A.L.",
         "year": "2007",
         "publisher": "Springer"
@@ -170,7 +170,7 @@
     "Bissell-1998": {
         "type": "article",
         "tag": "Bissell-1998",
-        "title": "{A.{A}. {A}ndronov and the development of {S}oviet control engineering",
+        "title": "A}.{A}. {A}ndronov and the development of {S}oviet control engineerin",
         "author": "Bissell, C.",
         "journal": "IEEE Control Systems Magazine",
         "volume": "18",
@@ -180,7 +180,7 @@
     "Skeel-1992": {
         "type": "article",
         "tag": "Skeel-1992",
-        "title": "Roundoff error and the {Patriot missile",
+        "title": "Roundoff error and the {P}atriot missile",
         "author": "Skeel, R.",
         "journal": "SIAM News",
         "volume": "25",
@@ -191,7 +191,7 @@
     "GuoGXDL-2018": {
         "type": "article",
         "tag": "GuoGXDL-2018",
-        "title": "Dynamics of a physical {SBT memristor-based {W}ien-bridge circuit",
+        "title": "Dynamics of a physical {SBT} memristor-based {W}ien-bridge circuit",
         "author": "Guo, M. and Gao, Z. and Xue, Y. and Dou, G. and Li, Y.",
         "journal": "Nonlinear Dynamics",
         "pages": "1--13",
@@ -213,7 +213,7 @@
     "SanoS-1985": {
         "type": "article",
         "tag": "SanoS-1985",
-        "title": "Measurement of the {Lyapunov spectrum from a chaotic time series",
+        "title": "Measurement of the {L}yapunov spectrum from a chaotic time series",
         "author": "Sano, Masaki and Sawada, Yasuji",
         "journal": "Physical Review Letters",
         "volume": "55",
@@ -233,8 +233,8 @@
     "PeitgenJS-2004": {
         "type": "book",
         "tag": "PeitgenJS-2004",
-        "title": "Chaos and fractals: {New frontiers of science",
-        "author": "Peitgen, H.-O. and J{\\\"urgens, H. and Saupe, D.",
+        "title": "Chaos and fractals: {N}ew frontiers of science",
+        "author": "Peitgen, H.-O. and J{\\\"u}rgens, H. and Saupe, D.",
         "year": "2004",
         "publisher": "Springer-Verlag New York"
     },
@@ -243,7 +243,7 @@
         "tag": "Sprott-2007",
         "title": "Maximally complex simple attractors",
         "author": "Sprott, J.C.",
-        "journal": "Chaos: {An Interdisciplinary Journal of Nonlinear Science",
+        "journal": "Chaos: {A}n Interdisciplinary Journal of Nonlinear Science",
         "volume": "17",
         "number": "3",
         "pages": "033124",
@@ -261,7 +261,7 @@
     "AwrejcewiczKEDBK-2018": {
         "type": "article",
         "tag": "AwrejcewiczKEDBK-2018",
-        "title": "Quantifying Chaos by Various Computational Methods. {Part 1: {S}imple Systems",
+        "title": "Quantifying Chaos by Various Computational Methods. {P}art 1: {S}imple Systems",
         "author": "Awrejcewicz, J. and Krysko, A.V. and Erofeev, N.P. and Dobriyan, V. and Barulina, M.A. and Krysko, V.A.",
         "journal": "Entropy",
         "volume": "20",
@@ -385,7 +385,7 @@
         "type": "article",
         "tag": "LehnertHFGFS-2011",
         "title": "Adaptive tuning of feedback gain in time-delayed feedback control",
-        "author": "Lehnert, J. and H{\\\"ovel, P. and Flunkert, V. and Guzenko, P.Yu. and Fradkov, A.L. and Sch{\\\"o}ll, E.",
+        "author": "Lehnert, J. and H{\\\"o}vel, P. and Flunkert, V. and Guzenko, P.Yu. and Fradkov, A.L. and Sch{\\\"o}ll, E.",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "21",
         "number": "4",
@@ -442,7 +442,7 @@
     "Thomas-1999": {
         "type": "article",
         "tag": "Thomas-1999",
-        "title": "The {R{\\\"o}ssler equations revisited in terms of feedback circuits",
+        "title": "The {R}{\\\"o}ssler equations revisited in terms of feedback circuits",
         "author": "Thomas, R",
         "journal": "Journal of Biological Systems",
         "volume": "7",
@@ -466,8 +466,8 @@
     "Algaba-2015": {
         "type": "article",
         "tag": "Algaba-2015",
-        "title": "An exact homoclinic orbit and its connection with the {R{\\\"o}ssler system",
-        "author": "Algaba, A. and Freire, E. and Gamero, E. and Rodr{\\'\\iguez-Luis, A.J.",
+        "title": "An exact homoclinic orbit and its connection with the {R}{\\\"o}ssler system",
+        "author": "Algaba, A. and Freire, E. and Gamero, E. and Rodr{\\'\\i}guez-Luis, A.J.",
         "journal": "Physics Letters A",
         "volume": "379",
         "number": "16-17",
@@ -500,7 +500,7 @@
     "MuraliL-1993": {
         "type": "article",
         "tag": "MuraliL-1993",
-        "title": "Transmission of signals by synchronization in a chaotic Van der Pol\\char21{Duffing oscillator",
+        "title": "Transmission of signals by synchronization in a chaotic Van der Pol\\char21{}Duffing oscillator",
         "author": "Murali, K. and Lakshmanan, M.",
         "journal": "Phys. Rev. E",
         "volume": "48",
@@ -522,7 +522,7 @@
     "Andronov-1929": {
         "type": "article",
         "tag": "Andronov-1929",
-        "title": "Les cycles limites de {Poincar{\\'e} et la th{\\'e}orie des oscillations auto-entretenues",
+        "title": "Les cycles limites de {P}oincar{\\'e} et la th{\\'e}orie des oscillations auto-entretenues",
         "author": "Andronov, A.A.",
         "journal": "CR Acad. Sci. Paris",
         "volume": "189",
@@ -574,7 +574,7 @@
     "OvsyannikovT-2017": {
         "type": "article",
         "tag": "OvsyannikovT-2017",
-        "title": "Analytic proof of the existence of the {Lorenz attractor in the extended {L}orenz model",
+        "title": "Analytic proof of the existence of the {L}orenz attractor in the extended {L}orenz model",
         "author": "Ovsyannikov, I.I. and Turaev, D.V.",
         "journal": "Nonlinearity",
         "volume": "30",
@@ -628,7 +628,7 @@
     "PiiroinenK-2008": {
         "type": "article",
         "tag": "PiiroinenK-2008",
-        "title": "An event-driven method to simulate {Filippov systems with accurate computing of sliding motions",
+        "title": "An event-driven method to simulate {F}ilippov systems with accurate computing of sliding motions",
         "author": "Piiroinen, P. T. and Kuznetsov, Yu. A.",
         "journal": "ACM Transactions on Mathematical Software (TOMS)",
         "volume": "34",
@@ -659,7 +659,7 @@
         "type": "article",
         "tag": "ParhomovskyP-1971",
         "author": "Parhomovsky, Ya. and Popov, L.",
-        "title": "Keldysh's research in {TsAGI on the self-oscillations of aircraft structures",
+        "title": "Keldysh's research in {TsAGI} on the self-oscillations of aircraft structures",
         "journal": "Tr. TsAGI (in Russian)",
         "volume": "II",
         "number": "1",
@@ -688,7 +688,7 @@
     "FalcoliniTL-2016": {
         "type": "article",
         "tag": "FalcoliniTL-2016",
-        "title": "Backbones in the parameter plane of the {H{\\'e}non map",
+        "title": "Backbones in the parameter plane of the {H}{\\'e}non map",
         "author": "Falcolini, C. and Tedeschini-Lalli, L.",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "26",
@@ -701,7 +701,7 @@
         "type": "article",
         "tag": "FalcoliniTL-2013",
         "author": "Falcolini, C. and Tedeschini-Lalli, L.",
-        "title": "{Henon map: simple sinks gaining coexistence as $b>1$",
+        "title": "H}enon map: simple sinks gaining coexistence as $b>1",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "23",
         "number": "09",
@@ -712,7 +712,7 @@
         "type": "article",
         "tag": "GaliasT-2013",
         "author": "Galias, Z. and Tucker, W.",
-        "title": "Numerical study of coexisting attractors for the {Henon map",
+        "title": "Numerical study of coexisting attractors for the {H}enon map",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "23",
         "number": "07",
@@ -756,7 +756,7 @@
     "GrassbergerKM-1989": {
         "type": "article",
         "tag": "GrassbergerKM-1989",
-        "title": "On the symbolic dynamics of the {H{\\'e}non map",
+        "title": "On the symbolic dynamics of the {H}{\\'e}non map",
         "author": "Grassberger, P. and Kantz, H. and Moenig, U.",
         "journal": "Journal of Physics A: Mathematical and General",
         "volume": "22",
@@ -768,7 +768,7 @@
     "VallejoS-2017": {
         "type": "book",
         "tag": "VallejoS-2017",
-        "title": "Predictability of Chaotic Dynamics: A Finite-time {Lyapunov Exponents Approach",
+        "title": "Predictability of Chaotic Dynamics: A Finite-time {L}yapunov Exponents Approach",
         "author": "Vallejo, J.C. and Sanjuan, M.A.F.",
         "year": "2017",
         "publisher": "Springer",
@@ -787,7 +787,7 @@
         "tag": "ReitmannS-2000",
         "title": "Hausdorff dimension estimates for invariant sets of piecewise smooth maps",
         "author": "Reitmann, V. and Schnabel, U.",
-        "journal": "ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift f{\\\"ur Angewandte Mathematik und Mechanik",
+        "journal": "ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift f{\\\"u}r Angewandte Mathematik und Mechanik",
         "volume": "80",
         "number": "9",
         "pages": "623--632",
@@ -839,7 +839,7 @@
         "type": "article",
         "tag": "NekorkinC-1993",
         "author": "Nekorkin, V.I. and Chua, L.O.",
-        "title": "Spatial disorder and wave fronts in a chain of coupled {Chua's circuits",
+        "title": "Spatial disorder and wave fronts in a chain of coupled {C}hua's circuits",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "03",
         "number": "05",
@@ -858,7 +858,7 @@
     "Chua2-1992": {
         "type": "article",
         "tag": "Chua2-1992",
-        "title": "The genesis of {Chua's circuit",
+        "title": "The genesis of {C}hua's circuit",
         "author": "Chua, L.",
         "journal": "International Journal of Electronics and Communications",
         "volume": "46",
@@ -869,7 +869,7 @@
     "Chua-1993": {
         "type": "article",
         "tag": "Chua-1993",
-        "title": "Global unfolding of {Chua's circuit",
+        "title": "Global unfolding of {C}hua's circuit",
         "author": "Chua, L.",
         "journal": "IEICE Transactions on Fundamentals of Electronics, Communications, Computer Science",
         "volume": "E76-A",
@@ -914,7 +914,7 @@
     "GeistPL-1990": {
         "type": "article",
         "tag": "GeistPL-1990",
-        "title": "Comparison of different methods for computing {Lyapunov exponents",
+        "title": "Comparison of different methods for computing {L}yapunov exponents",
         "author": "Geist, Karlheinz and Parlitz, Ulrich and Lauterborn, Werner",
         "journal": "Progress of Theoretical Physics",
         "volume": "83",
@@ -926,7 +926,7 @@
     "RutishauserS-1963": {
         "type": "article",
         "tag": "RutishauserS-1963",
-        "title": "The {LR transformation method for symmetric matrices",
+        "title": "The {LR} transformation method for symmetric matrices",
         "author": "Rutishauser, H. and Schwarz, H.R.",
         "journal": "Numerische Mathematik",
         "volume": "5",
@@ -961,7 +961,7 @@
     "TelG-2006": {
         "type": "book",
         "tag": "TelG-2006",
-        "title": "Chaotic dynamics: {An introduction based on classical mechanics",
+        "title": "Chaotic dynamics: {A}n introduction based on classical mechanics",
         "author": "Tel, T. and Gruiz, M.",
         "publisher": "Cambridge University Press",
         "year": "2006"
@@ -981,7 +981,7 @@
     "BorghezanR-2017": {
         "type": "article",
         "tag": "BorghezanR-2017",
-        "title": "Chaos and periodicity in {Vallis model for {E}l {N}i{\\~n}o",
+        "title": "Chaos and periodicity in {V}allis model for {E}l {N}i{\\~n}o",
         "author": "Borghezan, Monik and Rech, Paulo C",
         "journal": "Chaos, Solitons \\& Fractals",
         "volume": "97",
@@ -1004,7 +1004,7 @@
     "KehletL-2013": {
         "type": "inproceedings",
         "tag": "KehletL-2013",
-        "title": "Quantifying the computability of the {Lorenz system using a posteriori analysis",
+        "title": "Quantifying the computability of the {L}orenz system using a posteriori analysis",
         "author": "Kehlet, Benjamin and Logg, Anders",
         "booktitle": "Proceedings of the VI Int. conf. on Adaptive Modeling and Simulation (ADMOS 2013)",
         "year": "2013",
@@ -1029,7 +1029,7 @@
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "27",
         "number": "03",
-        "note": "{art. {n}um. 1750037",
+        "note": "a}rt. {n}um. 175003",
         "year": "2017"
     },
     "YorkeY-1979": {
@@ -1094,7 +1094,7 @@
         "type": "article",
         "tag": "KocakP-2010",
         "author": "Kocak, H. and Palmer, K.J.",
-        "title": "{Lyapunov Exponents and Sensitive Dependence",
+        "title": "L}yapunov Exponents and Sensitive Dependenc",
         "journal": "Journal of Dynamics and Differential Equations",
         "year": "2010",
         "volume": "22",
@@ -1105,7 +1105,7 @@
         "type": "article",
         "tag": "CzornikNN-2013",
         "author": "Czornik, A. and Nawrat, A. and Niezabitowski, M.",
-        "title": "{Lyapunov exponents for discrete time-varying systems",
+        "title": "L}yapunov exponents for discrete time-varying system",
         "journal": "Studies in Computational Intelligence",
         "year": "2013",
         "volume": "440",
@@ -1115,12 +1115,12 @@
         "type": "article",
         "tag": "Hertz-2013",
         "author": "Hertz, J.R.",
-        "title": "Some advances on generic properties of the {Oseledets splitting",
+        "title": "Some advances on generic properties of the {O}seledets splitting",
         "journal": "Discrete and Continuous Dynamical Systems- Series A",
         "year": "2013",
         "volume": "33",
         "number": "9",
-        "pages": "4323-4339%%%%%%% MULTISTISTABILITY %%%%%%%%%%%%%%%%"
+        "pages": "4323-4339}%%%%%%% MULTISTISTABILITY %%%%%%%%%%%%%%%"
     },
     "PisarchikF-2014": {
         "type": "article",
@@ -1192,7 +1192,7 @@
     "GaliasT-2008-LorenzUpo": {
         "type": "inproceedings",
         "tag": "GaliasT-2008-LorenzUpo",
-        "title": "Short periodic orbits for the {Lorenz system",
+        "title": "Short periodic orbits for the {L}orenz system",
         "author": "Galias, Z. and Tucker, W.",
         "booktitle": "2008 International Conference on Signals and Electronic Systems",
         "pages": "285--288",
@@ -1218,7 +1218,7 @@
         "year": "2013",
         "volume": "23",
         "number": "5",
-        "note": "{a}rt. num. 1350093\""
+        "note": "a}rt. num. 1350093"
     },
     "YangWC-2010": {
         "type": "article",
@@ -1274,7 +1274,7 @@
         "type": "article",
         "tag": "WeiP-2012",
         "author": "Z. Wei and I. Pehlivan",
-        "title": "Chaos, coexisting attractors, and circuit design of the generalized {Sprott {C} system with only two stable equilibria",
+        "title": "Chaos, coexisting attractors, and circuit design of the generalized {S}prott {C} system with only two stable equilibria",
         "journal": "Optoelectronics and advanced materials - rapid communications",
         "pages": "742-745",
         "year": "2012",
@@ -1296,7 +1296,7 @@
         "year": "2014",
         "journal": "Nonlinear Dynamics",
         "doi": "10.1007/s11071-014-1709-2",
-        "title": "Study of the {Hopf bifurcation in the {L}orenz, {C}hen and {L}u systems",
+        "title": "Study of the {H}opf bifurcation in the {L}orenz, {C}hen and {L}u systems",
         "publisher": "Springer Netherlands",
         "author": "Algaba, A. and Dominguez-Moreno, M.C. and Merino, M. and Rodriguez-Luis, A.J."
     },
@@ -1304,7 +1304,7 @@
         "type": "article",
         "tag": "Sprott-2015-IJBC",
         "author": "Sprott, J. C.",
-        "title": "New chaotic regimes in the {Lorenz and {C}hen systems",
+        "title": "New chaotic regimes in the {L}orenz and {C}hen systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "25",
         "number": "2",
@@ -1320,7 +1320,7 @@
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "24",
         "number": "6",
-        "note": "{art. num. 1450086",
+        "note": "a}rt. num. 145008",
         "year": "2014"
     },
     "LiSprott-2014-PLA-cu": {
@@ -1338,10 +1338,10 @@
         "type": "article",
         "tag": "LiSprott-2014-cu",
         "author": "Li, C. and Sprott, J.C.",
-        "title": "Coexisting hidden attractors in a 4-d simplified {Lorenz system",
+        "title": "Coexisting hidden attractors in a 4-d simplified {L}orenz system",
         "journal": "International Journal of Bifurcation and Chaos",
         "year": "2014",
-        "pages": "{a}rt. no. 1300260"
+        "pages": "a}rt. no. 130026"
     },
     "LiSprott-2013-cu": {
         "type": "article",
@@ -1352,7 +1352,7 @@
         "year": "2014",
         "volume": "23",
         "number": "12",
-        "note": "{a}rt. num. 1350199"
+        "note": "a}rt. num. 135019"
     },
     "JafariS-2013-cu": {
         "type": "article",
@@ -1374,7 +1374,7 @@
         "year": "2013",
         "volume": "23",
         "number": "11",
-        "note": "{art. num. 1350188%%%%%%%%%% {L}yapunov quantities %%%%%%%%%%%%%%%%%%%"
+        "note": "a}rt. num. 1350188}%%%%%%%%%% {L}yapunov quantities %%%%%%%%%%%%%%%%%"
     },
     "BorodzikZ-2008": {
         "type": "article",
@@ -1667,7 +1667,7 @@
         "journal": "Chaos",
         "year": "2013",
         "volume": "23",
-        "pages": "{a}rt. num. 033108",
+        "pages": "a}rt. num. 03310",
         "doi": "10.1063/1.4813227\""
     },
     "AlgabaEtAll-2013-PLA": {
@@ -1684,11 +1684,11 @@
         "type": "article",
         "tag": "ChenY-2013",
         "author": "YUMING Chen and QIGUI Yang",
-        "title": "The nonequivalence and dimension formula for attractors of {Lorenz-type systems",
+        "title": "The nonequivalence and dimension formula for attractors of {L}orenz-type systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "23",
         "number": "12",
-        "note": "{art. num. 1350200",
+        "note": "a}rt. num. 135020",
         "year": "2013",
         "doi": "10.1142/S0218127413502003"
     },
@@ -1696,7 +1696,7 @@
         "type": "article",
         "tag": "Chen-2013",
         "author": "Chen, G.",
-        "title": "The {Chen system revisited",
+        "title": "The {C}hen system revisited",
         "journal": "Dynamics of Continuous, Discrete and Impulsive Systems",
         "volume": "20",
         "year": "2013",
@@ -1716,7 +1716,7 @@
     "SprottL-2017": {
         "type": "article",
         "tag": "SprottL-2017",
-        "title": "Asymmetric bistability in the {R{\\\"o}ssler system",
+        "title": "Asymmetric bistability in the {R}{\\\"o}ssler system",
         "author": "Sprott, J. C. and Li, C.",
         "journal": "Acta Physica Polonica B",
         "volume": "48",
@@ -1945,8 +1945,8 @@
         "author": "Petrovskii, I.G. and Landis, Ye.M.",
         "year": "1959",
         "title": "Corrections to the papers",
-        "on the number of limit cycles of the equation $\\frac{dy}{dx}": "\\fracP(x,y){Q(x,y)}$,where {$P$} and {$Q$} are 2-th degree polynomialsi??and",
-        "on the number of limiting cycles of the equation $\\frac{dy}{dx}": "\\fracP(x,y){Q(x,y)}$,where {$P$} and {$Q$} are polynomials\",",
+        "on the number of limit cycles of the equation $\\frac{dy}{dx}": "\\frac{P(x,y)}{Q(x,y)}$,where {$P$} and {$Q$} are 2-th degree polynomialsi??and",
+        "on the number of limiting cycles of the equation $\\frac{dy}{dx}": "\\frac{P(x,y)}{Q(x,y)}$,where {$P$} and {$Q$} are polynomials\",",
         "journal": "Mat. Sb. (N.S.)",
         "volume": "48(90)",
         "issue": "2",
@@ -2036,7 +2036,7 @@
     "KLurie-2001": {
         "type": "article",
         "tag": "KLurie-2001",
-        "title": "Some Recollections About {Anatolii {I}sakovich {L}urie",
+        "title": "Some Recollections About {A}natolii {I}sakovich {L}urie",
         "author": "Lurie, K.",
         "journal": "IFAC Proceedings Volumes",
         "volume": "34",
@@ -2519,7 +2519,7 @@
     "Popov-1959": {
         "type": "article",
         "tag": "Popov-1959",
-        "title": "Criterii de stabilitate pentru sistemele neliniare de reglare automata, bazate pe utilizarea transformatei {Laplace",
+        "title": "Criterii de stabilitate pentru sistemele neliniare de reglare automata, bazate pe utilizarea transformatei {L}aplace",
         "author": "Popov, V.M.",
         "journal": "Studii Cercet. Energ. (in Romanian)",
         "volume": "9",
@@ -2565,7 +2565,7 @@
     "Bongiorno-1963": {
         "type": "article",
         "tag": "Bongiorno-1963",
-        "title": "An extension of the {Nyquist-{B}arkhausen stability criterion to linear lumped-parameter systems with time-varying elements",
+        "title": "An extension of the {N}yquist-{B}arkhausen stability criterion to linear lumped-parameter systems with time-varying elements",
         "author": "Bongiorno, J.J.",
         "journal": "IEEE Transactions on Automatic Control",
         "volume": "8",
@@ -2599,7 +2599,7 @@
         "tag": "BravermanMP-1975",
         "author": "Braverman, E.M. and Meyerkov, S.M. and Pyatnitskii, Ye.S.",
         "year": "1975",
-        "title": "The small parameter in the problem ofthe substantiation of the harmonic balance method (in the case of the filter hypothesis), {I{II}\",",
+        "title": "The small parameter in the problem ofthe substantiation of the harmonic balance method (in the case of the filter hypothesis), {I}{II}\",",
         "journal": "Avtomatika i Telemekhanika (in Russian)",
         "number": "1,2",
         "pages": "5-21, 5-12\""
@@ -2621,7 +2621,7 @@
         "author": "Krasnosel'skii, M.A.",
         "title": "The Operator of Translation along the Trajectories of Differential Equations",
         "publisher": "American Mathematical Society",
-        "address": "{Providence, Rhode Island}",
+        "address": "Providence, Rhode Island",
         "year": "1968"
     },
     "Malkin-1966": {
@@ -2897,9 +2897,9 @@
     "Lynch-2010": {
         "type": "book",
         "tag": "Lynch-2010",
-        "title": "Dynamical Systems with Applications Using {MAPLE",
+        "title": "Dynamical Systems with Applications Using {MAPLE}",
         "author": "Lynch, S.",
-        "publisher": "Birkh{\\\"auser",
+        "publisher": "Birkh{\\\"a}user",
         "year": "2010\""
     },
     "MarsdenMcC-1976": {
@@ -2974,7 +2974,7 @@
     "Rantzer-1996": {
         "type": "article",
         "tag": "Rantzer-1996",
-        "title": "On the {Kalman-{Y}akubovich-{P}opov lemma",
+        "title": "On the {K}alman-{Y}akubovich-{P}opov lemma",
         "author": "Rantzer, A.",
         "journal": "Systems \\& Control Letters",
         "volume": "28",
@@ -2985,7 +2985,7 @@
     "Rantzer-2001": {
         "type": "article",
         "tag": "Rantzer-2001",
-        "title": "A dual to {Lyapunov's stability theorem",
+        "title": "A dual to {L}yapunov's stability theorem",
         "author": "Rantzer, A.",
         "journal": "Systems \\& Control Letters",
         "volume": "42",
@@ -3000,7 +3000,7 @@
         "author": "Rantzer, A.",
         "booktitle": "Proceedings of the IEEE Conference on Decision and Control",
         "pages": "899--900",
-        "title": "{Almost global stability of phase-locked loops",
+        "title": "Almost global stability of phase-locked loops",
         "volume": "1",
         "year": "2001"
     },
@@ -3030,7 +3030,7 @@
         "tag": "Schuko-1968",
         "author": "Schuko, S.D.",
         "year": "1968",
-        "title": "{L}yapunov quantities computation with the help of {EVZM}",
+        "title": "L}yapunov quantities computation with the help of {EVZM",
         "journal": "Trudy Gor'kovskogo inst. inzh. vodn. transp. (in Russian)",
         "volume": "94",
         "pages": "97-109\""
@@ -3126,7 +3126,7 @@
     "Yakubovich-1964-I": {
         "type": "article",
         "tag": "Yakubovich-1964-I",
-        "title": "Method of matrix unequalities in theory of nonlinear control systems stability. {I.{F}orced oscillations absolute stability",
+        "title": "Method of matrix unequalities in theory of nonlinear control systems stability. {I}.{F}orced oscillations absolute stability",
         "author": "Yakubovich, V. A.",
         "journal": "Automation and Remore control",
         "volume": "25",
@@ -3159,7 +3159,7 @@
     "Kalman-1963": {
         "type": "article",
         "tag": "Kalman-1963",
-        "title": "Lyapunov functions for the problem of {Lur'e in automatic control",
+        "title": "Lyapunov functions for the problem of {L}ur'e in automatic control",
         "author": "Kalman, R.E.",
         "journal": "Proceedings of the National Academy of Sciences of the United States of America",
         "volume": "49",
@@ -3221,7 +3221,7 @@
     "GusevL-2006": {
         "type": "article",
         "tag": "GusevL-2006",
-        "title": "Kalman-{Popov-{Y}akubovich lemma and the {S}-procedure: A historical essay",
+        "title": "Kalman-{P}opov-{Y}akubovich lemma and the {S}-procedure: A historical essay",
         "author": "Gusev, S.V. and Likhtarnikov, A.L.",
         "journal": "Automation and Remote Control",
         "volume": "67",
@@ -3234,7 +3234,7 @@
         "type": "article",
         "tag": "Bissel-1998",
         "author": "Bissel, C. ",
-        "title": "{A}.{A}. {A}ndronov and the development of {S}oviet control engineering.",
+        "title": "A}.{A}. {A}ndronov and the development of {S}oviet control engineering",
         "journal": "IEEE Control Systems Magazine",
         "year": "1998,",
         "volume": "18,",
@@ -3243,7 +3243,7 @@
     "LipkovichF-2015": {
         "type": "article",
         "tag": "LipkovichF-2015",
-        "title": "Equivalence of {M{I}{M}{O} circle criterion to existence of quadratic {L}yapunov function",
+        "title": "Equivalence of {M}{I}{M}{O} circle criterion to existence of quadratic {L}yapunov function",
         "author": "Lipkovich, M. and Fradkov, A.",
         "journal": "IEEE Transactions on Automatic Control",
         "volume": "61",
@@ -3275,7 +3275,7 @@
     "LurieR-1960-IFAC": {
         "type": "article",
         "tag": "LurieR-1960-IFAC",
-        "title": "On methods of constructing {Lyapunov functions in the theory of nonlinear control systems",
+        "title": "On methods of constructing {L}yapunov functions in the theory of nonlinear control systems",
         "author": "Lurie, A.I. and Rosenwasser, E.N.",
         "journal": "IFAC Proceedings Volumes",
         "volume": "1",
@@ -3299,7 +3299,7 @@
     "Barbashin-1960-IFAC": {
         "type": "article",
         "tag": "Barbashin-1960-IFAC",
-        "title": "The construction of {Lyapunov functions for nonlinear systems",
+        "title": "The construction of {L}yapunov functions for nonlinear systems",
         "author": "Barbashin, E.A.",
         "journal": "IFAC Proceedings Volumes",
         "volume": "1",
@@ -3351,7 +3351,7 @@
     "Glutsuk-1994": {
         "type": "article",
         "tag": "Glutsuk-1994",
-        "title": "The complete solution of the {Jacobian problem for planar vector fields",
+        "title": "The complete solution of the {J}acobian problem for planar vector fields",
         "author": "Glutsuk, A.A.",
         "journal": "Uspekhi Mat. Nauk",
         "volume": "49",
@@ -3362,8 +3362,8 @@
     "Febler-1995": {
         "type": "inproceedings",
         "tag": "Febler-1995",
-        "title": "A proof of the two-dimensional {Markus-{Y}amabe stability conjecture and a generalization",
-        "author": "Fe{\\ssler, Robert",
+        "title": "A proof of the two-dimensional {M}arkus-{Y}amabe stability conjecture and a generalization",
+        "author": "Fe{\\ss}ler, Robert",
         "booktitle": "Annales Polonici Mathematici",
         "volume": "62",
         "pages": "45--74",
@@ -3501,7 +3501,7 @@
     "AndronovM-1944": {
         "type": "article",
         "tag": "AndronovM-1944",
-        "title": "The {Mizes problem in the theory of direct control and the theoryof point transformations of surfaces",
+        "title": "The {M}izes problem in the theory of direct control and the theoryof point transformations of surfaces",
         "author": "Andronov, A.A. and Maier, A.G.",
         "journal": "Dokl. Akad. Nauk SSSR (In Russian)",
         "volume": "43",
@@ -3512,7 +3512,7 @@
     "AndronovM-1945": {
         "type": "article",
         "tag": "AndronovM-1945",
-        "title": "The {Vyshnegradky problem in the theory of direct control",
+        "title": "The {V}yshnegradky problem in the theory of direct control",
         "author": "Andronov, A.A. and Maier, A.G.",
         "journal": "Dokl. Akad. Nauk SSSR (In Russian)",
         "volume": "47",
@@ -3707,7 +3707,7 @@
         "author": "Shokir, E.M.",
         "journal": "J. Oil and Gas Bus.",
         "volume": "1",
-        "title": "A Novel {PC Program for Drill String Failure Detection and Prevention before and while Drilling Specially in New Areas",
+        "title": "A Novel {PC} Program for Drill String Failure Detection and Prevention before and while Drilling Specially in New Areas",
         "year": "2004"
     },
     "Vaisberg-2002": {
@@ -3859,7 +3859,7 @@
         "type": "article",
         "tag": "BenettinGGS-1980-Part1",
         "author": "G. Benettin and L. Galgani and A. Giorgilli and J.-M. Strelcyn",
-        "title": "{Lyapunov Characteristic Exponents for Smooth Dynamical Systems and For Hamiltonian Systems.{A} Method for Computing all of Them. {P}art 1: Theory",
+        "title": "L}yapunov Characteristic Exponents for Smooth Dynamical Systems and For Hamiltonian Systems.{A} Method for Computing all of Them. {P}art 1: Theor",
         "journal": "Meccanica",
         "year": "1980",
         "volume": "15",
@@ -3877,7 +3877,7 @@
         "type": "article",
         "tag": "BenettinGGS-1980-Part2",
         "author": "G. Benettin and L. Galgani and A. Giorgilli and J.-M. Strelcyn",
-        "title": "{Lyapunov Characteristic Exponents for Smooth Dynamical Systems and For Hamiltonian Systems.{A} Method for Computing all of Them. {P}art 2: Numerical Application",
+        "title": "L}yapunov Characteristic Exponents for Smooth Dynamical Systems and For Hamiltonian Systems.{A} Method for Computing all of Them. {P}art 2: Numerical Applicatio",
         "journal": "Meccanica",
         "year": "1980",
         "volume": "15",
@@ -3921,7 +3921,7 @@
         "type": "article",
         "tag": "KaplanY-1979-CMP",
         "author": "J. L. Kaplan and J. A. Yorke",
-        "title": "Preturbulence: A regime observed in a fluid flow model of {Lorenz",
+        "title": "Preturbulence: A regime observed in a fluid flow model of {L}orenz",
         "journal": "Communications in Mathematical Physics",
         "pages": "93-108",
         "volume": "67",
@@ -3941,7 +3941,7 @@
         "type": "inbook",
         "tag": "AugustovaBC-2015",
         "author": "Augustova, P. and Beran, Z and Celikovsky, S.",
-        "title": "{ISCS} 2014: Interdisciplinary Symposium on Complex Systems, Emergence, Complexity and Computation(Eds.: {A}. {S}anayei et al.)\",",
+        "title": "ISCS} 2014: Interdisciplinary Symposium on Complex Systems, Emergence, Complexity and Computation(Eds.: {A}. {S}anayei et al.)\"",
         "chapter": "On Some False Chaos Indicators When Analyzing Sampled Data",
         "publisher": "Springer",
         "pages": "249-258",
@@ -3960,18 +3960,18 @@
         "type": "article",
         "tag": "Rossler-1976-ZNTA-Chem",
         "title": "Chaotic behavior in simple reaction systems",
-        "author": "R{\\\"ossler, O.E.",
-        "journal": "Zeitschrift f{\\\"ur Naturforschung A",
+        "author": "R{\\\"o}ssler, O.E.",
+        "journal": "Zeitschrift f{\\\"u}r Naturforschung A",
         "volume": "31",
         "number": "3-4",
         "pages": "259--264",
         "year": "1976",
-        "publisher": "Verlag der Zeitschrift f{\\\"ur Naturforschung}"
+        "publisher": "Verlag der Zeitschrift f{\\\"u}r Naturforschung"
     },
     "Rossler-1976-ZNTA": {
         "type": "article",
         "tag": "Rossler-1976-ZNTA",
-        "author": "R{\\\"ossler, O.E.",
+        "author": "R{\\\"o}ssler, O.E.",
         "title": "Different Types of Chaos in Two Simple Differential Equations",
         "journal": "Zeitschrift Naturforschung Teil A",
         "year": "1976",
@@ -3981,8 +3981,8 @@
     "Rossler-1977-BMB": {
         "type": "article",
         "tag": "Rossler-1977-BMB",
-        "title": "Chaos in abstract kinetics: {Two prototypes",
-        "author": "R{\\\"ossler, O.E.",
+        "title": "Chaos in abstract kinetics: {T}wo prototypes",
+        "author": "R{\\\"o}ssler, O.E.",
         "journal": "Bulletin of mathematical biology",
         "volume": "39",
         "number": "2",
@@ -3993,7 +3993,7 @@
     "Rossler-1979": {
         "type": "article",
         "tag": "Rossler-1979",
-        "author": "R{\\\"ossler, O.E.",
+        "author": "R{\\\"o}ssler, O.E.",
         "title": "Continuous Chaos - Four Prototype Equations",
         "journal": "Annals of the New York Academy of Sciences",
         "year": "1979",
@@ -4005,7 +4005,7 @@
         "type": "article",
         "tag": "Oseledec-1968",
         "author": "Oseledets, V.I.",
-        "title": "A multiplicative ergodic theorem. {Characteristic {L}japunov, exponents of dynamical systems",
+        "title": "A multiplicative ergodic theorem. {C}haracteristic {L}japunov, exponents of dynamical systems",
         "journal": "Trudy Moskovskogo Matematicheskogo Obshchestva (in Russian)",
         "volume": "19",
         "pages": "179-210",
@@ -4037,7 +4037,7 @@
         "type": "article",
         "tag": "LetellierEAA-2004",
         "author": "C. Letellier and S. Elaydi and L A. Aguirre and A. Alaoui",
-        "title": "Difference Equations Versus Differential  Equations, a Possible Equivalence for the {Rossler System?",
+        "title": "Difference Equations Versus Differential  Equations, a Possible Equivalence for the {R}ossler System?",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "2004",
         "volume": "195",
@@ -4049,7 +4049,7 @@
         "type": "article",
         "tag": "LainscsekLG-2003",
         "author": "C. Lainscsek and C. Letellier and I. Gorodnitsky",
-        "title": "Global Modeling of the {Rossler System from the Z-Variable",
+        "title": "Global Modeling of the {R}ossler System from the Z-Variable",
         "journal": "Physics Letters A",
         "year": "2009",
         "volume": "314",
@@ -4061,7 +4061,7 @@
         "type": "article",
         "tag": "BarrioBS-2009",
         "author": "Barrio, R. and Blesa, F. and Serrano, S.",
-        "title": "Qualitative Analysis of the {Rossler Equations: Bifurcations of Limit Cycles and Chaotic Attractors",
+        "title": "Qualitative Analysis of the {R}ossler Equations: Bifurcations of Limit Cycles and Chaotic Attractors",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "2009",
         "volume": "238",
@@ -4073,7 +4073,7 @@
         "type": "article",
         "tag": "BarrioBS-2011",
         "author": "Barrio, R. and Blesa, F. and Serrano, S.",
-        "title": "Qualitative and Numerical Analysis of the {Rossler Model: Bifurcations of Equilibria",
+        "title": "Qualitative and Numerical Analysis of the {R}ossler Model: Bifurcations of Equilibria",
         "journal": "Computers and Mathematics with Applications",
         "year": "2011",
         "volume": "62",
@@ -4084,7 +4084,7 @@
     "BarrioBS-2014": {
         "type": "article",
         "tag": "BarrioBS-2014",
-        "title": "Unbounded dynamics in dissipative flows: {R{\\\"o}ssler model",
+        "title": "Unbounded dynamics in dissipative flows: {R}{\\\"o}ssler model",
         "author": "Barrio, R. and Blesa, F. and Serrano, S.",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "24",
@@ -4096,7 +4096,7 @@
     "BarrioDT-2015-LorenzUpo": {
         "type": "article",
         "tag": "BarrioDT-2015-LorenzUpo",
-        "title": "A database of rigorous and high-precision periodic orbits of the {Lorenz model",
+        "title": "A database of rigorous and high-precision periodic orbits of the {L}orenz model",
         "author": "Barrio, R. and Dena, A. and Tucker, W.",
         "journal": "Computer Physics Communications",
         "volume": "194",
@@ -4108,7 +4108,7 @@
         "type": "article",
         "tag": "SzczepaniakM-2008",
         "author": "A. Szczepaniak and W. M. Macek",
-        "title": "Unstable Manifolds for the Hyperchaotic {Rossler System",
+        "title": "Unstable Manifolds for the Hyperchaotic {R}ossler System",
         "journal": "Physics Letters A",
         "year": "2008",
         "volume": "372",
@@ -4120,7 +4120,7 @@
         "type": "article",
         "tag": "Li-2008",
         "author": "Q. Li",
-        "title": "A Topological Horseshoe in the Hyperchaotic {Rossler Attractor",
+        "title": "A Topological Horseshoe in the Hyperchaotic {R}ossler Attractor",
         "journal": "Physics Letters A",
         "year": "2008",
         "volume": "372",
@@ -4149,7 +4149,7 @@
         "type": "article",
         "tag": "YauR-2000",
         "author": "G. Yan and L. Ruan",
-        "title": "Lattice {Boltzmann solver of {R}ossler equation",
+        "title": "Lattice {B}oltzmann solver of {R}ossler equation",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
         "year": "2000",
         "volume": "5",
@@ -4278,7 +4278,7 @@
     "Mihailovic-2005": {
         "type": "book",
         "tag": "Mihailovic-2005",
-        "author": "N. Mihajlovi\\'{c",
+        "author": "N. Mihajlovi\\'{c}",
         "title": "Torsional and lateral vibrations in flexible rotor systems with friction",
         "publisher": "Ph.D. dissertation, Eindhoven University of Technology",
         "year": "2005",
@@ -4360,7 +4360,7 @@
         "type": "book",
         "tag": "Kovacs-1983",
         "title": "Transient phenomena in electrical machines.",
-        "author": "Kov{\\'acs, P.K.",
+        "author": "Kov{\\'a}cs, P.K.",
         "year": "1983"
     },
     "Maxwell-1868": {
@@ -4423,7 +4423,7 @@
         "title": "Induction motor control design",
         "publisher": "Springer",
         "year": "2010",
-        "address": "The Netherlands%%%%%%%%%%%%%%%% DRILLING SYSTEMS PATENTS"
+        "address": "The Netherlands}%%%%%%%%%%%%%%%% DRILLING SYSTEMS PATENT"
     },
     "wilxins1930well": {
         "type": "misc",
@@ -4455,7 +4455,7 @@
     "LaSalle-1960": {
         "type": "article",
         "tag": "LaSalle-1960",
-        "title": "Some extensions of {Liapunov's second method",
+        "title": "Some extensions of {L}iapunov's second method",
         "author": "LaSalle, J.P",
         "journal": "IRE Transactions on circuit theory",
         "volume": "7",
@@ -4476,7 +4476,7 @@
     "AstromRundqwist_ACC89": {
         "type": "inproceedings",
         "tag": "AstromRundqwist_ACC89",
-        "author": "K.J. {\\AA{}str\\\"{o}m and L.  Rundqwist",
+        "author": "K.J. {\\AA}{}str\\\"{o}m and L.  Rundqwist",
         "title": "Integrator windup and how to avoid it",
         "booktitle": "Proc. Amer. Control Conf. (ACC'89)",
         "year": "1989",
@@ -4498,7 +4498,7 @@
         "type": "article",
         "tag": "GarciaTarbouriech_IEE04",
         "title": "Pole assignment in a disk for linear systems by staticoutput feedback",
-        "author": "G. Garcia and S. Tarbouriech and {J.M. Gomes~Da~Silva,~Jr. and E.B. Castelan",
+        "author": "G. Garcia and S. Tarbouriech and {J.M. Gomes~Da~Silva,~Jr.} and E.B. Castelan",
         "journal": "IEE Proc.-Control Theory Appl.",
         "volume": "151",
         "number": "6",
@@ -4509,29 +4509,29 @@
     "BiannicTarbouriech_ACA07": {
         "type": "inproceedings",
         "tag": "BiannicTarbouriech_ACA07",
-        "author": "{J.-M.~Biannic and S.~Tarbouriech",
+        "author": "J.-M.}~Biannic and S.~Tarbouriec",
         "title": "Stability and performance enhancement of a fighter aircraft flight control system by a new anti-windup approach",
         "booktitle": "Proc. 17th IFAC Symp. Automatic Control in Aerospace (ACA 2007)",
         "year": "2007",
         "address": "Toulouse, France",
         "volume": "17",
-        "note": "{http://www.ifac-papersonline.net/ Detailed/38634.html"
+        "note": "h}ttp://www.ifac-papersonline.net/ Detailed/38634.htm"
     },
     "BiannicTarbouriech_06": {
         "type": "inproceedings",
         "tag": "BiannicTarbouriech_06",
-        "author": "{J.-M.~Biannic and S.~Tarbouriech and D. Farret",
+        "author": "J.-M.}~Biannic and S.~Tarbouriech and D. Farre",
         "title": "A practical approach to performance analysis of saturated systems with application to fighter aircraft flight controllers",
         "booktitle": "Proc. 5th IFAC Symp.  ROCOND",
         "address": "Toulouse, France",
         "month": "jul,",
         "year": "2006",
-        "note": "{http://www.ifac-papersonline.net/ Detailed/30006.html"
+        "note": "h}ttp://www.ifac-papersonline.net/ Detailed/30006.htm"
     },
     "TarbouriechGarcia_book11": {
         "type": "book",
         "tag": "TarbouriechGarcia_book11",
-        "author": "S. Tarbouriech and G. Garcia and J.M. {Gomes da Silva Jr. and I. Queinnec",
+        "author": "S. Tarbouriech and G. Garcia and J.M. {Gomes da Silva Jr.} and I. Queinnec",
         "title": "Stability and Stabilization of Linear Systems with Saturating Actuators",
         "publisher": "Springer-Verlag",
         "address": "London",
@@ -4541,7 +4541,7 @@
         "type": "article",
         "tag": "Dornheim92",
         "author": "M.A. Dornheim",
-        "title": "Report pinpoints factors leading to {YF-22 crash",
+        "title": "Report pinpoints factors leading to {YF}-22 crash",
         "journal": "Aviation Week and Space Technology",
         "volume": "137",
         "pages": "53-54",
@@ -4551,7 +4551,7 @@
         "type": "article",
         "tag": "Shifrin93",
         "author": "C.A. Shifrin",
-        "title": "Sweden seeks cause of {Gripen crash",
+        "title": "Sweden seeks cause of {G}ripen crash",
         "journal": "Aviation Week and Space Technology",
         "volume": "139",
         "pages": "78-79",
@@ -4571,12 +4571,12 @@
     "vandenBergPogromskyRooda_CDC06": {
         "type": "inproceedings",
         "tag": "vandenBergPogromskyRooda_CDC06",
-        "author": "R. {van den Berg and A.Y. Pogromsky and J.E. Rooda",
+        "author": "R. {van den Berg} and A.Y. Pogromsky and J.E. Rooda",
         "title": "Convergent Systems Design: Anti-Windup for Marginally Stable Plants",
         "booktitle": "Proc. 45th IEEE Conf.  Decision \\& Control (CDC 2006), San Diego, CA, USA",
         "year": "2006",
         "month": "dec # \" 13-15,\",",
-        "publisher": "IEEE Press address",
+        "publisher": "IEEE Press} addres",
         "pages": "5441-5446"
     },
     "Reichert_CSM92": {
@@ -4594,8 +4594,8 @@
     "FerreresBiannic_AC07": {
         "type": "article",
         "tag": "FerreresBiannic_AC07",
-        "author": "G.~Ferreres and {J.-M.~Biannic",
-        "title": "Convex Design of a Robust Antiwindup Controller for an {LFT Model",
+        "author": "G.~Ferreres and {J.-M.}~Biannic",
+        "title": "Convex Design of a Robust Antiwindup Controller for an {LFT} Model",
         "journal": "IEEE_J_AC,",
         "volume": "52",
         "number": "11",
@@ -4606,7 +4606,7 @@
     "BiannicTarbouriech09": {
         "type": "article",
         "tag": "BiannicTarbouriech09",
-        "author": "{J.-M.~Biannic and S.~Tarbouriech",
+        "author": "J.-M.}~Biannic and S.~Tarbouriec",
         "title": "Optimization and implementation of dynamic anti-windup compensators with multiple saturations in flight control systems",
         "journal": "Control Engineering Practice",
         "volume": "17",
@@ -4635,13 +4635,13 @@
         "pages": "1-19",
         "title": "Anti-windup design: an overview of some recent advances and open problems",
         "author": "S.~Tarbouriech and M.~Turner",
-        "url": "{https://lra.le.ac.uk/handle/2381/4813%%%%% {L}yapunov exponent  %%%%%%%%%%%%%%%%5"
+        "url": "https://lra.le.ac.uk/handle/2381/4813}}%%%%% {L}yapunov exponent  %%%%%%%%%%%%%%%"
     },
     "DemirK-2001": {
         "type": "article",
         "tag": "DemirK-2001",
         "author": "Demir, B. and Koak, S.",
-        "title": "A note on positive {Lyapunov exponent and sensitive dependence on initial conditions",
+        "title": "A note on positive {L}yapunov exponent and sensitive dependence on initial conditions",
         "journal": "Chaos, Solitons and Fractals",
         "year": "2013",
         "volume": "12",
@@ -4659,8 +4659,8 @@
     "BalibreaC-2013": {
         "type": "article",
         "tag": "BalibreaC-2013",
-        "author": "F.~Balibrea and M.~Caballero ,",
-        "title": "Stability of orbits via {Lyapunov exponents in autonomous and non-autonomous systems",
+        "author": "F.~Balibrea and M.~Caballero} ",
+        "title": "Stability of orbits via {L}yapunov exponents in autonomous and non-autonomous systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "year": "2013",
         "volume": "[in print]"
@@ -4668,7 +4668,7 @@
     "Barabanov-2005": {
         "type": "article",
         "tag": "Barabanov-2005",
-        "author": "E.A. Barabanov ,",
+        "author": "E.A. Barabanov} ",
         "title": "Singular exponents and properness criteria for linear differential systems",
         "journal": "Differential Equations",
         "volume": "41",
@@ -4697,7 +4697,7 @@
     "Rumyantsev-2003": {
         "type": "article",
         "tag": "Rumyantsev-2003",
-        "title": "Selfless service to science and education. {On 100th anniversary of corresponding member of the {U}{S}{S}{R} {A}cademy of {S}ciences {N}.{G}.~{C}hetaev",
+        "title": "Selfless service to science and education. {O}n 100th anniversary of corresponding member of the {U}{S}{S}{R} {A}cademy of {S}ciences {N}.{G}.~{C}hetaev",
         "author": "Rumyantsev, V.V.",
         "journal": "Vestnik RAN",
         "volume": "73",
@@ -4759,7 +4759,7 @@
     "Hahn-1963": {
         "type": "book",
         "tag": "Hahn-1963",
-        "title": "Theory and application of {Liapunov's direct method",
+        "title": "Theory and application of {L}iapunov's direct method",
         "author": "Hahn, W.",
         "year": "1963",
         "publisher": "Englewood Cliffs, N.J.: Prentice-Hall"
@@ -4775,7 +4775,7 @@
     "MatrosovM-1993": {
         "type": "article",
         "tag": "MatrosovM-1993",
-        "title": "The development of the ideas of {A.{M}. {L}yapunov over one hundred years: 1892--1992",
+        "title": "The development of the ideas of {A}.{M}. {L}yapunov over one hundred years: 1892--1992",
         "author": "Matrosov, V.M. and Malikov, A.I.",
         "journal": "Izvestiya Vysshikh Uchebnykh Zavedenii",
         "number": "4",
@@ -4786,7 +4786,7 @@
     "BarreiraP-2001": {
         "type": "inproceedings",
         "tag": "BarreiraP-2001",
-        "title": "Lectures on {Lyapunov exponents and smooth ergodic theory",
+        "title": "Lectures on {L}yapunov exponents and smooth ergodic theory",
         "author": "L.~Barreira and Y.~Pesin",
         "booktitle": "Proc. of. Symposia in Pure Math.",
         "publisher": "AMS",
@@ -4867,7 +4867,7 @@
         "type": "article",
         "tag": "Hunt-1996",
         "author": "Hunt, B.R.",
-        "title": "Maximum local {Lyapunov dimension bounds the box dimension of chaotic attractors",
+        "title": "Maximum local {L}yapunov dimension bounds the box dimension of chaotic attractors",
         "journal": "Nonlinearity",
         "volume": "9",
         "number": "4",
@@ -5015,7 +5015,7 @@
         "type": "article",
         "tag": "WuH-2003",
         "author": "Wu, X. and Huang, T.-Y.",
-        "title": "Computation of {Lyapunov exponents in general relativity",
+        "title": "Computation of {L}yapunov exponents in general relativity",
         "journal": "Physics Letters A",
         "year": "2003",
         "volume": "313",
@@ -5026,7 +5026,7 @@
         "type": "article",
         "tag": "BruntonR-2010",
         "author": "Brunton, S.L. and Rowley, C.W.",
-        "title": "Fast computation of finite-time {Lyapunov exponent fields for unsteady flows",
+        "title": "Fast computation of finite-time {L}yapunov exponent fields for unsteady flows",
         "journal": "Chaos",
         "year": "2010",
         "volume": "20",
@@ -5037,7 +5037,7 @@
         "type": "article",
         "tag": "Galvanetto-2000",
         "author": "Galvanetto, U.",
-        "title": "Numerical computation of {Lyapunov exponents in discontinuous maps implicitly defined",
+        "title": "Numerical computation of {L}yapunov exponents in discontinuous maps implicitly defined",
         "journal": "Computer Physics Communications",
         "year": "2000",
         "volume": "131",
@@ -5048,7 +5048,7 @@
         "type": "article",
         "tag": "ZhangLZ-2005",
         "author": "Zhang, X. and Li, Z. and Zhang, L.",
-        "title": "Method based on singular value decomposition for computation of {Lyapunov exponent",
+        "title": "Method based on singular value decomposition for computation of {L}yapunov exponent",
         "journal": "Beijing Keji Daxue Xuebao/Journal of University of Science and Technology Beijing",
         "year": "2005",
         "volume": "27",
@@ -5059,7 +5059,7 @@
         "type": "article",
         "tag": "ContiRK-2012",
         "author": "Conti, C. and Rossinelli, D. and Koumoutsakos, P.",
-        "title": "GPU and APU computations of Finite Time {Lyapunov Exponent fields",
+        "title": "GPU and APU computations of Finite Time {L}yapunov Exponent fields",
         "journal": "Journal of Computational Physics",
         "year": "2012",
         "volume": "231",
@@ -5070,7 +5070,7 @@
         "type": "article",
         "tag": "CarbonellJB-2002",
         "author": "Carbonell, F. and Jimenez, J.C. and Biscay, R.",
-        "title": "A numerical method for the computation of the {Lyapunov exponents of nonlinear ordinary differential equations",
+        "title": "A numerical method for the computation of the {L}yapunov exponents of nonlinear ordinary differential equations",
         "journal": "Applied Mathematics and Computation",
         "year": "2002",
         "volume": "131",
@@ -5081,7 +5081,7 @@
         "type": "article",
         "tag": "AstonD-2003",
         "author": "Aston, P.J. and Dellnitz, M.",
-        "title": "Computation of the dominant {Lyapunov exponent via spatial integration using matrix norms",
+        "title": "Computation of the dominant {L}yapunov exponent via spatial integration using matrix norms",
         "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
         "year": "2003",
         "volume": "459",
@@ -5092,7 +5092,7 @@
         "type": "article",
         "tag": "CaponettoF-2013",
         "author": "Caponetto, R. and Fazzino, S.",
-        "title": "A semi-analytical method for the computation of the {Lyapunov exponents of fractional-order systems",
+        "title": "A semi-analytical method for the computation of the {L}yapunov exponents of fractional-order systems",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
         "year": "2013",
         "volume": "18",
@@ -5103,7 +5103,7 @@
         "type": "article",
         "tag": "RangarajanHR-1998",
         "author": "Rangarajan, G. and Habib, S. and Ryne, R.D.",
-        "title": "{Lyapunov exponents without rescaling and reorthogonalization",
+        "title": "L}yapunov exponents without rescaling and reorthogonalizatio",
         "journal": "Physical Review Letters",
         "year": "1998",
         "volume": "80",
@@ -5114,7 +5114,7 @@
         "type": "article",
         "tag": "Skokos-2010",
         "author": "Skokos, C.",
-        "title": "The {Lyapunov characteristic exponents and their computation",
+        "title": "The {L}yapunov characteristic exponents and their computation",
         "journal": "Lecture Notes in Physics",
         "year": "2010",
         "volume": "790",
@@ -5124,7 +5124,7 @@
         "type": "article",
         "tag": "HeXC-2000",
         "author": "He, D.-H. and Xu, J.-X. and Chen, Y.-H.",
-        "title": "Study on {Lyapunov Characteristic Exponents of a nonlinear differential equation system",
+        "title": "Study on {L}yapunov Characteristic Exponents of a nonlinear differential equation system",
         "journal": "Wuli Xuebao/Acta Physica Sinica",
         "year": "2000",
         "volume": "49",
@@ -5135,12 +5135,12 @@
         "type": "article",
         "tag": "DieciJV-2011",
         "author": "Dieci, L. and Jolly, M.S. and Van Vleck, E.S.",
-        "title": "Numerical techniques for approximating {Lyapunov exponents and their implementation",
+        "title": "Numerical techniques for approximating {L}yapunov exponents and their implementation",
         "journal": "Journal of Computational and Nonlinear Dynamics",
         "year": "2011",
         "volume": "6",
         "number": "1",
-        "note": "{art. num. 011003"
+        "note": "a}rt. num. 01100"
     },
     "ShortenWMWK-2007": {
         "type": "article",
@@ -5176,7 +5176,7 @@
         "type": "article",
         "tag": "RamasubramanianS-2000",
         "author": "Ramasubramanian, K. and Sriram, M.S.",
-        "title": "A comparative study of computation of {Lyapunov spectra with different algorithms",
+        "title": "A comparative study of computation of {L}yapunov spectra with different algorithms",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "2000",
         "volume": "139",
@@ -5187,7 +5187,7 @@
         "type": "article",
         "tag": "ChristiansenR-1997",
         "author": "Christiansen, F. and Rugh, H.H.",
-        "title": "Computing {Lyapunov spectra with continuous Gram-Schmidt orthonormalization",
+        "title": "Computing {L}yapunov spectra with continuous Gram-Schmidt orthonormalization",
         "journal": "Nonlinearity",
         "year": "1997",
         "volume": "10",
@@ -5198,7 +5198,7 @@
         "type": "article",
         "tag": "GreeneK-1987",
         "author": "Greene, J.M. and Kim, J.-S.",
-        "title": "The calculation of {Lyapunov spectra",
+        "title": "The calculation of {L}yapunov spectra",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "1987",
         "volume": "24",
@@ -5209,7 +5209,7 @@
         "type": "article",
         "tag": "JanakiRHR-1999",
         "author": "Janaki, T.M. and Rangarajan, G. and Habib, S. and Ryne, R.D.",
-        "title": "Computation of the {Lyapunov spectrum for continuous-time dynamical systems and discrete maps",
+        "title": "Computation of the {L}yapunov spectrum for continuous-time dynamical systems and discrete maps",
         "journal": "Physical Review E",
         "year": "1999",
         "volume": "60",
@@ -5220,7 +5220,7 @@
         "type": "article",
         "tag": "Stachowiak-2011",
         "author": "Stachowiak, T. and Szydlowski, M.",
-        "title": "A differential algorithm for the {Lyapunov spectrum",
+        "title": "A differential algorithm for the {L}yapunov spectrum",
         "journal": "Physica D",
         "year": "2011",
         "volume": "240",
@@ -5231,7 +5231,7 @@
         "type": "article",
         "tag": "LiuFY-2009",
         "author": "Liu, J.-H. and Feng, J. and Yang, D.-S.",
-        "title": "Improved method of computing {Lyapunov-spectrum and its application",
+        "title": "Improved method of computing {L}yapunov-spectrum and its application",
         "journal": "Xitong Fangzhen Xuebao / Journal of System Simulation",
         "year": "2009",
         "volume": "21",
@@ -5241,7 +5241,7 @@
     "LianL-2010": {
         "type": "book",
         "tag": "LianL-2010",
-        "title": "{Lyapunov exponents and invariant manifolds for random dynamical systems in a {B}anach space",
+        "title": "L}yapunov exponents and invariant manifolds for random dynamical systems in a {B}anach spac",
         "author": "Lian, Z. and Lu, K.",
         "series": "Memoirs of the American Mathematical Society",
         "year": "2010",
@@ -5250,10 +5250,10 @@
     "Barreira-2017": {
         "type": "book",
         "tag": "Barreira-2017",
-        "title": "{Lyapunov exponents",
+        "title": "L}yapunov exponent",
         "author": "Barreira, L.",
         "year": "2017",
-        "publisher": "Birk\\\"{auser Basel}"
+        "publisher": "Birk\\\"{a}user Basel"
     },
     "Maruskin-2012": {
         "type": "book",
@@ -5457,7 +5457,7 @@
     "HaddadC-2011": {
         "type": "book",
         "tag": "HaddadC-2011",
-        "title": "Nonlinear Dynamical Systems and Control: {A {L}yapunov-Based Approach",
+        "title": "Nonlinear Dynamical Systems and Control: {A} {L}yapunov-Based Approach",
         "author": "Haddad, W.M. and Chellaboina, V.S.",
         "year": "2011",
         "publisher": "Princeton University Press"
@@ -5465,7 +5465,7 @@
     "nikravesh2013nonlinear": {
         "type": "book",
         "tag": "nikravesh2013nonlinear",
-        "title": "Nonlinear Systems Stability Analysis: {Lyapunov-based Approach",
+        "title": "Nonlinear Systems Stability Analysis: {L}yapunov-based Approach",
         "author": "Nikravesh, S.K.Y.",
         "year": "2013",
         "publisher": "CRC Press"
@@ -5485,7 +5485,7 @@
         "title": "Stability of Dynamical Systems: Continuous, Discontinuous, and Discrete Systems",
         "author": "Michel, A.N. and Hou, L. and Liu, D.",
         "year": "2008",
-        "publisher": "Birkh{\\\"auser Boston}"
+        "publisher": "Birkh{\\\"a}user Boston"
     },
     "ackermann2002robust": {
         "type": "book",
@@ -5597,11 +5597,11 @@
         "type": "article",
         "tag": "doi:10.1142/S0218127413502003",
         "author": "YUMING CHEN and QIGUI YANG",
-        "title": "THE NONEQUIVALENCE AND DIMENSION FORMULA FOR ATTRACTORS OF {LORENZ-TYPE SYSTEMS",
+        "title": "THE NONEQUIVALENCE AND DIMENSION FORMULA FOR ATTRACTORS OF {L}ORENZ-TYPE SYSTEMS",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "23",
         "number": "12",
-        "note": "{art. num. 1350200",
+        "note": "a}rt. num. 135020",
         "year": "2013",
         "doi": "10.1142/S0218127413502003"
     },
@@ -5613,7 +5613,7 @@
         "journal": "Scholarpedia",
         "volume": "1",
         "number": "11",
-        "note": "{doi:10.4249/scholarpedia.1815",
+        "note": "d}oi:10.4249/scholarpedia.181",
         "year": "2006"
     },
     "Courant-1950": {
@@ -5647,7 +5647,7 @@
         "type": "article",
         "tag": "Algaba2014772",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Centers on center manifolds in the {Lorenz, {C}hen and {L}u systems",
+        "title": "Centers on center manifolds in the {L}orenz, {C}hen and {L}u systems",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
         "year": "2014",
         "volume": "19",
@@ -5658,7 +5658,7 @@
         "type": "article",
         "tag": "Algaba2014758",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comment on ``{A constructive proof on the existence of globally exponentially attractiveset and positive invariant set of general {L}orenz family'',{P}. {Y}u, {X}.{X}. {L}iao, {S}.{L}. {X}ie, {Y}.{L}. {F}u[{C}ommun {N}onlinear {S}ci {N}umer {S}imulat 14 (2009) 2886-2896]",
+        "title": "Comment on ``{A} constructive proof on the existence of globally exponentially attractiveset and positive invariant set of general {L}orenz family'',{P}. {Y}u, {X}.{X}. {L}iao, {S}.{L}. {X}ie, {Y}.{L}. {F}u[{C}ommun {N}onlinear {S}ci {N}umer {S}imulat 14 (2009) 2886-2896]",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
         "year": "2014",
         "volume": "19",
@@ -5669,7 +5669,7 @@
         "type": "article",
         "tag": "Algaba201480",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comments on 'Global dynamics of the generalized {Lorenz systems having invariant algebraic surfaces'",
+        "title": "Comments on 'Global dynamics of the generalized {L}orenz systems having invariant algebraic surfaces'",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "2014",
         "volume": "266",
@@ -5679,7 +5679,7 @@
         "type": "article",
         "tag": "Algaba2014887",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comments on \"dynamics of the general {Lorenz family\" by {Y}. {L}iu and {W}. {P}ang",
+        "title": "Comments on \"dynamics of the general {L}orenz family\" by {Y}. {L}iu and {W}. {P}ang",
         "journal": "Nonlinear Dynamics",
         "year": "2014",
         "volume": "76",
@@ -5690,7 +5690,7 @@
         "type": "article",
         "tag": "Algaba20132771",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "The {Lu system is a particular case of the {L}orenz system",
+        "title": "The {L}u system is a particular case of the {L}orenz system",
         "journal": "Physics Letters A",
         "year": "2013",
         "volume": "377",
@@ -5701,7 +5701,7 @@
         "type": "article",
         "tag": "Algaba20134252",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comment on '{Shilnikov-type orbits of {L}orenz-family systems' [Physica A 375 (2007) 438-446]",
+        "title": "Comment on '{S}hilnikov-type orbits of {L}orenz-family systems' [Physica A 375 (2007) 438-446]",
         "journal": "Physica A: Statistical Mechanics and its Applications",
         "year": "2013",
         "volume": "392",
@@ -5712,7 +5712,7 @@
         "type": "article",
         "tag": "Algaba20131175",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comments on \"non-existence of {Shilnikov chaos in continuous-time systems\"",
+        "title": "Comments on \"non-existence of {S}hilnikov chaos in continuous-time systems\"",
         "journal": "Applied Mathematics and Mechanics (English Edition)",
         "year": "2013",
         "volume": "34",
@@ -5723,7 +5723,7 @@
         "type": "article",
         "tag": "Algaba2013",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Chen's attractor exists if {Lorenz repulsor exists: The {C}hen system is a special case of the {L}orenz system",
+        "title": "Chen's attractor exists if {L}orenz repulsor exists: The {C}hen system is a special case of the {L}orenz system",
         "journal": "Chaos",
         "year": "2013",
         "volume": "23",
@@ -5734,7 +5734,7 @@
         "type": "article",
         "tag": "Algaba20122708",
         "author": "Algaba, A. and Fernandez-Sanchez, F. and Merino, M. and Rodriguez-Luis, A.J.",
-        "title": "Comment on \"Heteroclinic orbits in {Chen circuit with time delay\" [Commun. Nonlinear Sci. Numer. Simulat. 15 (2010) 3058-3066]",
+        "title": "Comment on \"Heteroclinic orbits in {C}hen circuit with time delay\" [Commun. Nonlinear Sci. Numer. Simulat. 15 (2010) 3058-3066]",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
         "year": "2012",
         "volume": "17",
@@ -5782,7 +5782,7 @@
         "journal": "Communications in Mathematical Physics",
         "volume": "300",
         "number": "2",
-        "title": "({Non)Invariance of Dynamical Quantities for Orbit Equivalent Flows",
+        "title": "({N}on)Invariance of Dynamical Quantities for Orbit Equivalent Flows",
         "pages": "411-433"
     },
     "Gelfert-2003": {
@@ -5792,7 +5792,7 @@
         "year": "2003",
         "journal": "Z. Anal. Anwend.",
         "volume": "22",
-        "title": "Maximum local {Lyapunov dimension bounds the box dimension. {D}irect proof for invariant sets on {R}iemannian manifolds",
+        "title": "Maximum local {L}yapunov dimension bounds the box dimension. {D}irect proof for invariant sets on {R}iemannian manifolds",
         "pages": "553-568"
     },
     "OttWY-1984": {
@@ -5882,7 +5882,7 @@
         "volume": "1",
         "number": "2",
         "doi": "10.1007/BF01209065",
-        "title": "Variation of {Lyapunov exponents on a strange attractor",
+        "title": "Variation of {L}yapunov exponents on a strange attractor",
         "pages": "175-199",
         "language": "English"
     },
@@ -5923,7 +5923,7 @@
         "type": "article",
         "tag": "RosensteinCL-1993",
         "author": "Rosenstein, M.T. and Collins, J.J. and De Luca, C.J.",
-        "title": "A practical method for calculating largest {Lyapunov exponents from small data sets",
+        "title": "A practical method for calculating largest {L}yapunov exponents from small data sets",
         "journal": "Physica D: Nonlinear Phenomena",
         "year": "1993",
         "volume": "65",
@@ -5961,7 +5961,7 @@
         "type": "article",
         "tag": "Pesin-1977",
         "author": "Pesin, Ya.B.",
-        "title": "Characteristic {Lyapunov exponents and smooth ergodic theory",
+        "title": "Characteristic {L}yapunov exponents and smooth ergodic theory",
         "journal": "Russian Mathematical Surveys",
         "volume": "32",
         "number": "4",
@@ -6003,7 +6003,7 @@
         "type": "article",
         "tag": "Kolmogorov-1958",
         "author": "Kolmogorov, A.N.",
-        "title": "New metric invariant of transitive dynamical systems and endomorphisms of {Lebesgue spaces",
+        "title": "New metric invariant of transitive dynamical systems and endomorphisms of {L}ebesgue spaces",
         "journal": "Dokl. Akad. Nauk SSSR (In Russian)",
         "volume": "119",
         "number": "5",
@@ -6070,7 +6070,7 @@
         "type": "article",
         "tag": "Cvitanovic-1991",
         "title": "Periodic orbits as the skeleton of classical and quantum chaos",
-        "author": "Cvitanovi{\\'c P.,",
+        "author": "Cvitanovi{\\'c} P.}",
         "journal": "Physica D: Nonlinear Phenomena",
         "volume": "51",
         "number": "1-3",
@@ -6082,7 +6082,7 @@
         "type": "article",
         "tag": "AuerbachCEGP-1987",
         "title": "Exploring chaotic motion through periodic orbits",
-        "author": "Auerbach, D. and Cvitanovi{\\'c P. and Eckmann, J.-P. and Gunaratne, G. and Procaccia, I.,",
+        "author": "Auerbach, D. and Cvitanovi{\\'c} P. and Eckmann, J.-P. and Gunaratne, G. and Procaccia, I.}",
         "journal": "Physical Review Letters",
         "volume": "58",
         "number": "23",
@@ -6098,7 +6098,7 @@
         "publisher": "Niels Bohr Institute",
         "address": "Copenhagen",
         "year": "2016",
-        "note": "\\ {http://ChaosBook.org}"
+        "note": "\\ {h}ttp://ChaosBook.org"
     },
     "Zygmund-1968": {
         "type": "book",
@@ -6147,8 +6147,8 @@
     "GaliasZ-1998": {
         "type": "article",
         "tag": "GaliasZ-1998",
-        "author": "Galias, Z. and Zgliczy\\'{nski, P.",
-        "title": "Computer Assisted Proof of Chaos in the {Lorenz Equations",
+        "author": "Galias, Z. and Zgliczy\\'{n}ski, P.",
+        "title": "Computer Assisted Proof of Chaos in the {L}orenz Equations",
         "journal": "Physica D",
         "year": "1998",
         "volume": "115",
@@ -6228,9 +6228,9 @@
         "type": "article",
         "tag": "Zhang-2014",
         "author": "Zhang, Fuchen and Zhang, Guangyun and Lin, Da and Sun, Xiangkai",
-        "title": "New estimate the bounds for the generalized {Lorenz system",
+        "title": "New estimate the bounds for the generalized {L}orenz system",
         "journal": "Mathematical Methods in the Applied Sciences",
-        "note": "{doi:10.1002/mma.3189",
+        "note": "d}oi:10.1002/mma.318",
         "year": "2014"
     },
     "Sprott-2011": {
@@ -6259,7 +6259,7 @@
         "type": "article",
         "tag": "DengC-2011",
         "author": "Deng, Xijun And Chen, Aiyong",
-        "title": "Invariant algebraic surfaces of the {Chen system",
+        "title": "Invariant algebraic surfaces of the {C}hen system",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "21",
         "number": "06",
@@ -6281,7 +6281,7 @@
         "type": "article",
         "tag": "Hoover-2014",
         "author": "Hoover, Wm.G. and Hoover, C.G.",
-        "title": "Why Instantaneous Values of the ``Covarian'' {Lyapunov Exponents Depend upon the Chosen State-Space Scale",
+        "title": "Why Instantaneous Values of the ``Covarian'' {L}yapunov Exponents Depend upon the Chosen State-Space Scale",
         "journal": "Fractals",
         "volume": "20",
         "number": "01",
@@ -6296,7 +6296,7 @@
         "journal": "Communications in Mathematical Physics",
         "volume": "81",
         "number": "2",
-        "title": "Some relations between dimension and {Lyapounov exponents",
+        "title": "Some relations between dimension and {L}yapounov exponents",
         "pages": "229-238"
     },
     "DouadyO-1980": {
@@ -6314,18 +6314,18 @@
         "type": "article",
         "tag": "ZhangML-2012",
         "author": "Zhang, F. and Mu, C. and Li, X.",
-        "title": "On the boundness of some solutions of the {Lu system",
+        "title": "On the boundness of some solutions of the {L}u system",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "22",
         "number": "01",
-        "note": "{art. num. 1250015",
+        "note": "a}rt. num. 125001",
         "year": "2012"
     },
     "DoeringG-1995": {
         "type": "article",
         "tag": "DoeringG-1995",
         "author": "Doering, Charles R. and Gibbon, J.D.",
-        "title": "On the shape and dimension of the {Lorenz attractor",
+        "title": "On the shape and dimension of the {L}orenz attractor",
         "journal": "Dynamics and Stability of Systems",
         "year": "1995",
         "volume": "10",
@@ -6335,7 +6335,7 @@
     "DoeringGHN-1987": {
         "type": "article",
         "tag": "DoeringGHN-1987",
-        "title": "Exact {Lyapunov Dimension of the Universal Attractor for the Complex {G}inzburg-{L}andau Equation",
+        "title": "Exact {L}yapunov Dimension of the Universal Attractor for the Complex {G}inzburg-{L}andau Equation",
         "author": "Doering, C.R. and Gibbon, J.D. and Holm, D.D. and Nicolaenko, B.",
         "journal": "Phys. Rev. Lett.",
         "volume": "59",
@@ -6429,7 +6429,7 @@
     "PoschHV-1986": {
         "type": "article",
         "tag": "PoschHV-1986",
-        "title": "Canonical dynamics of the {Nos\\'e oscillator: Stability, order, and chaos",
+        "title": "Canonical dynamics of the {N}os\\'e oscillator: Stability, order, and chaos",
         "author": "Posch, H.A. and Hoover, W.G. and Vesely, F.J.",
         "journal": "Phys. Rev. A",
         "volume": "33",
@@ -6440,13 +6440,13 @@
     "SprottHH-2014": {
         "type": "article",
         "tag": "SprottHH-2014",
-        "title": "Heat conduction, and the lack thereof, in time-reversible dynamical systems: Generalized {Nos\\'e-{H}oover oscillators with a temperature gradient",
+        "title": "Heat conduction, and the lack thereof, in time-reversible dynamical systems: Generalized {N}os\\'e-{H}oover oscillators with a temperature gradient",
         "author": "Sprott, J.C. and Hoover, W.G. and Hoover, C.G.",
         "journal": "Phys. Rev. E",
         "volume": "89",
         "issue": "4",
         "year": "2014",
-        "note": "{art. num. 042914"
+        "note": "a}rt. num. 04291"
     },
     "SprottH-2017": {
         "type": "article",
@@ -6492,7 +6492,7 @@
         "type": "incollection",
         "tag": "Babin-2006",
         "author": "Babin, A.V.",
-        "title": "Global attractors in {PDE",
+        "title": "Global attractors in {PDE}",
         "booktitle": "Handbook of Dynamical Systems",
         "volume": "1B",
         "pages": "983-1085",
@@ -6564,7 +6564,7 @@
     "Sparrow-1982": {
         "type": "book",
         "tag": "Sparrow-1982",
-        "title": "The {Lorenz Equations: Bifurcations, Chaos, and Strange Attractors",
+        "title": "The {L}orenz Equations: Bifurcations, Chaos, and Strange Attractors",
         "author": "Sparrow, C.",
         "series": "Applied Mathematical Sciences",
         "year": "1982",
@@ -6585,7 +6585,7 @@
         "type": "article",
         "tag": "Sprott-2015",
         "author": "Sprott, J.C.",
-        "title": "New Chaotic Regimes in the {Lorenz and {C}hen Systems",
+        "title": "New Chaotic Regimes in the {L}orenz and {C}hen Systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "25",
         "number": "02",
@@ -6629,7 +6629,7 @@
     "VallejoVS-2008": {
         "type": "article",
         "tag": "VallejoVS-2008",
-        "title": "Local predictability and nonhyperbolicity through finite {Lyapunov exponent distributions in two-degrees-of-freedom Hamiltonian systems",
+        "title": "Local predictability and nonhyperbolicity through finite {L}yapunov exponent distributions in two-degrees-of-freedom Hamiltonian systems",
         "author": "Vallejo, Juan C. and Viana, Ricardo L. and Sanjuan, Miguel A. F.",
         "journal": "Phys. Rev. E",
         "volume": "78",
@@ -6641,7 +6641,7 @@
         "type": "book",
         "tag": "Zubov-1964",
         "author": "Zubov, V. I. and Boron, L. F.",
-        "title": "Methods of {A.{M}. {L}yapunov and their application",
+        "title": "Methods of {A}.{M}. {L}yapunov and their application",
         "year": "1964",
         "publisher": "Noordhoff Groningen"
     },
@@ -6706,7 +6706,7 @@
         "type": "article",
         "tag": "Stewart-1997",
         "author": "Stewart, D.E.",
-        "title": "A new algorithm for the {S{V}{D} of a long product of matrices and the stability of products",
+        "title": "A new algorithm for the {S}{V}{D} of a long product of matrices and the stability of products",
         "journal": "Electronic Transactions on Numerical Analysis",
         "volume": "5",
         "pages": "29-47",
@@ -6716,7 +6716,7 @@
         "type": "article",
         "tag": "DieciL-2008",
         "author": "Dieci, L. and Elia, C.",
-        "title": "{S{V}{D} algorithms to approximate spectra of dynamical systems",
+        "title": "S}{V}{D} algorithms to approximate spectra of dynamical system",
         "journal": "Mathematics and Computers in Simulation",
         "volume": "79",
         "number": "4",
@@ -6797,8 +6797,8 @@
     "AfraimovichGLShT-2014": {
         "type": "article",
         "tag": "AfraimovichGLShT-2014",
-        "title": "Scientific heritage of {L.P. {S}hilnikov",
-        "author": "{Afraimovich V. S. and {Gonchenko, S. V. and {Lerman}, L. M. and {Shilnikov}, A. L.and {Turaev D. V.},",
+        "title": "Scientific heritage of {L.P.} {S}hilnikov",
+        "author": "Afraimovich} V. S. and {Gonchenko}, S. V. and {Lerman}, L. M. and {Shilnikov}, A. L.and {Turaev} D. V.",
         "journal": "Regular and Chaotic Dynamics",
         "volume": "19",
         "number": "4",
@@ -6809,8 +6809,8 @@
     "AfraimovicBSh-1977": {
         "type": "article",
         "tag": "AfraimovicBSh-1977",
-        "title": "On the origin and structure of the {Lorenz attractor",
-        "author": "Afra{\\imovic, V.S. and Bykov, V.V. and Silnikov, L.P.",
+        "title": "On the origin and structure of the {L}orenz attractor",
+        "author": "Afra{\\i}movic, V.S. and Bykov, V.V. and Silnikov, L.P.",
         "booktitle": "Dokl. Akad. Nauk SSSR",
         "volume": "234",
         "number": "2",
@@ -6831,7 +6831,7 @@
         "type": "article",
         "tag": "Belykh-1984",
         "author": "Belykh, V. N.",
-        "title": "BIFURCATION OF SEPARATRICES OF A SADDLE-POINT OF THE {LORENZ SYSTEM",
+        "title": "BIFURCATION OF SEPARATRICES OF A SADDLE-POINT OF THE {L}ORENZ SYSTEM",
         "journal": "Differential equations",
         "volume": "20",
         "number": "10",
@@ -6909,7 +6909,7 @@
     "Parks-1992": {
         "type": "article",
         "tag": "Parks-1992",
-        "title": "{A.{M}. {L}yapunov's stability theory --- 100 years on",
+        "title": "A}.{M}. {L}yapunov's stability theory --- 100 years o",
         "author": "Parks, P.C.",
         "journal": "IMA journal of Mathematical Control and Information",
         "volume": "9",
@@ -6930,7 +6930,7 @@
     "LurieE-2019": {
         "type": "book",
         "tag": "LurieE-2019",
-        "title": "Classical Feedback Control with Nonlinear Multi-Loop Systems: With MATLAB{\\textregistered and Simulink{\\textregistered}",
+        "title": "Classical Feedback Control with Nonlinear Multi-Loop Systems: With MATLAB{\\textregistered} and Simulink{\\textregistered}",
         "author": "Lurie, B.J. and Enright, P.",
         "year": "2019",
         "publisher": "CRC Press"
@@ -6946,9 +6946,9 @@
     "Lyapunov-1907": {
         "type": "book",
         "tag": "Lyapunov-1907",
-        "title": "Probl{\\`eme g{\\'e}n{\\'e}ral de la stabilit{\\'e} du mouvement",
+        "title": "Probl{\\`e}me g{\\'e}n{\\'e}ral de la stabilit{\\'e} du mouvement",
         "author": "Liapounoff, A.",
-        "booktitle": "Annales de la Facult{\\'e des sciences de Toulouse: Math{\\'e}matiques",
+        "booktitle": "Annales de la Facult{\\'e} des sciences de Toulouse: Math{\\'e}matiques",
         "pages": "203--474",
         "year": "1907"
     },
@@ -6983,7 +6983,7 @@
     "Rasvan-2015": {
         "type": "article",
         "tag": "Rasvan-2015",
-        "title": "Nonlinear control systems theory in {Romania and the influence of the contributions of {V}.{A}. {Y}akubovich",
+        "title": "Nonlinear control systems theory in {R}omania and the influence of the contributions of {V}.{A}. {Y}akubovich",
         "author": "Rasvan, V.",
         "journal": "IFAC-PapersOnLine",
         "volume": "48",
@@ -6999,7 +6999,7 @@
         "year": "2013",
         "month": "7",
         "pages": "3--12",
-        "title": "The seminar ``{Qualitative theory of differential equations and control theory'' --- 60 years",
+        "title": "The seminar ``{Q}ualitative theory of differential equations and control theory'' --- 60 years",
         "volume": "5",
         "journal": "Annals of the Academy of Romanian Scientists. Mathematics and its Applications"
     },
@@ -7035,7 +7035,7 @@
         "type": "article",
         "tag": "Sell-1996",
         "author": "Sell, G.R.",
-        "title": "Global attractors for the three-dimensional {Navier-{S}tokes equations",
+        "title": "Global attractors for the three-dimensional {N}avier-{S}tokes equations",
         "journal": "Journal of Dynamics and Differential Equations",
         "volume": "8",
         "number": "1",
@@ -7048,7 +7048,7 @@
         "tag": "Sell-1989",
         "author": "Sell, G.R.",
         "title": "The Connection between Infinite Dimensional and Finite Dimensional Dynamical Systems (Eds.: Nicolaenko, B. and Foias, C. and Temam, R.)",
-        "chapter": "{H}ausdorff and {L}yapunov dimensions for gradient systems",
+        "chapter": "H}ausdorff and {L}yapunov dimensions for gradient system",
         "publisher": "American Mathematical Society",
         "pages": "85-92",
         "year": "1989\""
@@ -7082,13 +7082,13 @@
         "journal": "Kybernetika",
         "volume": "30",
         "pages": "403-424",
-        "year": "1994%A. N. Sarkovskii. Coexistence of cycles of a continuous map of a line into itself. Uh Mat. Z., 16(1):61-71,1964."
+        "year": "1994}%A. N. Sarkovskii. Coexistence of cycles of a continuous map of a line into itself. Uh Mat. Z., 16(1):61-71,1964"
     },
     "PontrjaginSh-1932": {
         "type": "article",
         "tag": "PontrjaginSh-1932",
         "author": "Pontrjagin, L. and Schnirelmann, L.",
-        "title": "Sur une propri{\\'et{\\'e} m{\\'e}trique de la dimension",
+        "title": "Sur une propri{\\'e}t{\\'e} m{\\'e}trique de la dimension",
         "journal": "Annals of Mathematics",
         "pages": "156--162",
         "year": "1932",
@@ -7109,7 +7109,7 @@
         "type": "article",
         "tag": "TempkinY-2007",
         "author": "Tempkin, J.A. and Yorke, J.A.",
-        "title": "Spurious {Lyapunov Exponents Computed from Data",
+        "title": "Spurious {L}yapunov Exponents Computed from Data",
         "journal": "SIAM Journal on Applied Dynamical Systems",
         "volume": "6",
         "number": "2",
@@ -7125,7 +7125,7 @@
         "number": "3-4",
         "pages": "109-129",
         "publisher": "Institut Fourier",
-        "title": "Solution d'un probleme sur les iteres d'un operateur positif sur {$C(K)$ et proprietes de moyennes associees",
+        "title": "Solution d'un probleme sur les iteres d'un operateur positif sur {$C(K)$} et proprietes de moyennes associees",
         "volume": "25",
         "year": "1975"
     },
@@ -7155,7 +7155,7 @@
         "type": "article",
         "tag": "ConstantinF-1985",
         "author": "Constantin, P. and Foias, C.",
-        "title": "Global {Lyapunov exponents, {K}aplan-{Y}orke formulas and the dimension of the attractors for 2{D} {N}avier-{S}tokes equations",
+        "title": "Global {L}yapunov exponents, {K}aplan-{Y}orke formulas and the dimension of the attractors for 2{D} {N}avier-{S}tokes equations",
         "journal": "Communications on Pure and Applied Mathematics",
         "volume": "38",
         "number": "1",
@@ -7170,7 +7170,7 @@
         "number": "3",
         "pages": "405-413",
         "publisher": "EDP Sciences",
-        "title": "Local {Lyapunov exponents and a local estimate of {H}ausdorff dimension",
+        "title": "Local {L}yapunov exponents and a local estimate of {H}ausdorff dimension",
         "volume": "23",
         "year": "1989"
     },
@@ -7179,7 +7179,7 @@
         "tag": "Eden-1989-PhD",
         "author": "Eden, A.",
         "year": "1989",
-        "title": "An abstract theory of {L-exponents with applications to dimension analysis ({PhD} thesis)",
+        "title": "An abstract theory of {L}-exponents with applications to dimension analysis ({PhD} thesis)",
         "publisher": "Indiana University"
     },
     "Eden-1990": {
@@ -7202,7 +7202,7 @@
         "volume": "3",
         "number": "1",
         "doi": "10.1007/BF01049491",
-        "title": "Local and Global {Lyapunov exponents",
+        "title": "Local and Global {L}yapunov exponents",
         "pages": "133-177",
         "note": "[Preprint No. 8804, The Institute for Applied Mathematics and Scientific Computing, Indiana University, 1988]"
     },
@@ -7312,7 +7312,7 @@
         "type": "article",
         "tag": "Liu-2011",
         "author": "Liu, Y.",
-        "title": "Closed orbits in the general {Lorenz family",
+        "title": "Closed orbits in the general {L}orenz family",
         "journal": "International Journal of Bifurcation and Chaos",
         "year": "2011",
         "volume": "21",
@@ -7324,7 +7324,7 @@
         "type": "article",
         "tag": "Luo-2010",
         "author": "Luo, Q. and Liao, X. and Zeng, Z.G.",
-        "title": "Sufficient and necessary conditions for {Lyapunov stability of {L}orenz system and their application",
+        "title": "Sufficient and necessary conditions for {L}yapunov stability of {L}orenz system and their application",
         "journal": "Science China Information Sciences",
         "year": "2010",
         "volume": "53",
@@ -7336,7 +7336,7 @@
         "type": "inproceedings",
         "tag": "Tigan-2004",
         "author": "Tigan, Gh.",
-        "title": "Bifurcation and stability in a system derived from the {Lorenz system",
+        "title": "Bifurcation and stability in a system derived from the {L}orenz system",
         "booktitle": "Proceedings of the 3rd. International Colloquium \"Mathematics in Engineering and Numerical Physics\", October 7-9, 2004: [mathematics Sections]",
         "year": "2004",
         "pages": "265-272",
@@ -7406,7 +7406,7 @@
         "type": "article",
         "tag": "PogromskyM-2011",
         "author": "A.Yu. Pogromsky and A.S. Matveev",
-        "title": "Estimation of topological entropy via the direct {Lyapunov method",
+        "title": "Estimation of topological entropy via the direct {L}yapunov method",
         "journal": "Nonlinearity",
         "volume": "24",
         "number": "7",
@@ -7426,7 +7426,7 @@
         "type": "article",
         "tag": "Young-2013",
         "author": "Young, L.-S.",
-        "title": "Mathematical theory of {Lyapunov exponents",
+        "title": "Mathematical theory of {L}yapunov exponents",
         "journal": "Journal of Physics A: Mathematical and Theoretical",
         "volume": "46",
         "number": "25",
@@ -7449,7 +7449,7 @@
         "type": "article",
         "tag": "BenedicksY-1993",
         "author": "Benedicks, M. and Young, L.-S.",
-        "title": "{Sinai-{B}owen-{R}uelle measures for certain {H}enon maps",
+        "title": "S}inai-{B}owen-{R}uelle measures for certain {H}enon map",
         "journal": "Inventiones Mathematicae",
         "year": "1993",
         "volume": "112",
@@ -7464,14 +7464,14 @@
         "number": "1",
         "pages": "73-169",
         "publisher": "Annals of Mathematics",
-        "title": "The dynamics of the {Henon map",
+        "title": "The dynamics of the {Henon} map",
         "volume": "133",
         "year": "1991"
     },
     "Young-1982": {
         "type": "article",
         "tag": "Young-1982",
-        "title": "Dimension, entropy and {Lyapunov exponents",
+        "title": "Dimension, entropy and {L}yapunov exponents",
         "volume": "2",
         "number": "1",
         "journal": "Ergodic Theory and Dynamical Systems",
@@ -7508,14 +7508,14 @@
         "journal": "American Journal of Mathematics",
         "number": "3",
         "pages": "619-654",
-        "title": "A measure associated with axiom-{A attractors",
+        "title": "A measure associated with axiom-{A} attractors",
         "volume": "98",
         "year": "1976"
     },
     "Ruelle-1976-Lorenz": {
         "type": "incollection",
         "tag": "Ruelle-1976-Lorenz",
-        "title": "The {Lorenz attractor and the problem of turbulence",
+        "title": "The {L}orenz attractor and the problem of turbulence",
         "author": "Ruelle, D.",
         "booktitle": "Turbulence and Navier Stokes Equations",
         "pages": "146--158",
@@ -7530,7 +7530,7 @@
         "number": "3",
         "pages": "509-539",
         "publisher": "Annals of Mathematics",
-        "title": "The metric entropy of diffeomorphisms: part {I:characterization of measures satisfying {P}esin's entropy formula",
+        "title": "The metric entropy of diffeomorphisms: part {I}:characterization of measures satisfying {P}esin's entropy formula",
         "volume": "122",
         "year": "1985"
     },
@@ -7542,7 +7542,7 @@
         "number": "3",
         "pages": "540-574",
         "publisher": "Annals of Mathematics",
-        "title": "The metric entropy of diffeomorphisms: part {II:relations between entropy, exponents and dimension",
+        "title": "The metric entropy of diffeomorphisms: part {II}:relations between entropy, exponents and dimension",
         "volume": "122",
         "year": "1985"
     },
@@ -7563,13 +7563,13 @@
         "title": "Oscillations of Dynamical Systems Applied in Drilling Analytical and Numerical Methods",
         "author": "Kiseleva, M.",
         "year": "2013",
-        "publisher": "Jyv\\\"{askyl\\\"{a} University Printing House}"
+        "publisher": "Jyv\\\"{a}skyl\\\"{a} University Printing House"
     },
     "Schmeling-1998": {
         "type": "article",
         "tag": "Schmeling-1998",
         "author": "Schmeling, J.",
-        "title": "A dimension formula for endomorphisms -- the {Belykh family",
+        "title": "A dimension formula for endomorphisms -- the {B}elykh family",
         "journal": "Ergodic Theory and Dynamical Systems",
         "volume": "18",
         "issue": "05",
@@ -7582,7 +7582,7 @@
         "type": "article",
         "tag": "TasakiGD-1998",
         "author": "Tasaki, S. and Gilbert, T. and Dorfman, J.R.",
-        "title": "An analytical construction of the {SRB measures for {B}aker-type maps",
+        "title": "An analytical construction of the {SRB} measures for {B}aker-type maps",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "8",
         "number": "2",
@@ -7612,7 +7612,7 @@
     "OttY-2008": {
         "type": "article",
         "tag": "OttY-2008",
-        "title": "When {Lyapunov exponents fail to exist",
+        "title": "When {L}yapunov exponents fail to exist",
         "author": "Ott, W. and Yorke, J.A.",
         "journal": "Phys. Rev. E",
         "volume": "78",
@@ -7680,9 +7680,9 @@
         "type": "book",
         "tag": "Kuczma-2009",
         "title": "An Introduction to the Theory of Functional Equations and Inequalities: Cauchy's Equation and Jensen's Inequality",
-        "author": "Kuczma, M. and Gil{\\'anyi, A.",
+        "author": "Kuczma, M. and Gil{\\'a}nyi, A.",
         "year": "2009",
-        "publisher": "Birkh{\\\"auser Basel}"
+        "publisher": "Birkh{\\\"a}user Basel"
     },
     "HurewiczW-1941": {
         "type": "book",
@@ -7717,7 +7717,7 @@
         "type": "article",
         "tag": "ElhadjS-2011-IJBC",
         "author": "Zeraoulia, E. and Sprott, J.C.",
-        "title": "On the dynamics of a new simple 2-{D rational discrete mapping",
+        "title": "On the dynamics of a new simple 2-{D} rational discrete mapping",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "21",
         "number": "01",
@@ -7789,7 +7789,7 @@
         "type": "article",
         "tag": "KaplanMY-1984",
         "author": "Kaplan, J.L. and Mallet-Paret,J. and Yorke,J.A.",
-        "title": "The {Lyapunov dimension of a nowhere differentiable attracting torus",
+        "title": "The {L}yapunov dimension of a nowhere differentiable attracting torus",
         "journal": "Ergodic Theory and Dynamical Systems",
         "volume": "4",
         "issue": "02",
@@ -7811,7 +7811,7 @@
         "type": "article",
         "tag": "Robinson-1990",
         "author": "Robinson, F.N.H.",
-        "title": "Analogue electronic model of the {Lorenz equations",
+        "title": "Analogue electronic model of the {L}orenz equations",
         "journal": "International Journal of Electronics",
         "volume": "68",
         "number": "5",
@@ -7831,11 +7831,11 @@
         "type": "article",
         "tag": "BaoLWX-2016",
         "author": "B. C. Bao and Q. D. Li and N. Wang and Q. Xu",
-        "title": "Multistability in {Chua's circuit with two stable node-foci",
+        "title": "Multistability in {C}hua's circuit with two stable node-foci",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "26",
         "number": "4",
-        "note": "{art. num. 043111",
+        "note": "a}rt. num. 04311",
         "year": "2016"
     },
     "ChenU-2002": {
@@ -7858,7 +7858,7 @@
         "type": "article",
         "tag": "MandelstamP-1932",
         "author": "Mandelstam, L. and Papalexi, N.",
-        "title": "{\\\"U}ber Resonanzerscheinungen bei Frequenzteilung",
+        "title": "\\\"U}ber Resonanzerscheinungen bei Frequenzteilun",
         "journal": "Zeitschrift f{\\\"u}r Physik (in German)",
         "year": "1932",
         "volume": "73",
@@ -7881,7 +7881,7 @@
         "type": "article ",
         "tag": "Marshall-1992",
         "author": "Marshall, E.",
-        "title": "Fatal error: how {Patriot overlooked a {S}cud",
+        "title": "Fatal error: how {P}atriot overlooked a {S}cud",
         "volume": "255",
         "number": "5050",
         "pages": "1347--1347",
@@ -7913,7 +7913,7 @@
         "tag": "Shilnikov-1994",
         "author": "Shilnikov, L.P",
         "year": "1994",
-        "title": "{C}hua?s circuit: Rigorous results and future problems",
+        "title": "C}hua?s circuit: Rigorous results and future problem",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "4",
         "pages": "489-519\""
@@ -7950,7 +7950,7 @@
     "MaslennikovNK-2018": {
         "type": "article",
         "tag": "MaslennikovNK-2018",
-        "title": "Transient chaos in the {Lorenz-type map with periodic forcing",
+        "title": "Transient chaos in the {L}orenz-type map with periodic forcing",
         "author": "Maslennikov, O. V. and Nekorkin, V. I. and Kurths, J.",
         "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
         "volume": "28",
@@ -7967,7 +7967,7 @@
         "title": "Localization method of compact invariant sets with application to the {C}hua System",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "26",
-        "note": "{art. num. 1650073"
+        "note": "a}rt. num. 165007"
     },
     "Kengne-2016": {
         "type": "article",
@@ -8084,7 +8084,7 @@
         "type": "article",
         "tag": "Bohm-1953",
         "title": "Nuovi criteri di esistenza di soluzioni periodiche di una nota equazione differenziale non lineare",
-        "author": "B{\\\"ohm, C.",
+        "author": "B{\\\"o}hm, C.",
         "journal": "Annali di Matematica pura ed applicata",
         "volume": "35",
         "number": "1",
@@ -8097,7 +8097,7 @@
         "tag": "Hayes-1953",
         "title": "On the equation for a damped pendulum under constant torque",
         "author": "Hayes, W.D.",
-        "journal": "Zeitschrift f{\\\"ur Angewandte Mathematik und Physik (ZAMP)",
+        "journal": "Zeitschrift f{\\\"u}r Angewandte Mathematik und Physik (ZAMP)",
         "volume": "4",
         "number": "5",
         "pages": "398--401",
@@ -8127,7 +8127,7 @@
         "title": "Switching in Systems and Control",
         "author": "Liberzon, D.",
         "year": "2003",
-        "publisher": "Birkh{\\\"auser Boston}"
+        "publisher": "Birkh{\\\"a}user Boston"
     },
     "Denny-2002": {
         "type": "article",
@@ -8190,7 +8190,7 @@
     "Rocard-1941": {
         "type": "book",
         "tag": "Rocard-1941",
-        "title": "Th\\'{eorie des oscillateurs (in French)",
+        "title": "Th\\'{e}orie des oscillateurs (in French)",
         "author": "Rocard, Y.",
         "year": "1941",
         "publisher": "Revue scientifique",
@@ -8200,7 +8200,7 @@
         "type": "book",
         "tag": "Wood-2013",
         "title": "Power generation, operation, and control",
-        "author": "Wood, Allen J and Wollenberg, Bruce F and Shebl{\\'e Gerald B,",
+        "author": "Wood, Allen J and Wollenberg, Bruce F and Shebl{\\'e} Gerald B}",
         "year": "2013",
         "publisher": "John Wiley \\& Sons"
     },
@@ -8278,7 +8278,7 @@
         "type": "article",
         "tag": "BarbozaC-2011",
         "author": "Barboza, R. and Chen, G.",
-        "title": "On the global boundedness of the {Chen system",
+        "title": "On the global boundedness of the {C}hen system",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "21",
         "number": "11",
@@ -8288,7 +8288,7 @@
     "Barboza-2018": {
         "type": "article",
         "tag": "Barboza-2018",
-        "title": "On {Lorenz and {C}hen systems",
+        "title": "On {L}orenz and {C}hen systems",
         "author": "Barboza, R.",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "28",
@@ -8342,7 +8342,7 @@
         "type": "article",
         "tag": "CruzC-1992",
         "author": "Cruz, J.M. and Chua, L.",
-        "title": "A {CMOS {IC} nonlinear resistor for {C}hua's circuit",
+        "title": "A {CMOS} {IC} nonlinear resistor for {C}hua's circuit",
         "journal": "IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications",
         "year": "1992",
         "volume": "39",
@@ -8391,7 +8391,7 @@
     "LeonovM-2018-PolyahovskieCh": {
         "type": "inproceedings",
         "tag": "LeonovM-2018-PolyahovskieCh",
-        "title": "Numerical simulations of the {Lorenz-like system: Asymptotic Behavior of Solutions, Chaos and Homoclinic Bifurcations",
+        "title": "Numerical simulations of the {L}orenz-like system: Asymptotic Behavior of Solutions, Chaos and Homoclinic Bifurcations",
         "author": "Leonov, G.A. and Mokaev, R.N.",
         "booktitle": "Abstracts of the International Scientific Conference on Mechanics ''The Eight Polyakhov’s Reading''",
         "pages": "264",
@@ -8400,7 +8400,7 @@
     "Leonov2017-Lorenz4d": {
         "type": "article",
         "tag": "Leonov2017-Lorenz4d",
-        "title": "GENERALIZED {LORENZ EQUATIONS FOR ACOUSTIC-GRAVITY WAVES IN THE ATMOSPHERE. ATTRACTORS DIMENSION, CONVERGENCE AND HOMOCLINIC TRAJECTORIES.",
+        "title": "GENERALIZED {L}ORENZ EQUATIONS FOR ACOUSTIC-GRAVITY WAVES IN THE ATMOSPHERE. ATTRACTORS DIMENSION, CONVERGENCE AND HOMOCLINIC TRAJECTORIES.",
         "author": "Leonov, G.A.",
         "journal": "Communications on Pure \\& Applied Analysis",
         "volume": "16",
@@ -8431,14 +8431,14 @@
     "Leonov-2014-DAN": {
         "type": "article",
         "tag": "Leonov-2014-DAN",
-        "title": "R{\\\"ossler systems: estimates for the dimension of attractors and homoclinic orbits",
+        "title": "R{\\\"o}ssler systems: estimates for the dimension of attractors and homoclinic orbits",
         "author": "Leonov, G.A.",
         "journal": "Doklady Mathematics",
         "volume": "89",
         "number": "3",
         "pages": "369--371",
         "year": "2014",
-        "publisher": "Springer% Leonov %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+        "publisher": "Springer}% Leonov %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
     },
     "Leonov-2018-UMZh": {
         "type": "article",
@@ -8468,7 +8468,7 @@
     "Leonov-2017-CPAA": {
         "type": "article",
         "tag": "Leonov-2017-CPAA",
-        "title": "Generalized {Lorenz equations for acoustic-gravity waves in the atmosphere. {A}ttractors dimension, convergence and homoclinic trajectories",
+        "title": "Generalized {L}orenz equations for acoustic-gravity waves in the atmosphere. {A}ttractors dimension, convergence and homoclinic trajectories",
         "author": "Leonov, G.A.",
         "journal": "Communications on Pure \\& Applied Analysis",
         "volume": "16",
@@ -8480,7 +8480,7 @@
         "type": "article",
         "tag": "Leonov-2017-IJBC",
         "author": "Leonov, G.",
-        "title": "{Hausdorff-{L}ebesgue dimension of attractors",
+        "title": "H}ausdorff-{L}ebesgue dimension of attractor",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "27",
         "number": "10",
@@ -8513,7 +8513,7 @@
         "type": "article",
         "tag": "Leonov-2016-IJBC",
         "author": "Leonov, G. A.",
-        "title": "Lyapunov dimension formulas for {Lorenz-like systems",
+        "title": "Lyapunov dimension formulas for {L}orenz-like systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "26",
         "number": "14",
@@ -8523,7 +8523,7 @@
     "Leonov-2015-DAN-Homo": {
         "type": "article",
         "tag": "Leonov-2015-DAN-Homo",
-        "title": "Cascade of bifurcations in {Lorenz-like systems: {B}irth of a strange attractor, blue sky catastrophe bifurcation, and nine homoclinic bifurcations",
+        "title": "Cascade of bifurcations in {L}orenz-like systems: {B}irth of a strange attractor, blue sky catastrophe bifurcation, and nine homoclinic bifurcations",
         "author": "Leonov, G.A.",
         "journal": "Doklady Mathematics",
         "volume": "92",
@@ -8536,7 +8536,7 @@
         "type": "article",
         "tag": "Leonov-2015-ND",
         "author": "Leonov, G.A.",
-        "title": "Necessary and sufficient conditions of the existence of homoclinic trajectories and cascade of bifurcations in {Lorenz-like systems: birth of strange attractor and 9 homoclinic bifurcations",
+        "title": "Necessary and sufficient conditions of the existence of homoclinic trajectories and cascade of bifurcations in {L}orenz-like systems: birth of strange attractor and 9 homoclinic bifurcations",
         "journal": "Nonlinear Dynamics",
         "volume": "84",
         "number": "2",
@@ -8548,7 +8548,7 @@
         "type": "article",
         "tag": "LeonovA-DAN-2015",
         "author": "Leonov, G.A. and Aleksandrov, K.D.",
-        "title": "{Frequency-{D}omain {C}riteria for the {G}lobal {S}tability of {P}hase {S}ynchronization {S}ystems",
+        "title": "F}requency-{D}omain {C}riteria for the {G}lobal {S}tability of {P}hase {S}ynchronization {S}ystem",
         "journal": "Doklady Mathematics",
         "volume": "92",
         "number": "3",
@@ -8581,7 +8581,7 @@
         "type": "article",
         "tag": "LeonovM-2016-DAN",
         "author": "Leonov, G.A. and Mokaev, T.N.",
-        "title": "Lyapunov Dimension Formula for the Attractor of the {Glukhovsky-{D}olzhansky System",
+        "title": "Lyapunov Dimension Formula for the Attractor of the {G}lukhovsky-{D}olzhansky System",
         "journal": "Doklady Mathematics",
         "volume": "93",
         "number": "1",
@@ -8651,7 +8651,7 @@
         "volume": "87",
         "number": "3",
         "doi": "10.1134/S1064562413030010",
-        "title": "Formulas for the {Lyapunov dimension of attractors of the generalized {L}orenz system",
+        "title": "Formulas for the {L}yapunov dimension of attractors of the generalized {L}orenz system",
         "author": "Leonov, G.A.",
         "pages": "264-268",
         "language": "English"
@@ -8660,7 +8660,7 @@
         "type": "article",
         "tag": "Leonov-2013-IJBC",
         "author": "Leonov, G.A.",
-        "title": "Shilnikov chaos in {Lorenz-like systems",
+        "title": "Shilnikov chaos in {L}orenz-like systems",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "23",
         "number": "03",
@@ -8703,7 +8703,7 @@
         "type": "article",
         "tag": "Leonov-2012-DRAN",
         "author": "Leonov, G. A.",
-        "title": "Tricomi problem for {Shimizu-{M}orioka dynamical system",
+        "title": "Tricomi problem for {S}himizu-{M}orioka dynamical system",
         "journal": "Doklady Mathematics",
         "year": "2012",
         "volume": "86",
@@ -8759,7 +8759,7 @@
         "tag": "LeonovRS-2011",
         "author": "G.A. Leonov and V. Reitmann and A.S. Slepukhin",
         "year": "2011",
-        "title": "Upper Estimates for the {Hausdorff Dimension of Negatively Invariant Sets of Local Cocycles",
+        "title": "Upper Estimates for the {H}ausdorff Dimension of Negatively Invariant Sets of Local Cocycles",
         "journal": "Doklady Mathematics",
         "volume": "84",
         "number": "1",
@@ -8770,7 +8770,7 @@
         "type": "article",
         "tag": "LeonovPS-2011",
         "author": "G.A. Leonov and A.Y. Pogromsky and K.E. Starkov",
-        "title": "Dimension Formula for the {Lorenz Attractor",
+        "title": "Dimension Formula for the {L}orenz Attractor",
         "journal": "Physics Letters A",
         "volume": "375",
         "number": "8",
@@ -8804,7 +8804,7 @@
         "tag": "LeonovK-RCD-2010",
         "author": "Leonov, G.A. and Kuznetsova, O.A.",
         "year": "2010",
-        "title": "{L}yapunov Quantities and Limit Cycles of Two-dimensional Dynamical Systems. {A}nalytical Methods and Symbolic Computation",
+        "title": "L}yapunov Quantities and Limit Cycles of Two-dimensional Dynamical Systems. {A}nalytical Methods and Symbolic Computatio",
         "journal": "Regular and Chaotic Dynamics",
         "volume": "15",
         "number": "2-3",
@@ -8947,7 +8947,7 @@
         "tag": "Leonov-IJBC-2008",
         "author": "Leonov, G.A.",
         "year": "2008",
-        "title": "{H}ilbert's 16th problem for quadratic system. {N}ew method based on a transformation to the {L}ienard equation",
+        "title": "H}ilbert's 16th problem for quadratic system. {N}ew method based on a transformation to the {L}ienard equatio",
         "journal": "International journal of bifurcation and chaos",
         "number": "18",
         "pages": "877-884\""
@@ -9243,7 +9243,7 @@
         "type": "article",
         "tag": "BoichenkoL-2000",
         "author": "V.A. Boichenko and G.A. Leonov",
-        "title": "On Estimated for Dimension of Attractors of the {Henon Map",
+        "title": "On Estimated for Dimension of Attractors of the {H}enon Map",
         "journal": "Vestnik of the St. Petersburg University: Mathematics",
         "year": "2000",
         "volume": "33",
@@ -9419,7 +9419,7 @@
         "type": "article",
         "tag": "Leonov-1995-Vest",
         "author": "G.A. Leonov",
-        "title": "Construction of a Special Outer {Karatheodory Measure for Estimating the {H}ausdorff Dimension of Attractors",
+        "title": "Construction of a Special Outer {K}aratheodory Measure for Estimating the {H}ausdorff Dimension of Attractors",
         "journal": "Vestnik of the St. Petersburg University: Mathematics",
         "year": "1995",
         "number": "4",
@@ -9460,7 +9460,7 @@
         "type": "article",
         "tag": "LeonovL-1993",
         "author": "Leonov, G.A. and Lyashko, S.A.",
-        "title": "{Eden's hypothesis for a {L}orenz system",
+        "title": "E}den's hypothesis for a {L}orenz syste",
         "journal": "Vestnik St. Petersburg University: Mathematics",
         "year": "1993",
         "volume": "26",
@@ -9472,7 +9472,7 @@
         "type": "article",
         "tag": "LeonovB-1992",
         "author": "G.A. Leonov and V.A. Boichenko",
-        "title": "Lyapunov's direct method in the estimation of the {Hausdorff dimension of attractors",
+        "title": "Lyapunov's direct method in the estimation of the {H}ausdorff dimension of attractors",
         "journal": "Acta Applicandae Mathematicae",
         "year": "1992",
         "volume": "26",
@@ -9548,7 +9548,7 @@
     "LeonovAB-1985": {
         "type": "inproceedings",
         "tag": "LeonovAB-1985",
-        "title": "Global stability of the {Lorenz system",
+        "title": "Global stability of the {L}orenz system",
         "author": "Leonov, G.A. and Abramovich, S.M. and Bunin, A.I.",
         "booktitle": "Nonlinear and turbulent processes in physics.{P}roc. of {S}econd {I}nternational {W}orking {G}roup",
         "volume": "2",
@@ -9570,7 +9570,7 @@
     "Leonov-1983": {
         "type": "article",
         "tag": "Leonov-1983",
-        "title": "On the global stability of the {Lorenz system",
+        "title": "On the global stability of the {L}orenz system",
         "author": "Leonov, G.A.",
         "journal": "Journal of Applied Mathematics and Mechanics",
         "volume": "47",
@@ -9817,7 +9817,7 @@
         "type": "article ",
         "tag": "LeonovBK-1987",
         "author": "Leonov, G.A. and Bunin, A.I. and Koksch, N.",
-        "title": "Attraktorlokalisierung des {Lorenz-Systems",
+        "title": "Attraktorlokalisierung des {L}orenz-Systems",
         "journal": "ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift fur Angewandte Mathematik und Mechanik",
         "volume": "67",
         "number": "12",
@@ -9828,7 +9828,7 @@
         "type": "article",
         "tag": "LeonovR-1986",
         "author": "Leonov, G.A. and Reitmann, V.",
-        "title": "Das {R\\\"{o}ssler-{S}ystem ist nicht dissipativ im {S}inne von {L}evinson",
+        "title": "Das {R}\\\"{o}ssler-{S}ystem ist nicht dissipativ im {S}inne von {L}evinson",
         "journal": "Mathematische Nachrichten",
         "volume": "129",
         "number": "1",
@@ -9903,7 +9903,7 @@
         "type": "inproceedings",
         "tag": "GillespieKK-2000",
         "author": "Gillespie, D.  and  Kennedy, M.P. and  Kolumban, G.",
-        "title": "Improved nonlinear model of a second-order {Charge-{P}ump {PLL} ",
+        "title": "Improved nonlinear model of a second-order {C}harge-{P}ump {PLL} ",
         "booktitle": "Nonlinear Dynamics of Electronic Systems",
         "pages": "240-243",
         "year": "2000",
@@ -9952,7 +9952,7 @@
         "type": "article",
         "tag": "sancho2004general",
         "title": "General envelope-transient formulation of phase-locked loops using three time scales",
-        "author": "Sancho, Sergio and S{\\'uarez, Almudena and Chuan, Jeffrey",
+        "author": "Sancho, Sergio and S{\\'u}arez, Almudena and Chuan, Jeffrey",
         "journal": "IEEE Transactions on Microwave Theory and Techniques",
         "volume": "52",
         "number": "4",
@@ -9973,7 +9973,7 @@
     "Hein-1988": {
         "type": "article",
         "tag": "Hein-1988",
-        "title": "Z-domain model for discrete-time {PLL's",
+        "title": "Z-domain model for discrete-time {PLL}'s",
         "author": "Hein, J.P. and Scott, J.W.",
         "journal": "IEEE Transactions on Circuits and Systems",
         "volume": "35",
@@ -9985,7 +9985,7 @@
     "acco2003etude": {
         "type": "phdthesis",
         "tag": "acco2003etude",
-        "title": "Study of the loop {\\ `a phase lock: Hybrid aspects taken into account",
+        "title": "Study of the loop {\\ `a} phase lock: Hybrid aspects taken into account",
         "author": "Acco, P.",
         "year": "2003",
         "school": "Toulouse, INSA"
@@ -9993,7 +9993,7 @@
     "Hedayat-1999-3order": {
         "type": "article",
         "tag": "Hedayat-1999-3order",
-        "title": "Modeling and characterization of the 3rd order charge-pump {PLL: a fully event-driven approach",
+        "title": "Modeling and characterization of the 3rd order charge-pump {PLL}: a fully event-driven approach",
         "author": "Hedayat, C.D. and Hachem, A. and Leduc, Y. and Benbassat, G.",
         "journal": "Analog Integrated Circuits and Signal Processing",
         "volume": "19",
@@ -10028,7 +10028,7 @@
     "Acco-2004": {
         "type": "article",
         "tag": "Acco-2004",
-        "title": "Approche hybride de la stabilit{\\'e locale de la boucle {\\`a} verrouillage de phase par impulsions de charge",
+        "title": "Approche hybride de la stabilit{\\'e} locale de la boucle {\\`a} verrouillage de phase par impulsions de charge",
         "author": "Acco, P. and Daafouz, J. and Fourniet-Prunaret, D. and Taha, A.-K.",
         "journal": "Revue e-STA",
         "volume": "1",
@@ -10050,7 +10050,7 @@
     "Guermandi-2011": {
         "type": "article",
         "tag": "Guermandi-2011",
-        "title": "On the simulation of fast settling charge pump {PLLs up to fourth order",
+        "title": "On the simulation of fast settling charge pump {PLL}s up to fourth order",
         "author": "Guermandi, M. and Franchi, E. and Gnudi, A.",
         "journal": "International Journal of Circuit Theory and Applications",
         "volume": "39",
@@ -10119,7 +10119,7 @@
         "type": "article",
         "tag": "ladvanszky2018costas",
         "title": "A Costas loop variant for large noise",
-        "author": "Ladv{\\'anszky, J.",
+        "author": "Ladv{\\'a}nszky, J.",
         "journal": "Journal of Asian Scientific Research",
         "volume": "8",
         "number": "3",
@@ -10130,7 +10130,7 @@
         "type": "inproceedings",
         "tag": "ladvanszky2015circuit",
         "title": "Circuit theoretical aspects of optical communication links",
-        "author": "Ladv{\\'anszky, J{\\'a}nos",
+        "author": "Ladv{\\'a}nszky, J{\\'a}nos",
         "booktitle": "Transparent Optical Networks (ICTON), 2015 17th International Conference on",
         "pages": "1--4",
         "year": "2015",
@@ -10140,7 +10140,7 @@
         "type": "misc",
         "tag": "ladvanszky2017subcarrier",
         "title": "Subcarrier allocation device and method for allocating N channels to carrier frequencies",
-        "author": "Ladv{\\'anszky, J{\\'a}nos and Dortschy, Boris",
+        "author": "Ladv{\\'a}nszky, J{\\'a}nos and Dortschy, Boris",
         "year": "2017",
         "month": "sep. 21",
         "publisher": "Google Patents",
@@ -10150,7 +10150,7 @@
         "type": "inproceedings",
         "tag": "zolomy1997eight",
         "title": "Eight-octave Bandwidth Optical Receiver Using Distributed Amplification",
-        "author": "Z{\\'olomy, A and Berceli, T and Hilt, A and J{\\'a}r{\\'o G and Aitchison, СS and BaranyiA, A and Ladv{\\'a}nszky, J and Liang, JY},",
+        "author": "Z{\\'o}lomy, A and Berceli, T and Hilt, A and J{\\'a}r{\\'o} G and Aitchison, СS and BaranyiA, A and Ladv{\\'a}nszky, J and Liang, JY}",
         "booktitle": "Microwave Photonics, 1997. MWP'97. International Topical Meeting on",
         "pages": "147--150",
         "year": "1997",
@@ -10160,7 +10160,7 @@
         "type": "inproceedings",
         "tag": "ladvanszky2011software",
         "title": "Software based separation of amplitude and phase noises in time domain",
-        "author": "Ladv{\\'anszky, J{\\'a}nos and Kov{\\'a}cs, G{\\'a}bor",
+        "author": "Ladv{\\'a}nszky, J{\\'a}nos and Kov{\\'a}cs, G{\\'a}bor",
         "booktitle": "Circuits and Systems (ISCAS), 2011 IEEE International Symposium on",
         "pages": "769--772",
         "year": "2011",
@@ -10197,7 +10197,7 @@
     "osborne1982generalized": {
         "type": "article",
         "tag": "osborne1982generalized",
-        "title": "A Generalized ``polarity-Type'' {Costas loop for tracking {MPSK} signals",
+        "title": "A Generalized ``polarity-Type'' {C}ostas loop for tracking {MPSK} signals",
         "author": "Osborne, H",
         "journal": "IEEE Transactions on Communications",
         "volume": "30",
@@ -10418,7 +10418,7 @@
     "HuqueS-2013": {
         "type": "article",
         "tag": "HuqueS-2013",
-        "title": "An analytical approximation for the pull-out frequency of a {PLL employing a sinusoidal phase detector",
+        "title": "An analytical approximation for the pull-out frequency of a {PLL} employing a sinusoidal phase detector",
         "author": "Huque, A.S. and Stensby, J.",
         "journal": "ETRI Journal",
         "volume": "35",
@@ -10440,7 +10440,7 @@
     "SmirnovaPU-2014": {
         "type": "inproceedings",
         "tag": "SmirnovaPU-2014",
-        "title": "Problem of cycle-slipping for infinite dimensional systems with {MIMO nonlinearities",
+        "title": "Problem of cycle-slipping for infinite dimensional systems with {MIMO} nonlinearities",
         "author": "Smirnova, V. and Proskurnikov, A. and Utina, N.",
         "booktitle": "Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT), 2014 6th International Congress on",
         "pages": "590--595",
@@ -10529,7 +10529,7 @@
         "number": "21",
         "pages": "20048--20053",
         "publisher": "OSA",
-        "title": "Monolithically integrated heterodyne optical phase-lock loop with {RF {XOR} phase detector",
+        "title": "Monolithically integrated heterodyne optical phase-lock loop with {RF} {XOR} phase detector",
         "volume": "19",
         "month": "Oct",
         "year": "2011",
@@ -10540,7 +10540,7 @@
         "tag": "brendel2013millimeter",
         "title": "Millimeter-Wave Radio-over-Fiber Links based on Mode-Locked Laser Diodes",
         "author": "Brendel, F.",
-        "series": "Karlsruher Forschungsberichte aus dem Institut f{\\\"ur Hochfrequenztechnik und Elektronik",
+        "series": "Karlsruher Forschungsberichte aus dem Institut f{\\\"u}r Hochfrequenztechnik und Elektronik",
         "year": "2013",
         "publisher": "KIT Scientific Publishing"
     },
@@ -10634,7 +10634,7 @@
         "number": "2",
         "pages": "177",
         "publisher": "OSA",
-        "title": "An Example of a Hybrid System: Coherent Optical System with {Costas Loop in Receiver-System for Transmission in Baseband",
+        "title": "An Example of a Hybrid System: Coherent Optical System with {C}ostas Loop in Receiver-System for Transmission in Baseband",
         "volume": "16",
         "month": "Feb",
         "year": "1998"
@@ -10648,7 +10648,7 @@
         "number": "12",
         "pages": "2470",
         "publisher": "OSA",
-        "title": "Performance of optical heterodyne {PSK Systems with {C}ostas loop in multichannel environmentfor nonlinear second-order {PLL} model",
+        "title": "Performance of optical heterodyne {PSK} Systems with {C}ostas loop in multichannel environmentfor nonlinear second-order {PLL} model",
         "volume": "17",
         "month": "Dec",
         "year": "1999"
@@ -10680,7 +10680,7 @@
         "keywords": "",
         "pages": "WH6",
         "publisher": "Optical Society of America",
-        "title": "Optical {Costas loop experiment using a novel optical 90 hybrid module and a semiconductor-laser-amplifier external phase adjuster",
+        "title": "Optical {C}ostas loop experiment using a novel optical 90 hybrid module and a semiconductor-laser-amplifier external phase adjuster",
         "year": "1991"
     },
     "Cho-2006": {
@@ -10692,7 +10692,7 @@
         "keywords": "Fiber optics and optical communications; Coherent communications; Homodyning",
         "pages": "JWB24",
         "publisher": "Optical Society of America",
-        "title": "Optical Phase-Locked Loop Performance in Homodyne Detection Using Pulsed and {CW {LO}",
+        "title": "Optical Phase-Locked Loop Performance in Homodyne Detection Using Pulsed and {CW} {LO}",
         "year": "2006"
     },
     "Henning-1981": {
@@ -10732,7 +10732,7 @@
     "EmuraWYN-2000": {
         "type": "article",
         "tag": "EmuraWYN-2000",
-        "title": "A high-precision positioning servo controller based on phase/frequency detecting technique of two-phase-type {PLL",
+        "title": "A high-precision positioning servo controller based on phase/frequency detecting technique of two-phase-type {PLL}",
         "author": "Emura, Takashi and Wang, Lei and Yamanaka, Masashi and Nakamura, Hisashi",
         "journal": "IEEE Transactions on Industrial Electronics",
         "volume": "47",
@@ -10758,7 +10758,7 @@
         "booktitle": "Asia Optical Fiber Communication and Optoelectronic Exposition and Conference",
         "pages": "1-3",
         "publisher": "IEEE ",
-        "title": "Linewidth Investigation for {Costas Loop Phase-Diversity Homodyne Detection in Digital Coherent Detection System",
+        "title": "Linewidth Investigation for {C}ostas Loop Phase-Diversity Homodyne Detection in Digital Coherent Detection System",
         "year": "2008"
     },
     "WendtF-1943": {
@@ -10936,7 +10936,7 @@
         "type": "book",
         "tag": "Shu-2005",
         "author": "Shu, K. and Sanchez-Sinencio, E.",
-        "title": "{CMOS} {PLL} synthesizers: analysis and design",
+        "title": "CMOS} {PLL} synthesizers: analysis and desig",
         "publisher": "Springer",
         "year": "2005\""
     },
@@ -11310,7 +11310,7 @@
     "Shalfeev-2013-book": {
         "type": "book",
         "tag": "Shalfeev-2013-book",
-        "title": "Nonlinear dynamics of phase synchronization systems (in {Russian)",
+        "title": "Nonlinear dynamics of phase synchronization systems (in {R}ussian)",
         "author": "Shalfeev, V.D. and Matrosov, V.V.",
         "year": "2013",
         "publisher": "Nizhni Novgorod University Press"
@@ -11318,7 +11318,7 @@
     "Costas-1956": {
         "type": "conference",
         "tag": "Costas-1956",
-        "author": "{C}ostas, J.P.",
+        "author": "C}ostas, J.P",
         "title": "Synchoronous Communications",
         "booktitle": "Proc. IRE",
         "year": "1956",
@@ -11412,7 +11412,7 @@
     "SannemanR-1964": {
         "type": "article",
         "tag": "SannemanR-1964",
-        "title": "Unlock characteristics of the optimum type {I{I} phase-locked loop",
+        "title": "Unlock characteristics of the optimum type {I}{I} phase-locked loop",
         "author": "Sanneman, R.W. and Rowbotham, J.R.",
         "journal": "IEEE Transactions on Aerospace and navigational Electronics",
         "number": "1",
@@ -11514,7 +11514,7 @@
         "type": "article",
         "tag": "Rodriguez-2007",
         "title": "Decoupled double synchronous reference frame PLL for power converters control",
-        "author": "Rodr{\\'\\iguez, Pedro and Pou, Josep and Bergas, Joan and Candela, J Ignacio and Burgos, Rolando P and Boroyevich, Dushan",
+        "author": "Rodr{\\'\\i}guez, Pedro and Pou, Josep and Bergas, Joan and Candela, J Ignacio and Burgos, Rolando P and Boroyevich, Dushan",
         "journal": "IEEE Transactions on Power Electronics",
         "volume": "22",
         "number": "2",
@@ -11561,7 +11561,7 @@
     "Waters-1982-patent": {
         "type": "misc",
         "tag": "Waters-1982-patent",
-        "title": "Costas loop {QPSK demodulator",
+        "title": "Costas loop {QPSK} demodulator",
         "author": "Waters, George W",
         "year": "1982",
         "month": "aug # \"~10\",",
@@ -11571,7 +11571,7 @@
     "HasegawaKW-2001": {
         "type": "misc",
         "tag": "HasegawaKW-2001",
-        "title": "{GPS positioning method and {GPS} reception apparatus",
+        "title": "GPS} positioning method and {GPS} reception apparatu",
         "author": "Hasegawa, Koji and Kanetsuna, Haruo and Wakamori, Mikio",
         "year": "2001",
         "publisher": "Google Patents",
@@ -11580,7 +11580,7 @@
     "SakamotoN-2006": {
         "type": "misc",
         "tag": "SakamotoN-2006",
-        "title": "{PLL clock signal generation circuit",
+        "title": "PLL} clock signal generation circui",
         "author": "Sakamoto, Y. and Nakao, Y.",
         "year": "2006",
         "month": "sep # \"~19\",",
@@ -11590,7 +11590,7 @@
     "NowsheenBF-2010": {
         "type": "inproceedings",
         "tag": "NowsheenBF-2010",
-        "title": "Design of a high frequency {FPGA acoustic modem for underwater communication",
+        "title": "Design of a high frequency {FPGA} acoustic modem for underwater communication",
         "author": "Nowsheen, Nusrat and Benson, C and Frater, M",
         "booktitle": "OCEANS 2010 IEEE-Sydney",
         "pages": "1-6",
@@ -11605,17 +11605,17 @@
         "year": "2009",
         "month": "feb # \"~16\",",
         "publisher": "Google Patents",
-        "note": "{US Patent App. 12/371,828}"
+        "note": "US} Patent App. 12/371,82"
     },
     "Bouaricha-2012": {
         "type": "misc",
         "tag": "Bouaricha-2012",
-        "title": "Hybrid time and frequency solution for {PLL sub-block simulation",
+        "title": "Hybrid time and frequency solution for {PLL} sub-block simulation",
         "author": "Bouaricha, Ali and others",
         "year": "2012",
         "month": "jun # \"~26\",",
         "publisher": "Google Patents",
-        "note": "{US Patent 8,209,154}"
+        "note": "US} Patent 8,209,15"
     },
     "Sutterlin-1998": {
         "type": "inproceedings",
@@ -11639,7 +11639,7 @@
     "FiocchiMT-1992": {
         "type": "inproceedings",
         "tag": "FiocchiMT-1992",
-        "title": "A sigma-delta based {PLL for non-sinusoidal waveforms",
+        "title": "A sigma-delta based {PLL} for non-sinusoidal waveforms",
         "author": "Fiocchi, C. and Maloberti, F.  and Torelli, G.",
         "volume": "6",
         "year": "1999",
@@ -11652,7 +11652,7 @@
         "tag": "Costas-1962-patent",
         "title": "Receiver for communication system",
         "author": "Costas, John P",
-        "note": "{US Patent 3,047,659",
+        "note": "US} Patent 3,047,65",
         "dayfiled": "31",
         "yearfiled": "1962",
         "year": "1962\""
@@ -11660,7 +11660,7 @@
     "RobertsEtAl-2009": {
         "type": "article",
         "tag": "RobertsEtAl-2009",
-        "title": "Performance of dual-polarization {QPSK for optical transport systems",
+        "title": "Performance of dual-polarization {QPSK} for optical transport systems",
         "author": "Roberts, Kim and O'Sullivan, Maurice and Wu, Kuang-Tsan and Sun, Han and Awadalla, Ahmed and Krause, David J and Laperle, Charles",
         "journal": "Journal of lightwave technology",
         "volume": "27",
@@ -11693,7 +11693,7 @@
         "type": "inproceedings",
         "tag": "heine2014european",
         "title": "The European Data Relay System, high speed laser based data links",
-        "author": "Heine, Frank and M{\\\"uhlnikel, Gerd and Zech, Herwig and Philipp-May, Sabine and Meyer, Rolf",
+        "author": "Heine, Frank and M{\\\"u}hlnikel, Gerd and Zech, Herwig and Philipp-May, Sabine and Meyer, Rolf",
         "booktitle": "2014 7th Advanced Satellite Multimedia Systems Conference and the 13th Signal Processing for Space Communications Workshop (ASMS/SPSC)",
         "pages": "284--286",
         "year": "2014",
@@ -11702,7 +11702,7 @@
     "KimEtAl-2010": {
         "type": "inproceedings",
         "tag": "KimEtAl-2010",
-        "title": "A multi-standard multi-band tuner for mobile {TV {SoC} with {GSM} Interoperability",
+        "title": "A multi-standard multi-band tuner for mobile {TV} {SoC} with {GSM} Interoperability",
         "author": "Kim, Huijung and Kang, Sanghoon and Chang, Jae-Hong and Choi, Jeong-Hyun and Chung, Hangun and Heo, Jungwook and Bae, Jong-Dae and Choo, Wooseung and Park, Byeong-ha",
         "booktitle": "Radio Frequency Integrated Circuits Symposium (RFIC), 2010 IEEE",
         "pages": "189-192",
@@ -11724,7 +11724,7 @@
     "TomkinsEtAl-2009": {
         "type": "article",
         "tag": "TomkinsEtAl-2009",
-        "title": "A zero-{IF 60 {GH}z 65 nm {CMOS} transceiver with direct {BPSK}modulation demonstrating up to 6 {G}b/s data rates over a 2 m wireless link",
+        "title": "A zero-{IF} 60 {GH}z 65 nm {CMOS} transceiver with direct {BPSK}modulation demonstrating up to 6 {G}b/s data rates over a 2 m wireless link",
         "author": "Tomkins, Alexander and Aroca, Ricardo Andres and Yamamoto, Takuji and Nicolson, Sean T and Voinigescu, SP and others",
         "journal": "Solid-State Circuits, IEEE Journal of",
         "volume": "44",
@@ -11749,7 +11749,7 @@
         "year": "2012",
         "month": "sep",
         "day": "6,",
-        "note": "{US Patent 20,120,223,781}"
+        "note": "US} Patent 20,120,223,78"
     },
     "Chen-2002-book": {
         "type": "book",
@@ -11851,7 +11851,7 @@
         "number": "2",
         "pages": "177",
         "publisher": "OSA",
-        "title": "An Example of a Hybrid System: Coherent Optical System with {Costas Loop in Receiver-System for Transmission in Baseband",
+        "title": "An Example of a Hybrid System: Coherent Optical System with {C}ostas Loop in Receiver-System for Transmission in Baseband",
         "volume": "16",
         "month": "Feb",
         "year": "1998"
@@ -11865,7 +11865,7 @@
         "number": "12",
         "pages": "2470",
         "publisher": "OSA",
-        "title": "Performance of optical heterodyne {PSK systems with {C}ostas loop in multichannel environment for nonlinear second-order {PLL} model",
+        "title": "Performance of optical heterodyne {PSK} systems with {C}ostas loop in multichannel environment for nonlinear second-order {PLL} model",
         "volume": "17",
         "month": "Dec",
         "year": "1999"
@@ -11892,7 +11892,7 @@
     "Tranter-2010-book": {
         "type": "book",
         "tag": "Tranter-2010-book",
-        "title": "Basic Simulation Models of Phase Tracking Devices Using {MATLAB",
+        "title": "Basic Simulation Models of Phase Tracking Devices Using {MATLAB}",
         "author": "Tranter, W. and Bose, T. and Thamvichai, R.",
         "series": "Synthesis lectures on communications",
         "year": "2010",
@@ -11941,7 +11941,7 @@
     "Doberstein-2011-GPS": {
         "type": "book",
         "tag": "Doberstein-2011-GPS",
-        "title": "Fundamentals of {GPS Receivers: A Hardware Approach",
+        "title": "Fundamentals of {GPS} Receivers: A Hardware Approach",
         "author": "Doberstein, D.",
         "year": "2011",
         "publisher": "Springer"
@@ -11965,7 +11965,7 @@
     "Rohde-2000-book": {
         "type": "book",
         "tag": "Rohde-2000-book",
-        "title": "Communications Receivers: {DPS Software Radios, and Design, 3rd Edition,",
+        "title": "Communications Receivers: {DPS} Software Radios, and Design, 3rd Edition}",
         "author": "Rohde, U. and Whitaker, J. and Bateman, A.",
         "year": "2000",
         "publisher": "McGraw-Hill"
@@ -11989,7 +11989,7 @@
     "BakshiG-2009-book": {
         "type": "book",
         "tag": "BakshiG-2009-book",
-        "title": "Linear {ICs and applications",
+        "title": "Linear {IC}s and applications",
         "author": "Bakshi, U.A. and Godse, A.P.",
         "year": "2009",
         "publisher": "Technical Publications"
@@ -12008,7 +12008,7 @@
         "tag": "Wu-2002",
         "author": "Wu, N.E.",
         "booktitle": "Proceedings of the 2002 American Control Conference (IEEE Cat. No.CH37301)",
-        "title": "Analog phaselock loop design using {Popov criterion",
+        "title": "Analog phaselock loop design using {P}opov criterion",
         "year": "2002",
         "volume": "1",
         "pages": "16-18 vol.1",
@@ -12021,7 +12021,7 @@
         "tag": "Wu-1998",
         "author": "Wu, N.E.",
         "booktitle": "American Control Conference, 1998. Proceedings of the 1998",
-        "title": "Circle/{Popov criteria in phaselock loop design",
+        "title": "Circle/{P}opov criteria in phaselock loop design",
         "year": "1998",
         "volume": "5",
         "pages": "3226-3228 vol.5",
@@ -12108,7 +12108,7 @@
         "author": "Hinz, M. and Konenkamp, I. and Horneber, E.-H.",
         "booktitle": "Proc. 43rd BEE Midwest Symp. on Circuits and Systems",
         "publisher": "IEEE",
-        "title": "Behavioral Modeling and Simulation of Phase-locked Loops for {RF Front Ends",
+        "title": "Behavioral Modeling and Simulation of Phase-locked Loops for {RF} Front Ends",
         "year": "2000",
         "pages": "194-197\""
     },
@@ -12117,7 +12117,7 @@
         "tag": "Rosenkranz-1982",
         "author": "Werner Rosenkranz",
         "title": "Phase-locked loops with limiter phase detectors in the presence of noise",
-        "journal": "{IEEE} Transactions on communications",
+        "journal": "IEEE} Transactions on communication",
         "volume": "COM-30",
         "number": "10",
         "year": "1982",
@@ -12260,7 +12260,7 @@
     "TeplinskyF-2000": {
         "type": "article",
         "tag": "TeplinskyF-2000",
-        "title": "Phase-jitter dynamics of digital phase-locked loops: {Part {II}",
+        "title": "Phase-jitter dynamics of digital phase-locked loops: {P}art {II}",
         "author": "Teplinsky, Alexey and Feely, Orla",
         "journal": "IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications",
         "volume": "47",
@@ -12380,7 +12380,7 @@
     "DuS-2010-communication": {
         "type": "book",
         "tag": "DuS-2010-communication",
-        "title": "Wireless Communication Systems: from {RF subsystems to {4G} enabling technologies",
+        "title": "Wireless Communication Systems: from {RF} subsystems to {4G} enabling technologies",
         "author": "Du, K.L. and Swamy, M.N.S.",
         "year": "2010",
         "publisher": "Cambridge University Press"
@@ -12404,7 +12404,7 @@
     "Holmes-2007-communication": {
         "type": "book",
         "tag": "Holmes-2007-communication",
-        "title": "Spread spectrum systems for {GNSS and wireless communications",
+        "title": "Spread spectrum systems for {GNSS} and wireless communications",
         "author": "Holmes, J.K.",
         "year": "2007",
         "publisher": "Artech House"
@@ -12487,7 +12487,7 @@
     "Shmaliy-2009-gps": {
         "type": "book",
         "tag": "Shmaliy-2009-gps",
-        "title": "GPS-based optimal {FIR filtering of clock models",
+        "title": "GPS-based optimal {FIR} filtering of clock models",
         "author": "Shmaliy, Y.",
         "series": "Electrical engineering developments",
         "year": "2009",
@@ -12515,7 +12515,7 @@
         "type": "article",
         "tag": "Chumchairat-2003",
         "author": "Chumchairat, Prapat and Suwanna, Prapakorn",
-        "title": "A {Costas loop circuit design by using exclusive {OR} gates instead of other input mixers circuits",
+        "title": "A {C}ostas loop circuit design by using exclusive {OR} gates instead of other input mixers circuits",
         "year": "2003",
         "journal": "http://www.ist.cmu.ac.th/intech/paper/InTech0243.pdf",
         "volume": "",
@@ -12540,7 +12540,7 @@
         "tag": "Goyal-2006",
         "year": "2006",
         "booktitle": "Proceedings of the 2006 Asia and South Pacific Design Automation Conference",
-        "title": "A fast methodology for first-time-correct design of {PLLs using nonlinear phase-domain {VCO} macromodels",
+        "title": "A fast methodology for first-time-correct design of {PLL}s using nonlinear phase-domain {VCO} macromodels",
         "author": "Goyal, P. and Lai, X. and Roychowdhury, J.",
         "doi": "10.1109/ASPDAC.2006.1594697",
         "pages": "291-296"
@@ -12597,7 +12597,7 @@
         "year": "2009",
         "journal": "Journal of the Franklin Institute",
         "volume": "346",
-        "title": "{VCO sweep-rate limit for a phase-lock loop",
+        "title": "VCO} sweep-rate limit for a phase-lock loo",
         "pages": "223-236",
         "language": "English"
     },
@@ -12620,7 +12620,7 @@
         "journal": "ETRI Journal",
         "volume": "35",
         "number": "2",
-        "title": "An analytical approximation for the pull-out frequency of a {PLL employing a sinusoidal phase detector",
+        "title": "An analytical approximation for the pull-out frequency of a {PLL} employing a sinusoidal phase detector",
         "pages": "218-225",
         "language": "English"
     },
@@ -12631,7 +12631,7 @@
         "author": "Huque, A.S.",
         "year": "2011",
         "publisher": "The Univerrsity of Alabama in Huntsville",
-        "note": "{Ph.~{D}. thesis}"
+        "note": "P}h.~{D}. thesi"
     },
     "HuqueS-2011-exact": {
         "type": "article",
@@ -12657,7 +12657,7 @@
     "Stensby-1989": {
         "type": "article",
         "tag": "Stensby-1989",
-        "title": "False lock and bifurcation in {Costas Loops",
+        "title": "False lock and bifurcation in {C}ostas Loops",
         "author": "Stensby, John",
         "journal": "SIAM Journal on Applied Mathematics",
         "volume": "49",
@@ -12681,7 +12681,7 @@
         "tag": "Simon-1978",
         "author": "Simon, M.K.",
         "journal": "Communications, IEEE Transactions on",
-        "title": "The False Lock Performance of {Costas Loops with Hard-Limited In-Phase Channel",
+        "title": "The False Lock Performance of {C}ostas Loops with Hard-Limited In-Phase Channel",
         "year": "1978",
         "volume": "26",
         "number": "1",
@@ -12692,7 +12692,7 @@
         "tag": "Lindsey-1978",
         "author": "Hedin, G. and Holmes, J. and Lindsey, W.C. and Kai Woo",
         "journal": "Communications, IEEE Transactions on",
-        "title": "Theory of False Lock in {Costas Loops",
+        "title": "Theory of False Lock in {C}ostas Loops",
         "year": "1978",
         "month": "Jan",
         "volume": "26",
@@ -12704,7 +12704,7 @@
         "tag": "Olson-1975",
         "author": "Olson, M.L.",
         "journal": "Aerospace and Electronic Systems, IEEE Transactions on",
-        "title": "False-lock detection in {Costas demodulators",
+        "title": "False-lock detection in {C}ostas demodulators",
         "year": "1975",
         "volume": "AES-11",
         "number": "2",
@@ -12734,7 +12734,7 @@
     "FleischmannLW-1969": {
         "type": "article",
         "tag": "FleischmannLW-1969",
-        "title": "Comments on ``{Phase-Locked Loop Pull-In Range''",
+        "title": "Comments on ``{P}hase-Locked Loop Pull-In Range''",
         "author": "Fleischmann, H. and Leonhardt, R. and Woodbury, J.",
         "journal": "IEEE Transactions on Communication Technology",
         "volume": "17",
@@ -12746,7 +12746,7 @@
     "EndoT-1986": {
         "type": "article",
         "tag": "EndoT-1986",
-        "title": "Analysis of the pull-in range of phase-locked loops by the {Galerkin procedure",
+        "title": "Analysis of the pull-in range of phase-locked loops by the {G}alerkin procedure",
         "author": "Endo, Tetsuro and Tada, Kenzo",
         "journal": "Electronics and Communications in Japan (Part I: Communications)",
         "volume": "69",
@@ -12794,7 +12794,7 @@
         "tag": "ShirahamaFYT-1998",
         "author": "Shirahama, H. and Fukushima, K. and Yoshida, N. and Taniguchi, K.",
         "journal": "Circuits and Systems I: Fundamental Theory and Applications, IEEE Transactions on",
-        "title": "Intermittent chaos in a mutually coupled {PLL's system",
+        "title": "Intermittent chaos in a mutually coupled {PLL}'s system",
         "year": "1998",
         "volume": "45",
         "number": "10",
@@ -12865,7 +12865,7 @@
         "type": "article",
         "tag": "CarlosenaM-2007",
         "title": "Design of high-order phase-lock loops",
-        "author": "Carlosena, Alfonso and M{\\`anuel-L{\\'a}zaro, Antonio",
+        "author": "Carlosena, Alfonso and M{\\`a}nuel-L{\\'a}zaro, Antonio",
         "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
         "volume": "54",
         "number": "1",
@@ -12876,7 +12876,7 @@
     "Nielsen-1958": {
         "type": "article",
         "tag": "Nielsen-1958",
-        "title": "Principles and {Applications of {P}hase-{L}ock {D}etection in {P}hase-{C}oherent {S}ystems",
+        "title": "Principles and {A}pplications of {P}hase-{L}ock {D}etection in {P}hase-{C}oherent {S}ystems",
         "author": "Nielsen, C.L.",
         "journal": "Journal of Jet Propulsion",
         "volume": "28",
@@ -12917,7 +12917,7 @@
         "type": "article",
         "tag": "BakaevG-1965",
         "author": "Bakaev, Yu.N. and Guzh, A.A.",
-        "title": "Optimal reception of {F{M} signal in a {D}oppler effect",
+        "title": "Optimal reception of {F}{M} signal in a {D}oppler effect",
         "journal": "Radiomekhanika i Elektronika",
         "volume": "10",
         "number": "1",
@@ -13002,7 +13002,7 @@
     "biggio2013reliable": {
         "type": "inproceedings",
         "tag": "biggio2013reliable",
-        "title": "Reliable and efficient phase noise simulation of mixed-mode integer-{N Phase-Locked Loops",
+        "title": "Reliable and efficient phase noise simulation of mixed-mode integer-{N} Phase-Locked Loops",
         "author": "Biggio, Matteo and Bizzarri, Federico and Brambilla, Angelo and Carlini, Giorgio and Storace, Marco",
         "booktitle": "Circuit Theory and Design (ECCTD), 2013 European Conference on",
         "pages": "1--4",
@@ -13012,7 +13012,7 @@
     "sorrentino2010microwave": {
         "type": "book",
         "tag": "sorrentino2010microwave",
-        "title": "Microwave and {RF engineering",
+        "title": "Microwave and {RF} engineering",
         "author": "Sorrentino, Roberto and Bianchi, Giovanni",
         "volume": "1",
         "year": "2010",
@@ -13048,7 +13048,7 @@
     "Thompson-2005": {
         "type": "article",
         "tag": "Thompson-2005",
-        "title": "Fourth-order {PLL loop filter design technique with invariant natural frequency and phase margin",
+        "title": "Fourth-order {PLL} loop filter design technique with invariant natural frequency and phase margin",
         "author": "Thompson, I.V. and Brennan, P.V.",
         "journal": "IEE Proceedings-Circuits, Devices and Systems",
         "volume": "152",
@@ -13176,17 +13176,17 @@
     "Abramovitch-2004": {
         "type": "misc",
         "tag": "Abramovitch-2004",
-        "title": "Method for guaranteeing stable non-linear {PLLs",
+        "title": "Method for guaranteeing stable non-linear {PLL}s",
         "author": "Abramovitch, D.",
         "year": "2004",
-        "note": "{US {P}atent {A}pp. 10/414791, http://www.google.com/patents/US20040208274}"
+        "note": "US} {P}atent {A}pp. 10/414791, http://www.google.com/patents/US2004020827"
     },
     "HsiehH-1996": {
         "type": "article",
         "tag": "HsiehH-1996",
         "author": "Hsieh, G.C. and Hung, J.C.",
         "journal": "Industrial Electronics, IEEE Transactions on",
-        "title": "Phase-locked loop techniques. {A survey",
+        "title": "Phase-locked loop techniques. {A} survey",
         "year": "1996",
         "volume": "43",
         "number": "6",
@@ -13229,7 +13229,7 @@
         "type": "misc",
         "tag": "Allen-2003",
         "author": "Allen, P.E.",
-        "title": "{PLL Design Equations \\& {PLL} Measurements",
+        "title": "PLL} Design Equations \\& {PLL} Measurement",
         "url": "http://pallen.ece.gatech.edu/Academic/ECE\\_6440/Summer\\_2003/L090-PLLEqs\\&MeasA(2UP).pdf",
         "year": "2003"
     },
@@ -13238,7 +13238,7 @@
         "tag": "BrigatiFMPP-2001",
         "author": "Brigati, S. and Francesconi, F. and Malvasi, A. and Pesucci, A. and Poletti, M.",
         "booktitle": "8th IEEE International Conference on Electronics, Circuits and Systems, 2001. ICECS 2001",
-        "title": "Modeling of fractional-{N division frequency synthesizers with {SIMULINK} and {MATLAB}",
+        "title": "Modeling of fractional-{N} division frequency synthesizers with {SIMULINK} and {MATLAB}",
         "year": "2001",
         "volume": "2",
         "pages": "1081-1084 vol.2"
@@ -13249,7 +13249,7 @@
         "author": "Kaald, R. and Lokken, I. and Hernes, B. and Saether, T.",
         "booktitle": "NORCHIP, 2009",
         "publisher": "IEEE",
-        "title": "High-level continuous-time {Sigma-{D}elta design in {M}atlab/{S}imulink",
+        "title": "High-level continuous-time {S}igma-{D}elta design in {M}atlab/{S}imulink",
         "year": "2009",
         "pages": "1-6"
     },
@@ -13258,7 +13258,7 @@
         "tag": "NicolleTMOJ-2007",
         "author": "Nicolle, B. and Tatinian, W. and Mayol, J.-J. and Oudinot, J. and Jacquemod, G.",
         "booktitle": "IEEE Radio Frequency Integrated Circuits (RFIC) Symposium,",
-        "title": "Top-Down {PLL Design Methodology Combining Block Diagram, Behavioral, and Transistor-Level Simulators",
+        "title": "Top-Down {PLL} Design Methodology Combining Block Diagram, Behavioral, and Transistor-Level Simulators",
         "year": "2007",
         "pages": "475-478"
     },
@@ -13291,7 +13291,7 @@
     "bizzarri2012periodic": {
         "type": "article",
         "tag": "bizzarri2012periodic",
-        "title": "Periodic small signal analysis of a wide class of type-{II phase locked loops through an exhaustive variational model",
+        "title": "Periodic small signal analysis of a wide class of type-{II} phase locked loops through an exhaustive variational model",
         "author": "Bizzarri, Federico and Brambilla, Angelo and Gajani, Giancarlo Storti",
         "journal": "Circuits and Systems I: Regular Papers, IEEE Transactions on",
         "volume": "59",
@@ -13303,7 +13303,7 @@
     "biggio2014accurate": {
         "type": "article",
         "tag": "biggio2014accurate",
-        "title": "Accurate and Efficient {PSD Computation in Mixed-Signal Circuits: A Time-Domain Approach",
+        "title": "Accurate and Efficient {PSD} Computation in Mixed-Signal Circuits: A Time-Domain Approach",
         "author": "Biggio, Matteo and Bizzarri, Frederico and Brambilla, Angelo and Storace, Marco",
         "journal": "Circuits and Systems II: Express Briefs, IEEE Transactions on",
         "volume": "61",
@@ -13371,7 +13371,7 @@
     "viterbi1963phase": {
         "type": "article",
         "tag": "viterbi1963phase",
-        "title": "Phase-locked loop dynamics in the presence of noise by {Fokker-{P}lanck techniques",
+        "title": "Phase-locked loop dynamics in the presence of noise by {F}okker-{P}lanck techniques",
         "author": "Viterbi, Andew J.",
         "journal": "Proceedings of the IEEE",
         "volume": "51",
@@ -13450,14 +13450,14 @@
         "tag": "Williams-1984",
         "title": "Designer's handbook of integrated circuits",
         "author": "Williams, A.B.",
-        "series": "Serie de electr{\\'onica: Serie de circuitos integrados",
+        "series": "Serie de electr{\\'o}nica: Serie de circuitos integrados",
         "year": "1984",
         "publisher": "McGraw-Hill"
     },
     "GolestanGV-2017": {
         "type": "article",
         "tag": "GolestanGV-2017",
-        "title": "Single-phase {P{L}{L}s: {A} review of recent advances",
+        "title": "Single-phase {P}{L}{L}s: {A} review of recent advances",
         "author": "Golestan, S. and Guerrero, J. and Vasquez, J.",
         "journal": "IEEE Transactions on Power Electronics",
         "volume": "32",
@@ -13511,7 +13511,7 @@
         "tag": "Hasan-1985",
         "title": "Computer-aided pull-in range study of phase-lock loops",
         "author": "Hasan, P.",
-        "journal": "AEU. Archiv f{\\\"ur Elektronik und {\\\"U}bertragungstechnik",
+        "journal": "AEU. Archiv f{\\\"u}r Elektronik und {\\\"U}bertragungstechnik",
         "volume": "39",
         "number": "2",
         "pages": "135--140",
@@ -13583,7 +13583,7 @@
     "Rouphael-2014": {
         "type": "book",
         "tag": "Rouphael-2014",
-        "title": "Wireless Receiver Architectures and Design: Antennas, {RF Synthesizers, Mixed Signal, and Digital Signal Processing,",
+        "title": "Wireless Receiver Architectures and Design: Antennas, {RF} Synthesizers, Mixed Signal, and Digital Signal Processing}",
         "author": "Rouphael, T.J.",
         "year": "2014",
         "publisher": "Elsevier Science"
@@ -13591,7 +13591,7 @@
     "Ndjountche-2011": {
         "type": "book",
         "tag": "Ndjountche-2011",
-        "title": "{CMOS Analog Integrated Circuits: High-Speed and Power-Efficient Design",
+        "title": "CMOS} Analog Integrated Circuits: High-Speed and Power-Efficient Desig",
         "author": "Ndjountche, T.",
         "year": "2017",
         "publisher": "CRC Press"
@@ -13655,7 +13655,7 @@
     "UgarteC-2010": {
         "type": "inproceedings",
         "tag": "UgarteC-2010",
-        "title": "High-order {PLL design with constant phase margin",
+        "title": "High-order {PLL} design with constant phase margin",
         "author": "Ugarte, Mikel and Carlosena, Alfonso",
         "booktitle": "2010 53rd IEEE International Midwest Symposium on Circuits and Systems",
         "pages": "570--573",
@@ -13675,7 +13675,7 @@
     "AhmadB-2016": {
         "type": "inproceedings",
         "tag": "AhmadB-2016",
-        "title": "Phase-controlled system design via mixed {H$_\\infty$ synthesis and nonlinear method",
+        "title": "Phase-controlled system design via mixed {H}$_\\infty$ synthesis and nonlinear method",
         "author": "Ahmad, NS and Bakar, SJ Abu",
         "booktitle": "2016 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)",
         "pages": "380--383",
@@ -13695,7 +13695,7 @@
     "BakarAG-2020": {
         "type": "article",
         "tag": "BakarAG-2020",
-        "title": "Improved structured filter design and analysis for perturbed phase-locked loops via sector and {H$_\\infty$ norm constraints with convex computations",
+        "title": "Improved structured filter design and analysis for perturbed phase-locked loops via sector and {H}$_\\infty$ norm constraints with convex computations",
         "author": "Bakar, Siti Juliana Abu and Ahmad, Nur Syazreen and Goh, Patrick",
         "journal": "Computers \\& Electrical Engineering",
         "volume": "81",
@@ -13705,7 +13705,7 @@
     "UgarteC-2014": {
         "type": "inproceedings",
         "tag": "UgarteC-2014",
-        "title": "Performance trade-offs between {Type {I}{I} and {T}ype {III} {PLL}s",
+        "title": "Performance trade-offs between {T}ype {I}{I} and {T}ype {III} {PLL}s",
         "author": "Ugarte, Mikel and Carlosena, Alfonso",
         "booktitle": "2014 IEEE 11th International Multi-Conference on Systems, Signals \\& Devices (SSD14)",
         "pages": "1--5",
@@ -13747,14 +13747,14 @@
         "type": "book",
         "tag": "gantmacher2005",
         "title": "Applications of the Theory of Matrices",
-        "author": "Gantmacher, Feliks Ruvimovi{\\v{c} and Brenner, Joel Lee",
+        "author": "Gantmacher, Feliks Ruvimovi{\\v{c}} and Brenner, Joel Lee",
         "year": "2005",
         "publisher": "Courier Corporation"
     },
     "KalmanB-1960": {
         "type": "article",
         "tag": "KalmanB-1960",
-        "title": "Control {system {a}nalysis and {d}esign {v}ia the ``{s}econd {m}ethod'' of {Lyapunov}: I - {Continuous}-{t}ime {s}ystems",
+        "title": "Control {s}ystem {a}nalysis and {d}esign {v}ia the ``{s}econd {m}ethod'' of {Lyapunov}: I - {Continuous}-{t}ime {s}ystems",
         "author": "Kalman, Rudolf E and Bertram, John E",
         "journal": "Journal of Basic Engineering",
         "volume": "82",
@@ -13775,7 +13775,7 @@
     "AguirreBH-1986": {
         "type": "article",
         "tag": "AguirreBH-1986",
-        "title": "Phase Lock Acquisition for Sampled Data {PLL's Using the Sweep Technique",
+        "title": "Phase Lock Acquisition for Sampled Data {PLL}'s Using the Sweep Technique",
         "author": "Aguirre, S. and Brown, D.H. and Hurd, W.J.",
         "journal": "TDA Progress Report 42-86",
         "publisher": "Jet Propulsion Laboratory, Pasadena, CA",
@@ -13786,7 +13786,7 @@
     "UgarteC-2015": {
         "type": "article",
         "tag": "UgarteC-2015",
-        "title": "Performance {Comparison and {D}esign {G}uidelines for {T}ype {I}{I} and {T}ype {I}{I}{I} {PLL}s",
+        "title": "Performance {C}omparison and {D}esign {G}uidelines for {T}ype {I}{I} and {T}ype {I}{I}{I} {PLL}s",
         "author": "Ugarte, Mikel and Carlosena, Alfonso",
         "journal": "Circuits, Systems, and Signal Processing",
         "volume": "34",
@@ -13828,7 +13828,7 @@
     "Kolumban-1997": {
         "type": "inproceedings",
         "tag": "Kolumban-1997",
-        "title": "Direct signal generation for chaos communication and chaotic measurement by analog {PLL",
+        "title": "Direct signal generation for chaos communication and chaotic measurement by analog {PLL}",
         "author": "Kolumban, Geza and Hasegawa, Akio and Endo, Tetsuro and Kis, Gabor",
         "booktitle": "Proceedings of 1997 IEEE International Symposium on Circuits and Systems. Circuits and Systems in the Information Age ISCAS'97",
         "volume": "2",
@@ -13840,7 +13840,7 @@
         "type": "inproceedings",
         "tag": "Kolumban-1995",
         "title": "Nonlinear dynamics and chaotic behaviour of the analog phase-locked loop",
-        "author": "Kolumb{\\'an, Geza and Vizvari, Bela",
+        "author": "Kolumb{\\'a}n, Geza and Vizvari, Bela",
         "booktitle": "Proc. NDES’95",
         "pages": "99--102",
         "year": "1995"
@@ -13857,7 +13857,7 @@
         "type": "article",
         "tag": "GezaKolumban-2015",
         "title": "Software Defined Electronics: A Revolutionary Change in Design and Teaching Paradigm of {RF} Radio Communications Systems",
-        "journal": "{ICT E}xpress",
+        "journal": "ICT E}xpres",
         "volume": "1",
         "number": "1",
         "pages": "44 - 54",
@@ -13911,7 +13911,7 @@
     "KummKZ-2010": {
         "type": "article",
         "tag": "KummKZ-2010",
-        "title": "An {FPGA-based linear all-digital phase-locked loop",
+        "title": "An {FPGA}-based linear all-digital phase-locked loop",
         "author": "Kumm, Martin and Klingbeil, Harald and Zipf, Peter",
         "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
         "volume": "57",
@@ -13935,7 +13935,7 @@
     "Lasalle-1960": {
         "type": "article",
         "tag": "Lasalle-1960",
-        "title": "Some extensions of {Liapunov's second method",
+        "title": "Some extensions of {L}iapunov's second method",
         "author": "LaSalle, Joseph",
         "journal": "IRE Transactions on circuit theory",
         "volume": "7",
@@ -14012,7 +14012,7 @@
     "ViswadevARVM-2019-tcasii": {
         "type": "article",
         "tag": "ViswadevARVM-2019-tcasii",
-        "title": "A Novel {A{C} Current Sensorless Hysteresis Control for Grid-tie Inverters",
+        "title": "A Novel {A}{C} Current Sensorless Hysteresis Control for Grid-tie Inverters",
         "author": "Viswadev, Roopa and Arjun, M and Ramana, Vanjari Venkata and Venkatesaperumal, B and Mishra, Sukumar",
         "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
         "year": "2019",
@@ -14060,7 +14060,7 @@
         "type": "article",
         "tag": "BoikoKMMYY-2020",
         "author": "Boiko, I.M.  and  Kuznetsov, N.V. and  Mokaev, R.N. and Mokaev, T.N. and Yuldashev, M.V. and  Yuldashev, R.V.",
-        "title": "On counter-examples to {Aizerman and {K}alman conjectures",
+        "title": "On counter-examples to {A}izerman and {K}alman conjectures",
         "journal": "International Journal of Control",
         "year": "2020",
         "publisher": "Taylor & Francis",
@@ -14095,12 +14095,12 @@
         "author": "Alexeeva, T.A. and Barnett, W.A. and Kuznetsov, N.V. and Mokaev, T.N.",
         "year": "2020",
         "journal": "arXiv preprint:2003.08484",
-        "note": "(\\url{https://arxiv.org/pdf/2003.08484.pdf accepted to IFAC WC 2020)"
+        "note": "(\\url{https://arxiv.org/pdf/2003.08484.pdf} accepted to IFAC WC 2020)"
     },
     "KuznetsovMKKL-2020-arxiv": {
         "type": "article",
         "tag": "KuznetsovMKKL-2020-arxiv",
-        "title": "The {Lorenz system: hidden boundary of practical stability and the {L}yapunov dimension",
+        "title": "The {L}orenz system: hidden boundary of practical stability and the {L}yapunov dimension",
         "author": "Kuznetsov, N.V. and Mokaev, T.N. and Kuznetsova, O.A. and Kudryashova, E.V. and Leonov, G.A.",
         "year": "2020",
         "journal": "arXiv:2005.00864",
@@ -14136,7 +14136,7 @@
     "KuznetsovMAB-2020-ECC": {
         "type": "inproceedings",
         "tag": "KuznetsovMAB-2020-ECC",
-        "title": "Harmonic balance method, {Tsypkin locus, and {LPRS}: comparison and counterexamples",
+        "title": "Harmonic balance method, {T}sypkin locus, and {LPRS}: comparison and counterexamples",
         "author": "Kuznetsov, N.V. and Mokaev, R.N. and Akimova, E.D. and Boiko, I.M.",
         "booktitle": "2020 European Control Conference Proceedings",
         "year": "2020",
@@ -14147,7 +14147,7 @@
         "tag": "KuznetsovLYYK-2020-IFACWC",
         "author": "Kuznetsov, N.V. and Lobachev, M.Y. and Yuldashev, M.V. and Yuldashev, R.V. and Kolumb\\'an, G.",
         "journal": "IFAC-PapersOnLine",
-        "title": "Harmonic balance analysis of pull-in range and oscillatory behavior of third-order type 2 analog {PLLs",
+        "title": "Harmonic balance analysis of pull-in range and oscillatory behavior of third-order type 2 analog {PLL}s",
         "year": "2020",
         "note": "(21st IFAC World Congress)"
     },
@@ -14163,7 +14163,7 @@
     "LeonovMKM-2020-IJBC": {
         "type": "article",
         "tag": "LeonovMKM-2020-IJBC",
-        "title": "Homoclinic bifurcations and chaos in the {Fishing principle for the {L}orenz-like systems",
+        "title": "Homoclinic bifurcations and chaos in the {F}ishing principle for the {L}orenz-like systems",
         "author": "Leonov, G.A. and Mokaev, R.N. and Kuznetsov, N.V. and Mokaev, T.N.",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "30",
@@ -14175,7 +14175,7 @@
         "type": "article",
         "tag": "KuznetsovLYY-2019-DAN",
         "author": "Kuznetsov, N.V. and Lobachev, M.Y. and Yuldashev, M.V. and Yuldashev, R.V.",
-        "title": "On the {Gardner problem for phase-locked loops",
+        "title": "On the {G}ardner problem for phase-locked loops",
         "journal": "Doklady Mathematics",
         "year": "2019",
         "volume": "100",
@@ -14186,7 +14186,7 @@
     "KuznetsovMMKK-2019-Lorenz-arXiv": {
         "type": "article",
         "tag": "KuznetsovMMKK-2019-Lorenz-arXiv",
-        "title": "A lower-bound estimate of the {Lyapunov dimension for the global attractor of the {L}orenz system",
+        "title": "A lower-bound estimate of the {L}yapunov dimension for the global attractor of the {L}orenz system",
         "author": "Kuznetsov, N.V. and Mokaev, T.N. and Mokaev, R.N. and Kuznetsova, O.A. and Kudryashova, E.V.",
         "journal": "arXiv preprint arXiv:1910.08740",
         "year": "2019"
@@ -14195,7 +14195,7 @@
         "type": "conference",
         "tag": "Kuznetsov-2019-VSPU",
         "author": "Kuznetsov, N.V.",
-        "title": "{T}heory of hidden oscillations",
+        "title": "T}heory of hidden oscillation",
         "year": "2019",
         "booktitle": "XIII All-Russian meeting on Control Problems. Proceedings (in Russian)",
         "pages": "103-107",
@@ -14242,13 +14242,13 @@
     "KuznetsovM-2019-AIP": {
         "type": "article",
         "tag": "KuznetsovM-2019-AIP",
-        "title": "Numerical analysis of dynamical systems: unstable periodic orbits, hidden transient chaotic sets, hidden attractors, and finite-time {Lyapunov dimension",
+        "title": "Numerical analysis of dynamical systems: unstable periodic orbits, hidden transient chaotic sets, hidden attractors, and finite-time {L}yapunov dimension",
         "author": "Kuznetsov, N.V. and Mokaev, T.N.",
         "journal": "Journal of Physics: Conference Series",
         "year": "2019",
         "volume": "1205",
         "number": "1",
-        "note": "\\ {art. num. 012034",
+        "note": "\\ {a}rt. num. 012034",
         "doi": "10.1088/1742-6596/1205/1/012034"
     },
     "KudryashovaKKLM-2019": {
@@ -14267,7 +14267,7 @@
     "KuznetsovKKMD-2019-IFAC": {
         "type": "article",
         "tag": "KuznetsovKKMD-2019-IFAC",
-        "title": "On lower-bound estimates of the {Lyapunov dimension and topological entropy for the {R}ossler systems",
+        "title": "On lower-bound estimates of the {L}yapunov dimension and topological entropy for the {R}ossler systems",
         "author": "Kuznetsov, N.V. and Mokaev, T.N. and Kudryashova, E.V. and Kuznetsova, O.A. and Danca, M.-F.",
         "journal": "IFAC-PapersOnLine",
         "year": "2019",
@@ -14277,7 +14277,7 @@
     "KuznetsovKMMYY-2019-IFAC": {
         "type": "article",
         "tag": "KuznetsovKMMYY-2019-IFAC",
-        "title": "Coexistence of hidden attractors and multistability in counterexamples to the {Kalman conjecture",
+        "title": "Coexistence of hidden attractors and multistability in counterexamples to the {K}alman conjecture",
         "author": "Kuznetsov, N.V. and Kuznetsova, O.A. and Mokaev, T.N. and Mokaev, R.N. and Yuldashev, M.V. and Yuldashev, R.V.",
         "journal": "IFAC-PapersOnLine",
         "year": "2019",
@@ -14340,14 +14340,14 @@
     "KuznetsovAFC-2018": {
         "type": "article",
         "tag": "KuznetsovAFC-2018",
-        "title": "In {Memoriam: {G}ennady {A}lekseevich {L}eonov.",
+        "title": "In {M}emoriam: {G}ennady {A}lekseevich {L}eonov.",
         "author": "Kuznetsov, N.V. and Abramovich, S. and Fradkov, A.L. and Chen, G.",
         "journal": "International Journal of Bifurcation and Chaos",
         "volume": "28",
         "number": "5",
         "pages": "1--5",
         "year": "2018",
-        "note": "{a}rt. num. 1877001, https://doi.org/10.1142/S0218127418770011\""
+        "note": "a}rt. num. 1877001, https://doi.org/10.1142/S0218127418770011"
     },
     "AbramovichKN-2018": {
         "type": "article",
@@ -14392,7 +14392,7 @@
     "KuznetsovM-2018-arXiv": {
         "type": "article",
         "tag": "KuznetsovM-2018-arXiv",
-        "title": "A note on finite-time Lyapunov dimension of the {Rossler attractor",
+        "title": "A note on finite-time Lyapunov dimension of the {R}ossler attractor",
         "author": "Kuznetsov, N.V. and Mokaev, T.N.",
         "journal": "arXiv preprint arXiv:1807.00235",
         "year": "2018"
@@ -14413,11 +14413,11 @@
         "type": "article",
         "tag": "LeonovK-2018-AIP",
         "author": "Leonov, G.A. and Kuznetsov, N.V.",
-        "title": "On the {Keldysh problem of flutter suppression",
+        "title": "On the {K}eldysh problem of flutter suppression",
         "journal": "AIP Conference Proceedings",
         "volume": "1959",
         "number": "1",
-        "note": "\\ {art. num. 020002",
+        "note": "\\ {a}rt. num. 020002",
         "year": "2018",
         "doi": "10.1063/1.5034578"
     },
@@ -14483,7 +14483,7 @@
     "KuznetsovLM-2017-arXiv": {
         "type": "article",
         "tag": "KuznetsovLM-2017-arXiv",
-        "title": "Finite-time and exact {Lyapunov dimension of the {H}enon map",
+        "title": "Finite-time and exact {L}yapunov dimension of the {H}enon map",
         "author": "Kuznetsov, N.V. and Leonov, G.A. and Mokaev, T.N.",
         "journal": "arXiv preprint arXiv:1712.01270",
         "year": "2017"
@@ -14514,11 +14514,11 @@
         "type": "conference",
         "tag": "KuznetsovLSYY-2017",
         "author": "Kuznetsov, N.V. and Leonov, G.A. and Seledzhi, S.M. and Yuldashev, M.V. and Yuldashev, R.V.",
-        "title": "Elegant computation of phase-detector characteristics of {BPSK {C}ostas loop with non-sinusoidal signals",
+        "title": "Elegant computation of phase-detector characteristics of {BPSK} {C}ostas loop with non-sinusoidal signals",
         "journal": "2017 European Conference on Circuit Theory and Design, ECCTD 2017",
         "year": "2017",
         "doi": "10.1109/ECCTD.2017.8093255",
-        "note": " {art. num. 8093255"
+        "note": " {a}rt. num. 8093255"
     },
     "KuznetsovLS-2017": {
         "type": "inproceedings",
@@ -14534,7 +14534,7 @@
         "type": "article",
         "tag": "KuznetsovLYY-arxiv2017",
         "author": "Kuznetsov, N.V. and Leonov, G.A. and Yuldashev, M.V. and Yuldashev, R.V.",
-        "title": "{Solution of the {G}ardner problem on the lock-in range of phase-locked loop}",
+        "title": "Solution of the {G}ardner problem on the lock-in range of phase-locked loop",
         "journal": "ArXiv e-prints",
         "note": "\\ 1705.05013",
         "year": "2017,"
@@ -14548,7 +14548,7 @@
         "year": "2017",
         "volume": "27",
         "number": "12",
-        "note": "{a}rt. num. 1730038\""
+        "note": "a}rt. num. 1730038"
     },
     "AndrievskyKL-2017": {
         "type": "article",
@@ -14638,7 +14638,7 @@
         "year": "2017",
         "volume": "27",
         "number": "8",
-        "note": "{a}rt. num. 1750115"
+        "note": "a}rt. num. 175011"
     },
     "KuznetsovLYY-2017-CNSNS": {
         "type": "article",
@@ -14724,7 +14724,7 @@
         "type": "article",
         "tag": "DancaKC-2016",
         "author": "Danca, M.-F. and Kuznetsov, N. and Chen, G.",
-        "title": "Unusual dynamics and hidden attractors of the {Rabinovich--{F}abrikant system",
+        "title": "Unusual dynamics and hidden attractors of the {R}abinovich--{F}abrikant system",
         "journal": "Nonlinear Dynamics",
         "year": "2017",
         "volume": "88",
@@ -14735,8 +14735,8 @@
     "KuznetsovLM-2016-arXiv": {
         "type": "article",
         "tag": "KuznetsovLM-2016-arXiv",
-        "author": "{Kuznetsov N.~V. and {Leonov, G.~A. and {Mokaev}, T.~N.},",
-        "title": "{The Lyapunov dimension and its computation for self-excited andhidden attractors in the {G}lukhovsky-{D}olzhansky fluid convection model}\",",
+        "author": "{Kuznetsov} N.~V. and {Leonov}, G.~A. and {Mokaev}, T.~N.}",
+        "title": "The Lyapunov dimension and its computation for self-excited andhidden attractors in the {G}lukhovsky-{D}olzhansky fluid convection model}\"",
         "journal": "ArXiv e-prints",
         "archiveprefix": "arXiv",
         "eprint": "1509.09161v2",
@@ -14761,7 +14761,7 @@
     "BestKLYY-2016": {
         "type": "article",
         "tag": "BestKLYY-2016",
-        "title": "Tutorial on dynamic analysis of the {Costas loop",
+        "title": "Tutorial on dynamic analysis of the {C}ostas loop",
         "author": "Best, R.E. and Kuznetsov, N.V. and Leonov, G.A. and Yuldashev, M.V. and Yuldashev, R.V.",
         "journal": "IFAC Annual Reviews in Control",
         "volume": "42",
@@ -14792,12 +14792,12 @@
     "KuznetsovLMS-2016-INCAAM": {
         "type": "article",
         "tag": "KuznetsovLMS-2016-INCAAM",
-        "title": "Hidden attractor in the {Rabinovich system, {C}hua circuits and {PLL}",
+        "title": "Hidden attractor in the {R}abinovich system, {C}hua circuits and {PLL}",
         "author": "Kuznetsov, N.V. and Leonov, G.A. and Mokaev, T.N. and Seledzhi, S.M.",
         "journal": "AIP Conference Proceedings",
         "volume": "1738",
         "number": "1",
-        "note": "{a}rt. num. 210008",
+        "note": "a}rt. num. 21000",
         "year": "2016"
     },
     "DudkowskiJKKLP-2016": {
@@ -14841,7 +14841,7 @@
         "author": "Leonov, G.A.  and Kuznetsov, N.V. and Korzhemanova, N.A. and Kusakin, D.V.",
         "year": "2016",
         "journal": "Communications in Nonlinear Science and Numerical Simulation",
-        "title": "{L}yapunov dimension formula for the global attractor of the {L}orenz system",
+        "title": "L}yapunov dimension formula for the global attractor of the {L}orenz syste",
         "volume": "41",
         "pages": "84-103",
         "doi": "10.1016/j.cnsns.2016.04.032\""
@@ -14894,7 +14894,7 @@
         "author": "Leonov, G.A.  and Kuznetsov, N.V. and Korzhemanova, N.A. and Kusakin, D.V.",
         "year": "2015",
         "journal": "arXiv:1510.01492v1",
-        "title": "{L}yapunov dimension formula of attractors in the {T}igan and {Y}ang systems",
+        "title": "L}yapunov dimension formula of attractors in the {T}igan and {Y}ang system",
         "volume": "http://arxiv.org/pdf/1510.01492v1.pdf"
     },
     "DancaFKC-2016-IJBC": {
@@ -14906,14 +14906,14 @@
         "year": "2016",
         "volume": "26",
         "number": "02",
-        "note": "{a}rt. num. 1650038",
+        "note": "a}rt. num. 165003",
         "doi": "10.1142/S0218127416500383\"***************** 2015"
     },
     "AbramovichKL-2015": {
         "type": "article",
         "tag": "AbramovichKL-2015",
         "author": "Abramovich, S. and Kuznetsov, N.V. and Leonov, G.A.",
-        "title": "{V}.{A}. {Y}akubovich - mathematician, ``father of the field'',and herald of intellectual democracy in science and society\",",
+        "title": "V}.{A}. {Y}akubovich - mathematician, ``father of the field'',and herald of intellectual democracy in science and society\"",
         "journal": "IFAC-PapersOnLine",
         "volume": "48",
         "number": "11",
@@ -14962,7 +14962,7 @@
         "tag": "LeonovK-2015-RusGidro",
         "author": "Leonov, G.A. and Kuznetsov, N.V.",
         "booktitle": "9th Scientific and Technical Conference ``Hydropower: new developments and technologies''",
-        "title": "Mathematical model of the {Sayano-{S}hushenskaya hydroelectric power station: analytical-numerical analysis of stability and oscillations",
+        "title": "Mathematical model of the {S}ayano-{S}hushenskaya hydroelectric power station: analytical-numerical analysis of stability and oscillations",
         "year": "2015"
     },
     "BianchiKLYY-2015": {
@@ -14982,7 +14982,7 @@
         "type": "article",
         "tag": "BlagovKLYY-2015",
         "author": "M.V. Blagov and N.V. Kuznetsov and G.A. Leonov and M.V. Yuldashev and R.V. Yuldashev",
-        "title": "Simulation of {PLL with impulse signals in {MATLAB}: Limitations, hidden oscillations, and pull-in range",
+        "title": "Simulation of {PLL} with impulse signals in {MATLAB}: Limitations, hidden oscillations, and pull-in range",
         "journal": "International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT 2015)",
         "year": "2016",
         "volume": "2016-January",
@@ -15180,7 +15180,7 @@
         "journal": "International Journal of Bifurcation and Chaos in Applied Sciences and Engineering",
         "volume": "25",
         "number": "04",
-        "note": "{a}rt. num. 1550061",
+        "note": "a}rt. num. 155006",
         "year": "2015",
         "doi": "10.1142/S0218127415500613"
     },
@@ -15205,7 +15205,7 @@
         "year": "2015",
         "pages": "1296-1302",
         "doi": "10.1109/ACC.2015.7170912",
-        "note": "{a}rt. num. 7170912\""
+        "note": "a}rt. num. 7170912"
     },
     "KuznetsovKLNYY-2015-ISCAS": {
         "type": "article",
@@ -15283,7 +15283,7 @@
         "author": "Leonov, G.A. and Kuznetsov, N.V.",
         "title": "Nonlinear Dynamics and Complexity",
         "volume": "8",
-        "chapter": "{L}yapunov Exponent Sign Reversal: Stability and Instability by the First Approximation",
+        "chapter": "L}yapunov Exponent Sign Reversal: Stability and Instability by the First Approximatio",
         "publisher": "Springer",
         "year": "2014",
         "doi": "10.1007/978-3-319-02353-3\\_2\""
@@ -15367,7 +15367,7 @@
         "author": "Kuznetsov, N.V. and Kuznetsova, O.A. and Leonov, G.A. and Seledzhi, S.M. and Yuldashev, M.V. and Yuldashev, R.V.",
         "booktitle": "2014 6th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT)",
         "volume": "2015-January",
-        "title": "{BPSK} {C}ostas loop: Simulation of nonlinear models in {M}atLab {S}imulink",
+        "title": "BPSK} {C}ostas loop: Simulation of nonlinear models in {M}atLab {S}imulin",
         "year": "2014",
         "pages": "83-87",
         "art_number": "7002083",
@@ -15540,7 +15540,7 @@
         "year": "2013",
         "volume": "23",
         "number": "1",
-        "note": "{a}rt. no. 1330002",
+        "note": "a}rt. no. 133000",
         "doi": "10.1142/S0218127413300024\""
     },
     "KuznetsovKL-2013-DEDS": {
@@ -15712,8 +15712,8 @@
     "KuznetsovLN-2013": {
         "type": "misc",
         "tag": "KuznetsovLN-2013",
-        "author": "Kuznetsov, N.V. and Leonov, G.A. and Neittaanm{\\\"{a}ki, P.",
-        "title": "Supervisors' manifest on the first {Ph.D. {SPbSU}",
+        "author": "Kuznetsov, N.V. and Leonov, G.A. and Neittaanm{\\\"{a}}ki, P.",
+        "title": "Supervisors' manifest on the first {Ph.D.} {SPbSU}",
         "howpublished": "http://www.math.spbu.ru/user/nk/PDF/2013-First-PhD-SPbSU-Renat-Yuldashev-Supervisors.pdf",
         "year": "2013"
     },
@@ -15860,7 +15860,7 @@
         "tag": "KuznetsovL-2008-JVE",
         "author": "Kuznetsov, N.V. and Leonov, G.A.",
         "year": "2008",
-        "title": "{L}yapunov quantities, limit cycles and strange behavior of trajectories in two-dimensional quadratic systems",
+        "title": "L}yapunov quantities, limit cycles and strange behavior of trajectories in two-dimensional quadratic system",
         "journal": "Journal of Vibroengineering",
         "volume": "10",
         "number": "4",
@@ -15958,7 +15958,7 @@
         "type": "conference",
         "tag": "LeonovK-2012-IEEE",
         "author": "Leonov, G.A. and Kuznetsov, N.V.",
-        "title": "{IWCFTA2012} {K}eynote speech {I} - {H}idden attractors in dynamical systems: {F}rom hidden oscillation in {H}ilbert-{K}olmogorov, {A}izerman and {K}alman problems to hidden chaotic attractor in {C}hua circuits",
+        "title": "IWCFTA2012} {K}eynote speech {I} - {H}idden attractors in dynamical systems: {F}rom hidden oscillation in {H}ilbert-{K}olmogorov, {A}izerman and {K}alman problems to hidden chaotic attractor in {C}hua circuit",
         "year": "2012",
         "booktitle": "IEEE 2012 Fifth International Workshop on Chaos-Fractals Theories and Applications (IWCFTA)",
         "pages": "XV-XVII",
@@ -16331,7 +16331,7 @@
     "AleksandrovKLYY-2016-arXiv-sin": {
         "type": "article",
         "tag": "AleksandrovKLYY-2016-arXiv-sin",
-        "title": "Lock-in range of {PLL-based circuits with proportionally-integrating filter and sinusoidal phase detector characteristic",
+        "title": "Lock-in range of {PLL}-based circuits with proportionally-integrating filter and sinusoidal phase detector characteristic",
         "author": "Aleksandrov, K.D. and Kuznetsov, N.V. and Leonov, G.A. and Yuldashev, M.V. and Yuldashev, R.V.",
         "journal": "arXiv preprint arXiv:1603.08401",
         "year": "2016"
@@ -16339,7 +16339,7 @@
     "AleksandrovKLYY-2016-arXiv-impulse": {
         "type": "article",
         "tag": "AleksandrovKLYY-2016-arXiv-impulse",
-        "title": "Lock-in range of classical {PLL with impulse signals and proportionally-integrating filter",
+        "title": "Lock-in range of classical {PLL} with impulse signals and proportionally-integrating filter",
         "author": "Aleksandrov, K.D. and Kuznetsov, N.V. and Leonov, G.A. and Yuldashev, M.V. and Yuldashev, R.V.",
         "journal": "arXiv preprint arXiv:1603.09363",
         "year": "2016"
@@ -16355,7 +16355,7 @@
     "LadvanszkyKYY-2018-4qam": {
         "type": "article",
         "tag": "LadvanszkyKYY-2018-4qam",
-        "title": "P{L{L} and {C}ostas loop based carrier recovery circuits for 4{Q}{A}{M}: non-linear analysis and simulation",
+        "title": "P{L}{L} and {C}ostas loop based carrier recovery circuits for 4{Q}{A}{M}: non-linear analysis and simulation",
         "author": "Kuznetsov, N.V. and Ladvanszky, J. and Yuldashev, M.V. and Yuldashev, R.V.",
         "journal": "arXiv:1810.00071",
         "year": "2018"

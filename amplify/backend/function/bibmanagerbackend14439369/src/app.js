@@ -12,6 +12,8 @@ var express = require('express')
 var bodyParser = require('body-parser')
 var awsServerlessExpressMiddleware = require('aws-serverless-express/middleware')
 var fs = require('fs')
+const invertedIndex = JSON.parse(fs.readFileSync('./invertedIndex.json', 'utf-8'));
+const bibFile = JSON.parse(fs.readFileSync('./global_bib.json', 'utf-8'));
 
 // declare a new express app
 var app = express()
@@ -34,7 +36,7 @@ app.get('/item',(req,res)=>{
 const invertedIndexSearch = require('./invertedIndexSearch');
 
 app.get('/bib',(req,res)=>{
-  const searchResult = invertedIndexSearch(req.query.searchstring);
+  const searchResult = invertedIndexSearch(bibFile,invertedIndex,req.query.searchstring);
   console.log(searchResult);
   res.json({"results": searchResult});
 })

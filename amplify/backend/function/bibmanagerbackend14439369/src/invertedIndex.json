@@ -676,7 +676,6 @@
         "YauR-2000",
         "Reichert_CSM92",
         "BarbuReginatto_ACC99",
-        "TarbouriechTurner09",
         "Demidovich-1969",
         "ContiRK-2012",
         "HeXC-2000",
@@ -1369,6 +1368,7 @@
         "WendtF-1943",
         "Abramovitch-2002",
         "SannemanR-1964",
+        "Bouaricha-2012",
         "Sutterlin-1998",
         "AlHarasees-2013",
         "HuqueS-2011-exact",
@@ -2251,6 +2251,7 @@
         "RosensteinCL-1993",
         "Varigonda-2001",
         "Leonov-2001-AMM",
+        "Costas-1962-patent",
         "TomkinsEtAl-2009",
         "koskin-2018-tcasii"
     ],
@@ -2370,6 +2371,7 @@
         "OttY-2008",
         "Leonov-2014-ND",
         "Leonov-2008-DAN",
+        "ChenCG-2012-patent",
         "AlexandrovKLS-2014-ICUMT"
     ],
     "79": [
@@ -2409,6 +2411,7 @@
         "KorovinI-2010-DAN",
         "Algaba201480",
         "Coomes-1989",
+        "Troedsson-2009",
         "KalmanB-1960",
         "AlexandrovKLS-2014-ICUMT",
         "LeonovK-2010-DAN",
@@ -2884,9 +2887,6 @@
         "TAL1977153",
         "ali2013simulative"
     ],
-    "154": [
-        "Bouaricha-2012"
-    ],
     "155": [
         "staege1936electrical",
         "ElhadjS-2011-IJBC"
@@ -3019,6 +3019,7 @@
     ],
     "181": [
         "Bautin-1952",
+        "Milnor-2006",
         "DettmannFC-1995",
         "Bowen1975",
         "LeonovS-1996"
@@ -3625,6 +3626,7 @@
         "WolfSSV-1985"
     ],
     "318": [
+        "Zhang-2014",
         "GlukhovskyD-1980"
     ],
     "319": [
@@ -4526,9 +4528,6 @@
         "LeonovBK-1987",
         "LeonovKS-2015"
     ],
-    "659": [
-        "Costas-1962-patent"
-    ],
     "661": [
         "LeonovKS-2015"
     ],
@@ -4781,7 +4780,6 @@
         "BelykhL-1983"
     ],
     "781": [
-        "ChenCG-2012-patent",
         "KuznetsovMAB-2020-ECC"
     ],
     "785": [
@@ -4864,8 +4862,7 @@
         "PecoraC-1990"
     ],
     "828": [
-        "MatsumotoCT-1986",
-        "Troedsson-2009"
+        "MatsumotoCT-1986"
     ],
     "829": [
         "piqueira2006all"
@@ -6059,9 +6056,6 @@
     ],
     "1813": [
         "ChenPY-2012"
-    ],
-    "1815": [
-        "Milnor-2006"
     ],
     "1816": [
         "LeonovSTA-2017"
@@ -8395,9 +8389,6 @@
     "3186": [
         "BarbuReginatto_ACC99"
     ],
-    "3189": [
-        "Zhang-2014"
-    ],
     "3190": [
         "BarbuReginatto_ACC99"
     ],
@@ -8789,6 +8780,9 @@
     "20310": [
         "Janos-diff-coding-2017"
     ],
+    "21000": [
+        "KuznetsovLMS-2016-INCAAM"
+    ],
     "27247": [
         "Kuznetsov-2016"
     ],
@@ -8834,8 +8828,39 @@
     "106049": [
         "AndrievskyKKK-2020"
     ],
-    "210008": [
-        "KuznetsovLMS-2016-INCAAM"
+    "125001": [
+        "ZhangML-2012"
+    ],
+    "130026": [
+        "LiSprott-2014-cu"
+    ],
+    "133000": [
+        "LeonovK-2013-IJBC"
+    ],
+    "135019": [
+        "LiSprott-2013-cu"
+    ],
+    "135020": [
+        "ChenY-2013",
+        "doi:10.1142/S0218127413502003"
+    ],
+    "145008": [
+        "SprottWC-2014-IJBC"
+    ],
+    "155006": [
+        "SharmaSPKL-2015"
+    ],
+    "165003": [
+        "DancaFKC-2016-IJBC"
+    ],
+    "165007": [
+        "GribovKK-2016"
+    ],
+    "175003": [
+        "NazarimehrSJS-2017"
+    ],
+    "175011": [
+        "ChenKLM-2017-IJBC"
     ],
     "244102": [
         "PisarchikJVGB-2006"
@@ -8864,15 +8889,6 @@
     "1230044": [
         "banerjee2012"
     ],
-    "1250015": [
-        "ZhangML-2012"
-    ],
-    "1300260": [
-        "LiSprott-2014-cu"
-    ],
-    "1330002": [
-        "LeonovK-2013-IJBC"
-    ],
     "1330025": [
         "GaliasT-2013"
     ],
@@ -8894,16 +8910,6 @@
     "1350188": [
         "MolaieJSG-2013"
     ],
-    "1350199": [
-        "LiSprott-2013-cu"
-    ],
-    "1350200": [
-        "ChenY-2013",
-        "doi:10.1142/S0218127413502003"
-    ],
-    "1450086": [
-        "SprottWC-2014-IJBC"
-    ],
     "1514053": [
         "KuznetsovL-2005"
     ],
@@ -8917,20 +8923,11 @@
         "Sprott-2015-IJBC",
         "Sprott-2015"
     ],
-    "1550061": [
-        "SharmaSPKL-2015"
-    ],
     "1550187": [
         "LoziP-2015"
     ],
     "1594697": [
         "Goyal-2006"
-    ],
-    "1650038": [
-        "DancaFKC-2016-IJBC"
-    ],
-    "1650073": [
-        "GribovKK-2016"
     ],
     "1650240": [
         "Leonov-2016-IJBC"
@@ -8938,14 +8935,8 @@
     "1730038": [
         "StankevichKLC-2017"
     ],
-    "1750037": [
-        "NazarimehrSJS-2017"
-    ],
     "1750063": [
         "DudkowskiPK-2017"
-    ],
-    "1750115": [
-        "ChenKLM-2017-IJBC"
     ],
     "1750164": [
         "Leonov-2017-IJBC"
@@ -9989,7 +9980,9 @@
     "F": [
         "Dyson-2004",
         "NairFZE-2007",
+        "Fradkov-2007",
         "DontchevL-1992",
+        "PiiroinenK-2008",
         "Lanchester-1916",
         "VallejoS-2017",
         "Heagy-1992",
@@ -10054,6 +10047,7 @@
         "Wood-2013",
         "ShapovalovKBA-2004",
         "ZhongA-1985",
+        "LeonovA-DAN-2015",
         "KondratevaLSR-2001",
         "LeonovPS-1995",
         "bi2011linearized",
@@ -10082,10 +10076,12 @@
         "Vasca-2012-nonlinear-pll",
         "BakaevG-1965",
         "BrigatiFMPP-2001",
+        "viterbi1963phase",
         "GribovKS-2016",
         "BoninC-2014",
         "BonninCG-2014",
         "Gardner-1980",
+        "LeonovMKM-2020-IJBC",
         "KuznetsovKKMD-2019-IFAC",
         "DancaFKC-2018",
         "DancaK-2017-AMC",
@@ -10189,6 +10185,7 @@
         "Rayleigh-1877",
         "MarkusY-1960",
         "JonesPS-2010",
+        "Glutsuk-1994",
         "Noldus-1971",
         "HsuM-1968",
         "Barabanov-1988",
@@ -11431,73 +11428,19 @@
     ],
     "Lyapunov": [
         "Bof2018",
-        "MatveevS-2017",
-        "SanoS-1985",
-        "VallejoS-2017",
         "PikovskyP-2016",
-        "GeistPL-1990",
-        "KocakP-2010",
-        "CzornikNN-2013",
         "Lyapunov-1892",
         "Lyapunov-1966",
-        "Rantzer-2001",
         "Kalman-1963",
-        "LurieR-1960-IFAC",
-        "Barbashin-1960-IFAC",
-        "BenettinGGS-1980-Part1",
-        "BenettinGGS-1980-Part2",
-        "DemirK-2001",
-        "BalibreaC-2013",
-        "BarreiraP-2001",
-        "Hunt-1996",
-        "WuH-2003",
-        "BruntonR-2010",
-        "Galvanetto-2000",
-        "ZhangLZ-2005",
-        "ContiRK-2012",
-        "CarbonellJB-2002",
-        "AstonD-2003",
-        "CaponettoF-2013",
-        "RangarajanHR-1998",
-        "Skokos-2010",
-        "HeXC-2000",
-        "DieciJV-2011",
-        "RamasubramanianS-2000",
-        "ChristiansenR-1997",
-        "GreeneK-1987",
-        "JanakiRHR-1999",
-        "Stachowiak-2011",
-        "LiuFY-2009",
-        "LianL-2010",
-        "Barreira-2017",
         "LakshmikanthamMS-1991",
-        "nikravesh2013nonlinear",
-        "Gelfert-2003",
-        "AbarbanelBK-1991",
-        "RosensteinCL-1993",
-        "Pesin-1977",
         "Izobov-2012",
-        "Hoover-2014",
-        "DoeringGHN-1987",
-        "VallejoVS-2008",
         "Lyapunov-1907",
-        "TempkinY-2007",
-        "ConstantinF-1985",
-        "Eden-1989",
-        "EdenFT-1991",
-        "Luo-2010",
-        "PogromskyM-2011",
-        "Young-2013",
-        "Young-1982",
-        "OttY-2008",
         "DeroinD-2015",
         "Shevchenko-2014",
-        "KaplanMY-1984",
         "Leonov-2018-UMZh",
         "Leonov-2018-UMZh-rus",
         "Leonov-2016-IJBC",
         "LeonovM-2016-DAN",
-        "Leonov-2013-DAN-LD",
         "Leonov-2012-PMM",
         "Leonov-2002",
         "BoichenkoL-1999",
@@ -11510,11 +11453,7 @@
         "Abramovitch-1990",
         "SimonE-1994",
         "KalmanB-1960",
-        "KuznetsovMMKK-2019-Lorenz-arXiv",
-        "KuznetsovM-2019-AIP",
-        "KuznetsovKKMD-2019-IFAC",
         "KuznetsovM-2018-arXiv",
-        "KuznetsovLM-2017-arXiv",
         "KuznetsovLM-2016-arXiv"
     ],
     "theory": [
@@ -11996,7 +11935,6 @@
         "ChenPY-2012",
         "LiWJ-2012-cu",
         "Grabowski-2011-cu",
-        "CzornikNN-2013",
         "Feudel-2008",
         "PisarchikJVGB-2006",
         "AlgabaDMR-2014-ND",
@@ -12103,7 +12041,6 @@
         "VallejoVS-2008",
         "Vannelli-1985",
         "Kapitaniak-1996",
-        "DieciL-2008",
         "BlekhmanIF-2007",
         "PanchevSV-2007",
         "LiaoTA-2010",
@@ -12112,7 +12049,6 @@
         "Rasvan-2015",
         "Reitmann-2013",
         "Belykh-1980",
-        "Sell-1989",
         "Celikovsky-1994",
         "GaveauS-2015",
         "HeathCS-2018",
@@ -12205,7 +12141,6 @@
         "DudkowskiJKKLP-2016",
         "KiselevaKL-2016-IFAC",
         "KuznetsovL-2016-ArXiv",
-        "LeonovKKK-2015-arXiv-YangTigan",
         "LeonovKKK-2015-arXiv-LuChen",
         "KislevaKKL-2015-IFAC",
         "LeonovK-2015-AMC",
@@ -12223,7 +12158,6 @@
         "LeonovKYY-2011-DAN",
         "KuznetsovVLS-2011-NAUN",
         "LeonovK-2010-DAN",
-        "KuznetsovL-2008-JVE",
         "LeonovKK-2008",
         "KuznetsovL-2005-Vest-InStab",
         "KuznetsovL-2005-Vest-Stab",
@@ -13608,6 +13542,7 @@
         "GonchenkoGS-2010",
         "ReitmannS-2000",
         "NekorkinC-1993",
+        "BorghezanR-2017",
         "Kudryashova-2009",
         "Rasvan-2004",
         "Anishchenko-1994",
@@ -13633,6 +13568,7 @@
         "GusevL-2006",
         "Popov-1960-IFAC",
         "BlondelM-2004",
+        "AndronovM-1945",
         "AndronovM-1947",
         "AndronovM-1953",
         "Beyn-2002",
@@ -14122,6 +14058,7 @@
         "PisarchikJVGB-2006",
         "Banerjee-1997",
         "JafariSG-2013",
+        "WeiP-2012",
         "MolaieJSG-2013",
         "Shafer-2012",
         "Ilyashenko-1982",
@@ -14196,6 +14133,8 @@
         "LoziU-1993",
         "Pilyugin-1992",
         "Algaba2014758",
+        "Algaba20134252",
+        "Algaba20131175",
         "EichhornLH-2001",
         "BoccalettiKOVZ-2002",
         "Pilyugin-2011",
@@ -14234,6 +14173,7 @@
         "LeonovA-DAN-2015",
         "Leonov-2012-DECP",
         "Leonov-2012-PLA",
+        "Leonov-2012-DRAN",
         "LeonovRS-2011",
         "LeonovS-2005-IJIC",
         "LeonovS-2005-IJBC",
@@ -14387,8 +14327,6 @@
         "ArnoldAIS-1986",
         "GonchenkoGS-2010",
         "ShilnikovTCh-2001",
-        "Algaba20134252",
-        "Algaba20131175",
         "Shilnikov-1965",
         "AfraimovichGLShT-2014",
         "Shilnikov-1994",
@@ -14397,11 +14335,13 @@
     ],
     "L": [
         "ArnoldAIS-1986",
+        "MatveevS-2017",
         "Pupyrev-2006",
         "FradkovP-1998",
         "Fradkov-2003",
         "FradkovE-2005",
         "Fradkov-2007",
+        "SanoS-1985",
         "LehnertHFGFS-2011",
         "Fradkov-2017",
         "OvsyannikovT-2017",
@@ -14409,15 +14349,23 @@
         "FalcoliniTL-2016",
         "FalcoliniTL-2013",
         "GonchenkoGS-2010",
+        "VallejoS-2017",
         "NekorkinC-1993",
         "Chua2-1992",
         "Chua-1993",
         "ChenPY-2012",
+        "GeistPL-1990",
         "LiaoW-2014",
         "RubenfeldS-1977",
+        "KehletL-2013",
         "YorkeY-1979",
         "Grabowski-2011-cu",
+        "KocakP-2010",
+        "CzornikNN-2013",
+        "GaliasT-2008-LorenzUpo",
         "AlgabaDMR-2014-ND",
+        "Sprott-2015-IJBC",
+        "LiSprott-2014-cu",
         "MolaieJSG-2013",
         "BorodzikZ-2008",
         "MaesschalckD-2011",
@@ -14430,6 +14378,7 @@
         "LiuTDAH-2006",
         "AlgabaEtAll-2013-Chaos",
         "AlgabaEtAll-2013-PLA",
+        "ChenY-2013",
         "MatsumotoCK-1985",
         "Chua-1990",
         "Chua-1992",
@@ -14441,6 +14390,7 @@
         "AlbarakatiLP-2000",
         "Cesari-1959",
         "Shi-1981",
+        "Popov-1959",
         "BergenF-1971",
         "BlowsP-1994",
         "ChenW-1979",
@@ -14450,13 +14400,17 @@
         "GasullGM-1997",
         "GasullGM-1999",
         "Lynch-2005",
+        "Rantzer-2001",
         "Schuko-1968",
         "Shi-1980",
         "ShilnikovTCh-2001",
         "Lefschetz-1965",
+        "Kalman-1963",
         "MarkusY-1960",
         "GusevL-2006",
         "LipkovichF-2015",
+        "LurieR-1960-IFAC",
+        "Barbashin-1960-IFAC",
         "Westphal-2001",
         "UMN-1982",
         "Allgower-1990",
@@ -14469,51 +14423,89 @@
         "Oseledec-1968",
         "AdlerKA-1965",
         "LetellierEAA-2004",
+        "BarrioDT-2015-LorenzUpo",
         "ParkerC-1989",
         "YauR-2000",
         "ChuaKM-1986",
         "HuangPWF-1996",
         "VandenSteen-1997",
+        "LaSalle-1960",
         "LaSalleL-1961",
         "AstromRundqwist_ACC89",
         "BarbuReginatto_ACC99",
         "TarbouriechTurner09",
+        "DemirK-2001",
+        "BalibreaC-2013",
         "Massera-1956",
+        "Hahn-1963",
         "MatrosovM-1993",
         "BarreiraP-2001",
         "Andrianova-1998",
+        "Hunt-1996",
         "AnishchenkoANVS-2002",
         "KorovinI-2010-DE-10",
         "TancrediS-1999",
         "LucaRV-1997",
         "BremenUP-1997",
+        "WuH-2003",
         "BruntonR-2010",
+        "Galvanetto-2000",
         "ZhangLZ-2005",
+        "ContiRK-2012",
+        "CarbonellJB-2002",
+        "AstonD-2003",
+        "CaponettoF-2013",
+        "RangarajanHR-1998",
+        "Skokos-2010",
+        "HeXC-2000",
         "DieciJV-2011",
         "BarreiraV-2008",
+        "RamasubramanianS-2000",
+        "ChristiansenR-1997",
+        "GreeneK-1987",
+        "JanakiRHR-1999",
+        "Stachowiak-2011",
+        "LiuFY-2009",
+        "LianL-2010",
         "Barreira-2017",
         "wang-2009-control",
         "HaddadC-2011",
+        "nikravesh2013nonlinear",
         "michel2008stability",
         "vrande1999approximate",
+        "doi:10.1142/S0218127413502003",
         "Algaba2014772",
         "Algaba2014758",
+        "Algaba201480",
         "Algaba2014887",
         "Algaba20132771",
         "Algaba20134252",
         "Algaba2013",
         "EichhornLH-2001",
+        "Gelfert-2003",
         "BarreiraG-2011",
         "PecoraC-1990",
         "BoccalettiKOVZ-2002",
         "AbarbanelBST-1993",
+        "AbarbanelBK-1991",
+        "RosensteinCL-1993",
+        "Pesin-1977",
+        "Kolmogorov-1958",
         "Coomes-1989",
         "Tucker-1999",
+        "GaliasZ-1998",
+        "Zhang-2014",
         "LlibreZ-2002",
+        "Hoover-2014",
+        "Ledrappier-1981",
+        "ZhangML-2012",
+        "DoeringG-1995",
         "DoeringGHN-1987",
         "Kharitonov-1978",
         "CartwrightL-1945",
         "Shilnikov-1965",
+        "Sparrow-1982",
+        "Sprott-2015",
         "VallejoVS-2008",
         "Zubov-1964",
         "Vannelli-1985",
@@ -14522,6 +14514,7 @@
         "BlekhmanIF-2007",
         "AfraimovichGLShT-2014",
         "AfraimovicBSh-1977",
+        "Belykh-1984",
         "EvtimovPS-2000",
         "PanchevSV-2007",
         "LiaoTA-2010",
@@ -14530,38 +14523,59 @@
         "Wiesel-1993",
         "Sell-1989",
         "PontrjaginSh-1932",
+        "TempkinY-2007",
+        "ConstantinF-1985",
+        "Eden-1989",
         "Eden-1989-PhD",
+        "EdenFT-1991",
         "GaveauS-2015",
         "FredericksonKYY-1983",
         "RabinovichF-1979",
+        "Liu-2011",
         "Luo-2010",
+        "Tigan-2004",
         "Kapitza-1951",
+        "PogromskyM-2011",
         "Young-2013",
         "Young-1995",
         "BenedicksY-1993",
         "BenedicksC-1991",
+        "Young-1982",
+        "Ruelle-1976-Lorenz",
         "LedrappierY-1985-I",
         "LedrappierY-1985-II",
+        "OttY-2008",
         "BarreiraS-2000",
         "Lipnitskii-2015",
         "MierczynskiS-2013",
         "LuWLK-2004",
         "KaplanMY-1984",
+        "Robinson-1990",
         "MandelstamP-1932",
         "Tokunaga-1989",
         "KuznetsovKSC-1993",
         "BelykhC-1993",
         "Shilnikov-1994",
+        "MaslennikovNK-2018",
         "Fridman-2002",
+        "Barboza-2018",
         "MatsumotoCT-1986",
         "CruzC-1992",
+        "LeonovM-2018-PolyahovskieCh",
+        "Leonov2017-Lorenz4d",
+        "Leonov-2017-CPAA",
         "Leonov-2017-IJBC",
         "LeonovAM-2017-VestSPSU",
+        "Leonov-2016-IJBC",
+        "Leonov-2015-DAN-Homo",
+        "Leonov-2015-ND",
         "Leonov-2015-DAN-GD",
         "LeonovPS-2013-PLA",
         "Leonov-2013-DAN-ChenLu",
         "Leonov-2013-DAN-LD",
+        "Leonov-2013-IJBC",
         "Leonov-2012-PLA",
+        "LeonovPS-2011",
         "LeonovK-RCD-2010",
         "Leonov-2009",
         "Leonov-DAN-2009-LC",
@@ -14581,6 +14595,9 @@
         "LeonovL-1993",
         "Leonov-1988",
         "Leonov-1988-RMS",
+        "LeonovAB-1985",
+        "Leonov-1983",
+        "LeonovBK-1987",
         "LeonovR-1986",
         "weber1976candidate",
         "yakubovich2007dissipativity",
@@ -14613,13 +14630,17 @@
         "GolestanGV-2017",
         "ZiemerP-1985",
         "Turaev",
+        "Lasalle-1960",
         "KuznetsovMKKL-2020-arxiv",
         "LeonovMKM-2020-IJBC",
         "KuznetsovMMKK-2019-Lorenz-arXiv",
         "KuznetsovMA-2019-SCDG",
+        "KuznetsovM-2019-AIP",
+        "KuznetsovKKMD-2019-IFAC",
         "KuznetsovAFC-2018",
         "AbramovichKN-2018",
         "KuznetsovLMPS-2018",
+        "KuznetsovLM-2017-arXiv",
         "StankevichKLC-2017",
         "ChenKLM-2017-IJBC",
         "KuznetsovL-2016",
@@ -14653,10 +14674,13 @@
         "ArnoldAIS-1986",
         "Kundur-1994",
         "ChudzikPSK-2011",
+        "Fradkov-2003",
+        "Skeel-1992",
         "FroehlingCFPS-1981",
         "AwrejcewiczKEDBK-2018",
         "LehnertHFGFS-2011",
         "GaspardN-1983",
+        "Andronov-1929",
         "PiiroinenK-2008",
         "GonchenkoGS-2010",
         "GrassbergerKM-1989",
@@ -14686,6 +14710,7 @@
         "Rantzer-1996",
         "ShilnikovTCh-2001",
         "Yu-1998",
+        "GusevL-2006",
         "Noldus-1971",
         "Vaisberg-2002",
         "deBruin-2009",
@@ -14745,6 +14770,7 @@
         "AleksandrovP-1973",
         "LedrappierY-1985-I",
         "Varin-2004",
+        "Marshall-1992",
         "KuznetsovKSC-1993",
         "Shilnikov-1994",
         "BaoJWH-2015",
@@ -14778,9 +14804,12 @@
         "Costas-1962-patent",
         "Godse-2010-book",
         "BakshiG-2009-book",
+        "Wu-2002",
+        "Wu-1998",
         "KolumbanFK-1999",
         "Osborne-1980a",
         "Osborne-1980b",
+        "TeplinskyF-2000",
         "Jeruchim-2000",
         "Carlson-2009-book",
         "Misra-2006-book",
@@ -14789,6 +14818,8 @@
         "Goyal-2006",
         "GrayHLM-2009",
         "Haque-2012",
+        "Huque-2011-PhD",
+        "FleischmannLW-1969",
         "Nielsen-1958",
         "KiharaOE-2003",
         "Thompson-2005",
@@ -14902,6 +14933,7 @@
     "i": [
         "ArnoldAIS-1986",
         "Pupyrev-2006",
+        "Algaba-2015",
         "BorghezanR-2017",
         "Ilyashenko-1985",
         "Aizerman-1953",
@@ -14912,7 +14944,9 @@
         "Stewart-1989",
         "Persidskii-1947",
         "Pilyugin-2011",
+        "AfraimovicBSh-1977",
         "AbramovichL-1978",
+        "Rodriguez-2007",
         "BakaevG-1965",
         "Bakaev-1963",
         "shakhtarin2011sinkhronizatsiya",
@@ -15100,7 +15134,6 @@
         "Leonov-2006-SPSU",
         "ShakhgildyanL-1972",
         "ShakhgildyanL-1966",
-        "Shalfeev-2013-book",
         "BarbashinT-1969",
         "BakaevG-1965",
         "Bakaev-1963",
@@ -15568,46 +15601,782 @@
         "NairFZE-2007",
         "BakarAG-2020"
     ],
-    "An": [
+    "A": [
         "NairFZE-2007",
+        "LienardC-1914",
+        "MatveevS-2017",
+        "ChudzikPSK-2011",
+        "Vyshnegradsky-1877",
+        "Pupyrev-2006",
+        "FradkovP-1998",
+        "Fradkov-2003",
+        "FradkovE-2005",
+        "Fradkov-2007",
+        "Bissell-1998",
         "Sprott-2007",
+        "Fuchs-2013",
+        "AwrejcewiczKEDBK-2018",
+        "BenziPPV-1984",
+        "MalinetskiiP-1988",
+        "NeseDW-1987",
+        "OttGY-1990",
         "LehnertHFGFS-2011",
+        "PyragasP-2011",
+        "Fradkov-2017",
+        "Brockett-1999",
         "Algaba-2015",
+        "BarronS-2008",
+        "Andronov-1929",
+        "AndronovV-1930",
+        "LoziPP-2016",
+        "LoziP-2015",
+        "LurieP-1944",
+        "Lurie-1945",
+        "Lurie-1951",
+        "DontchevL-1992",
         "PiiroinenK-2008",
-        "FalcoliniTL-2016",
+        "GrassbergerKM-1989",
+        "VallejoS-2017",
+        "RabinovichEW-2000",
+        "Heagy-1992",
+        "HornJ-2013-book",
+        "PikovskyP-2016",
+        "Chua-1993",
+        "GrebogiOY-1983",
+        "Oraevsky-1981",
         "TelG-2006",
-        "YangWC-2010",
-        "LaBryerA-2012",
-        "LiuTDAH-2006",
+        "RubenfeldS-1977",
+        "GarashchukKS-2017",
+        "KehletL-2017",
+        "YorkeY-1979",
+        "Alli-Oke-2012-cu",
+        "CzornikNN-2013",
+        "Hertz-2013",
+        "PisarchikF-2014",
+        "PisarchikJVGB-2006",
+        "GrahamT-1986",
+        "LiuWIP-2013",
+        "JafariSG-2013",
+        "Wei-2011",
+        "WangC-2012-CNSNS",
+        "Abooee-2013",
+        "Sprott-2014-cu",
+        "AlgabaDMR-2014-ND",
+        "LiSprott-2014-PLA-cu",
+        "HuangWWY-2008",
+        "PearsonL-2010",
+        "TesiAGW-1996",
+        "ColleraC-2004",
+        "LaBryerA-2010",
+        "MargaliotaC-2006",
+        "Rasvan-2004",
+        "Smith-1986",
+        "LuChen-2002",
+        "AlgabaEtAll-2013-Chaos",
+        "AlgabaEtAll-2013-PLA",
         "Rossler-1976",
-        "Bongiorno-1963",
+        "Matsumoto-1984",
+        "Chua-1992",
+        "Chua-1995",
+        "BilottaP-2008",
+        "Zhiguo-2008",
+        "Anishchenko-1994",
+        "Krylov-1936",
+        "Belousov-1959",
+        "LiLY-2009",
+        "Cherkas-1986",
+        "KLurie-2001",
+        "Aizerman-1949",
+        "Gelig-2011",
+        "Erugin-1952",
+        "BarbashinK-1952",
+        "Pliss-1958",
+        "CherkasZh-1970",
+        "Coppel-1989",
+        "Coppel-1991",
+        "AlbarakatiLP-2000",
+        "BronshteinS-1997",
+        "BogolyubovM-1961",
+        "BautinL-1976",
+        "Shi-1981",
+        "Pervozvanskii-1986",
+        "Filippov-1988",
+        "AizermanG-1963",
+        "Aizerman-1953",
+        "Aizerman-1974",
+        "Yakubovich-1973",
+        "BergenF-1971",
+        "MeesB-1975",
+        "Krasnoselskii-1968",
+        "Yanko-Trinitskii-1958",
+        "Nelepin-1975",
+        "AndronovL-1956",
+        "AndronovLGM-1973",
+        "AndronovVKh-1966",
+        "ChavarrigaG-2003",
+        "Cherkas-1979",
+        "CherkasAL-2003",
         "GasullGM-1997",
         "GasullGM-1999",
+        "Lyapunov-1892",
+        "Lyapunov-1966",
+        "Reyn-1994",
+        "Rantzer-1996",
+        "Rantzer-2001",
+        "Rantzer-2001-PLL",
+        "Rantzer-2002",
+        "SabatiniCh-1999",
+        "Shi-1980",
+        "ShilnikovTCh-2001",
+        "AizermanG-1964",
+        "Yakubovich-1958",
+        "Yakubovich-1962",
+        "Yakubovich-1964-I",
+        "Efendiev-1968",
+        "Glutsyuk-1995",
+        "UMN-1998",
+        "ChancePGH-1973",
+        "GusevL-2006",
+        "Bissel-1998",
+        "LipkovichF-2015",
+        "LurieR-1960-IFAC",
+        "Filippov-1960-IFAC",
+        "Barbashin-1960-IFAC",
+        "Fessler-1995",
+        "ANSSSR-1947-eng",
+        "Gutierrez-1995",
+        "Glutsuk-1994",
+        "Febler-1995",
+        "Cima-1997",
+        "Noldus-1971",
+        "AndronovVKh-1937",
+        "BlondelM-2004",
+        "HsuM-1968",
+        "Fitts-1966",
+        "AndronovM-1944",
+        "AndronovM-1945",
+        "AndronovM-1947",
+        "AndronovM-1953",
+        "Pyragas-1992",
+        "Meisters-1996",
+        "Beyn-2002",
         "EarnshawW-1992",
-        "MihajlovicWHN-2006",
-        "BarrioBS-2014",
-        "BremenUP-1997",
-        "Robinson-2013",
-        "KunzeK-2001",
-        "Zelinka-2013",
+        "Shokir-2004",
+        "deBruin-2009",
+        "KondratevaLRS-2001",
+        "Mihailovic-2004",
+        "BesselinkWN-2011",
+        "VirguieKG-2009",
+        "BenettinGGS-1980-Part1",
+        "BenettinGGS-1980-Part2",
+        "ShimadaN-1979",
+        "WolfSSV-1985",
+        "KaplanY-1979",
+        "KaplanY-1979-CMP",
+        "AugustovaBC-2015",
+        "Rossler-1976-ZNTA-Chem",
+        "Rossler-1976-ZNTA",
+        "Oseledec-1968",
+        "AdlerKA-1965",
+        "LetellierEAA-2004",
+        "LainscsekLG-2003",
+        "BarrioDT-2015-LorenzUpo",
+        "SzczepaniakM-2008",
+        "Li-2008",
+        "HuangPWF-1996",
+        "GrebogiOY-1987",
+        "BrockleyCP-1967",
+        "Ibrahim-1994",
+        "Stodola-1893",
+        "Stodola-1894",
+        "IvanovSmolensky-1980",
+        "staege1936electrical",
+        "BiannicTarbouriech_06",
+        "Dornheim92",
+        "Shifrin93",
+        "PogromskyAndrievsky_IFAC09",
+        "vandenBergPogromskyRooda_CDC06",
+        "BarbuReginatto_ACC99",
+        "DemirK-2001",
+        "Barabanov-2005",
+        "Rumyantsev-2003",
+        "Yakubovich-1963",
+        "MatrosovM-1993",
+        "RusselHO-1980",
+        "AnishchenkoANVS-2002",
+        "KorovinI-2010-DAN",
+        "KorovinI-2010-DE-10",
+        "KorovinI-2010-DE-11",
+        "KorovinI-2011-DE",
+        "IzobovK-2012-DE",
+        "KorovinI-2012-DAN",
+        "Vinograd-1954",
+        "TancrediS-1999",
+        "WuH-2003",
+        "CarbonellJB-2002",
+        "AstonD-2003",
+        "CaponettoF-2013",
+        "RamasubramanianS-2000",
+        "JanakiRHR-1999",
+        "Stachowiak-2011",
+        "Barbashin-1970",
+        "Yang-2004",
+        "Awrejcewicz-2012",
+        "Tuwankotta-2013",
+        "kaszkurewicz2000matrix",
+        "HaddadC-2011",
+        "michel2008stability",
+        "gil2005explicit",
         "vrande1999approximate",
-        "ZhangC-2017",
-        "LiaoTA-2010",
+        "Algaba2014772",
+        "Algaba2014758",
+        "Algaba201480",
+        "Algaba2014887",
+        "Algaba20132771",
+        "Algaba20134252",
+        "Algaba20131175",
+        "Algaba2013",
+        "Algaba20122708",
+        "OttWY-1984",
+        "Ohno-1980",
+        "RosensteinCL-1993",
+        "HornJ-1994-book",
+        "Sambarino-2014",
+        "Millionschikov-1976",
+        "Izobov-2012",
+        "Kolmogorov-1959",
+        "Kolmogorov-1958",
+        "GrebogiOY-1987-UPO",
+        "Zygmund-1968",
+        "Coomes-1989",
+        "Sprott-2011",
+        "DouadyO-1980",
+        "Henon-1976",
+        "Levinson-1949",
+        "Shilnikov-1965",
+        "Nose-1984",
+        "PoschHV-1986",
+        "Hoover-1985",
+        "ChepyzhovG-1992",
+        "Babin-2006",
+        "Shaw-1981",
+        "SprottJKK-2017",
+        "VallejoAS-2003",
+        "FeudelWGKGS-2005",
+        "VallejoVS-2008",
+        "Zubov-1964",
+        "Vannelli-1985",
+        "Stewart-1997",
+        "PikovskiRT-1978",
+        "GlukhovskyD-1980",
+        "Sommerfeld-1902",
+        "BlekhmanIF-2007",
+        "AfraimovichGLShT-2014",
+        "AkhtanovZZ-2013",
+        "Belykh-1984",
+        "CoddingtonL-1955",
+        "Parks-1992",
+        "Meisters-1989",
+        "Ladyzhenskaya-1991",
+        "Lyapunov-1907",
+        "BabinV-1992",
+        "Rasvan-2015",
+        "Celikovsky-1994",
+        "Shimizu1980201",
+        "TempkinY-2007",
         "Eden-1989-PhD",
-        "TasakiGD-1998",
+        "Eden-1990",
+        "EdenFT-1991",
+        "SanderY-2015",
+        "FredericksonKYY-1983",
+        "RabinovichF-1979",
+        "Meador-2009",
+        "Yangc-2008",
+        "YangChen-2008",
+        "Stephenson-1908",
+        "FradkovTT-2011",
+        "PogromskyM-2011",
+        "AleksandrovP-1973",
+        "Young-2013",
+        "Bowen1975",
+        "Ruelle-1976",
+        "Schmeling-1998",
+        "OttY-2008",
+        "Shevchenko-2014",
+        "Lipnitskii-2015",
         "Kuczma-2009",
-        "BaoLWX-2016",
-        "MaslennikovNK-2018",
-        "Wang-2005",
+        "LuWLK-2004",
+        "NoackR-1996",
+        "FarmerOY-1983",
+        "Romanovski-2008",
+        "KaplanMY-1984",
+        "Jenkins-2013",
+        "Lozi-2013",
+        "KuznetsovKSC-1993",
+        "BelykhC-1993",
+        "GribovKK-2016",
+        "ErmentroutXPPAUTO-2002",
+        "BaierK-1990",
+        "Halanay-1966",
+        "Routh-1877",
+        "Hurwitz-1895",
+        "vanderPol-1920",
+        "Astrom-1999",
+        "KurzhanskiD-2019",
+        "MatveevS-2009",
+        "MatveevP-2019",
+        "ShapovalovKBA-2004",
+        "CruzC-1992",
+        "Recai-2010",
+        "LeonovM-2018-PolyahovskieCh",
+        "Leonov2017-Lorenz4d",
+        "LeonovSTA-2017",
+        "LeonovTNKN-2017-KIO",
+        "Leonov-2014-DAN",
+        "Leonov-2018-UMZh",
+        "Leonov-2018-UMZh-rus",
+        "Leonov-2017-CPAA",
+        "LeonovM-2017-DAN",
+        "LeonovAM-2017-VestSPSU",
+        "Leonov-2016-IJBC",
+        "Leonov-2015-DAN-Homo",
+        "Leonov-2015-ND",
+        "LeonovA-DAN-2015",
+        "Leonov-2015-DAN-GD",
+        "Leonov-2015-PLA",
+        "LeonovM-2016-DAN",
+        "Leonov-2014-SCL",
+        "Leonov-2014-ND",
+        "LeonovPS-2013-PLA",
+        "Leonov-2013-DAN-ChenLu",
+        "Leonov-2013-DAN-LD",
+        "Leonov-2013-IJBC",
+        "Leonov-2013-AMM",
+        "Leonov-2012-DECP",
+        "Leonov-2012-PLA",
+        "Leonov-2012-DRAN",
+        "Leonov-2012-PMM",
+        "LeonovS-DAN-2012",
+        "LeonovS-Vestnik-2012",
+        "LeonovKiseleva-DAN-2012",
+        "LeonovRS-2011",
+        "LeonovPS-2011",
+        "Leonov-IJBC-2011",
+        "LeonovS-2010-NDST",
+        "LeonovK-RCD-2010",
+        "Leonov-DAN-2010-bounded",
+        "Leonov-2010-PMM",
+        "Leonov-2009",
+        "Leonov-DAN-2009-LC",
+        "LeonovKuz-2009",
+        "Leonov-DAN-2009",
+        "Leonov-ARC-2009-1",
+        "Leonov-ARC-2009-2",
+        "Leonov-2009-CAMQ",
+        "Leonov-2008-DAN",
+        "Leonov-IJBC-2008",
+        "Leonov-2008-NDST",
+        "Leonov-2007",
+        "Leonov-2006",
+        "Leonov-2006-RCD",
+        "LeonovS-2005-IJIC",
+        "LeonovS-2005-IJBC",
+        "Leonov-2006-ARC",
+        "Leonov-2004-JAMM",
+        "Leonov-2003",
+        "Leonov-2003-RMS",
+        "Leonov-2002",
+        "LeonovP-2005",
+        "Leonov-2002-JAMM",
+        "Leonov-2002-RMS",
+        "Leonov-2001-DAN",
+        "LeonovNR-2001",
+        "LeonovGR-2001",
+        "Leonov-2001-AMM",
+        "KondratevaLSR-2001",
+        "LeonovL-2000",
+        "Leonov-PMM-2000",
+        "BoichenkoL-2000",
+        "BoichenkoL-1999",
+        "Leonov-1999",
+        "Leonov-1999-Vest",
+        "BoichenkoLFR-1998",
+        "Leonov-1998-UkMZ",
+        "Leonov-1998-JAMM",
+        "Leonov-1998",
+        "Leonov-1998-Vest",
+        "BoichenkoL-1998",
+        "Leonov-1997-DEDS",
+        "Leonov-1997-Vest",
+        "LeonovL-1997",
+        "Leonov-1996-Vest",
+        "LeonovS-1996",
+        "BarabanovGLLMSF-1996",
+        "Leonov-1995-Vest",
+        "LeonovPS-1995",
+        "Leonov-1995",
+        "BoichenkoL-1994",
+        "LeonovL-1993",
+        "LeonovB-1992",
+        "Leonov-1991-Vest",
+        "Leonov-1991",
+        "Leonov-1988",
+        "Leonov-1988-RMS",
+        "Leonov-1985",
+        "HalanayLR-1987",
+        "LeonovAB-1985",
+        "Leonov-1984",
+        "Leonov-1983",
+        "ErshovaL-1983",
+        "Leonov-1983-AMM",
+        "Leonov-1981",
+        "AbramovichL-1980",
+        "AbramovichL-1978",
+        "Leonov-1977",
+        "Leonov-1976",
+        "Leonov-1975",
+        "Leonov-1974",
+        "Leonov-1971",
+        "Leonov-1970",
+        "LeonovS-2012",
+        "LeonovK-2009",
+        "Leonov-2008",
+        "BoichenkoLR-2005",
+        "YakubovichLG-2004",
+        "LeonovSel-2002",
+        "Leonov-2001",
+        "LeonovS-2000",
+        "Leonov-1997",
+        "LeonovBSh-1996",
+        "LeonovPS-1996",
+        "LeonovRS-1992",
+        "LeonovR-1987",
+        "LeonovBK-1987",
+        "LeonovR-1986",
+        "GeligLY-1978",
+        "Leonov-2006-SPSU",
+        "LindseyCM-1981",
+        "Hedayat-1999-3order",
+        "Acco-2004",
+        "Guermandi-2011",
+        "farjad2002low",
+        "chang2002wide",
+        "Paemel-1994",
+        "ladvanszky2018costas",
+        "zolomy1997eight",
+        "osborne1982generalized",
+        "Janos-diff-coding-2017",
+        "ShakhtarinSK-2017",
+        "Shakhtarin2014-pfd",
+        "barbashin1969dynamical",
+        "leonov1976one",
+        "mitropolsky1967averaging",
+        "yakubovich2007dissipativity",
         "HuqueS-2013",
-        "DjordjevicEtAl-1998",
-        "Djordjevic-1998",
-        "Helaluddin-2008",
-        "Stensby-2011",
+        "SmirnovaPU-2015-ISCAS",
+        "SmirnovaPU-2014",
+        "SmirnovaP-2016-ECC",
+        "smirnova-perkin",
+        "PerkinPShS-2014-MTNS",
+        "buonomo2003constructive",
+        "Gubar-1961",
+        "Orla-2007",
+        "Fikhtengolts-2001",
+        "Fiocchi-1992",
+        "Wang-1987",
+        "EmuraWYN-2000",
+        "WangE-1998",
+        "Young-1992",
+        "GardnerEH-1993",
+        "Fines-1991",
+        "SuarezQ-2003",
+        "Suarez-2009",
+        "Tretter",
+        "ShakhgildyanL-1972",
+        "ShakhgildyanL-1966",
+        "Viterbi-1966",
+        "Emura-1982",
+        "Lapsley-1997",
+        "DemirMR-2000",
+        "Xanthopoulos-2001",
+        "Abramovitch-2002",
+        "BanerjeePS-2013",
+        "MitropolskyB-1961",
+        "SarkarS-2010",
+        "ChangC-2008",
+        "Sutterlin-1998",
+        "SutterlinD-1999",
+        "FiocchiMT-1992",
+        "KimEtAl-2010",
+        "TomkinsEtAl-2009",
+        "Dyer-2004-book",
+        "Yeo-2010-book",
+        "Barry-2004-book",
+        "Crawford-1994-FS",
+        "Crawford-2008-book",
+        "Doberstein-2011-GPS",
+        "VendelinPR-2005-book",
+        "Rohde-2000-book",
+        "Godse-2010-book",
+        "BakshiG-2009-book",
+        "PiqueiraM-2003",
+        "banerjee2006",
+        "BernsteinLL-1989",
+        "SandersVM-2007-averaging",
+        "MonteiroFP-2004",
+        "GrebenikovMR-2004-averaging",
+        "Carlson-2009-book",
+        "Nguyen-2009-book",
+        "Samoilenko-2004-averiging",
+        "Grewal-2004-GPS",
+        "Chumchairat-2003",
+        "Goyal-2006",
+        "Piqueira-2010-PLL-network",
         "Stensby-2013",
+        "Huque-2011-PhD",
         "HuqueS-2011-exact",
-        "KummKZ-2010",
-        "KudryashovaKLNS-2010"
+        "AscheidM-1982",
+        "BarbashinT-1969",
+        "Nielsen-1958",
+        "PurkayasthaS-2015",
+        "WuZD-2014",
+        "BakaevG-1965",
+        "Karimi-Ghartemani-2006",
+        "SidorkinaSSS-2016",
+        "buonomo2013transition",
+        "shakhtarin2011sinkhronizatsiya",
+        "chernoyarov2014application",
+        "Abramovitch-2004",
+        "HsiehH-1996",
+        "Blanchard-1976",
+        "LindseyT-1973",
+        "BrigatiFMPP-2001",
+        "Davis-2011",
+        "biggio2014accurate",
+        "Viterbi-1959",
+        "afraimovich1994stability",
+        "GribovKS-2016",
+        "abramowitz1964handbook",
+        "Razavi-hb-2016",
+        "Williams-1984",
+        "GolestanGV-2017",
+        "Grebene-1969",
+        "Goldstein-1962",
+        "Al-arajiHA-2006",
+        "Ahmad-2014",
+        "intelligent-book2",
+        "Ladvanszky-2017",
+        "Turaev",
+        "Vizvari-1996",
+        "Collins-2011",
+        "GezaKolumban-2015",
+        "Matrosov-2013",
+        "Golestan-2017",
+        "Pham-2016-tcasii",
+        "ViswadevARVM-2019-tcasii",
+        "Dajun-2019-tcasii",
+        "BoikoKMMYY-2020",
+        "AndrievskyKKK-2020",
+        "AlexeevaBKM-2020-IFAC",
+        "KuznetsovMKKL-2020-arxiv",
+        "KuznetsovMYY-2020-arxiv",
+        "KuznetsovMYY-2020-IFAC",
+        "KuznetsovLYYKKRA-2020-ECC",
+        "KuznetsovMYYB-2020-IFACWC",
+        "LeonovMKM-2020-IJBC",
+        "KuznetsovMMKK-2019-Lorenz-arXiv",
+        "KuznetsovMA-2019-SCDG",
+        "KudryashovaKKLM-2019",
+        "KuznetsovKKMD-2019-IFAC",
+        "KuznetsovKMMYY-2019-IFAC",
+        "KuznetsovYYBKM-2019-arXiv",
+        "KuznetsovYYBKKM-2019",
+        "AleksandrovKKKKK-2018-IFAC",
+        "KuznetsovYY-2018-DECT",
+        "KuznetsovAFC-2018",
+        "AbramovichKN-2018",
+        "KuznetsovKKMA-2018",
+        "KuznetsovM-2018-arXiv",
+        "AndrievskyKKKL-2018",
+        "LeonovK-2018-AIP",
+        "LeonovK-2018-DAN",
+        "KuznetsovLMPS-2018",
+        "KuznetsovLM-2017-arXiv",
+        "LeonovKKM-2017",
+        "KuznetsovLSYY-2017",
+        "KuznetsovLS-2017",
+        "KuznetsovLYY-arxiv2017",
+        "StankevichKLC-2017",
+        "AndrievskyKL-2017",
+        "KuznetsovKLMS-2017-IFAC",
+        "KudryashovaKLYY-2017",
+        "KuznetsovKLYY-2017",
+        "KiselevaKKKLYY-2018",
+        "ChenKLM-2017-IJBC",
+        "KuznetsovLYY-2017-CNSNS",
+        "KuznetsovL-2016",
+        "LeonovKS-2016",
+        "LeonovSK-2016",
+        "AleksandrovKLNYY-2016-IFAC",
+        "BlagovKKLYY-2016-IFAC",
+        "PhamVVJKH-2016",
+        "KuznetsovLM-2016-arXiv",
+        "BianchiKLYY-2016",
+        "BestKLYY-2016",
+        "LeonovKYY-2016-DAN",
+        "KuznetsovLMS-2016-INCAAM",
+        "DudkowskiJKKLP-2016",
+        "KiselevaKL-2016-IFAC",
+        "Kuznetsov-2016-PLA",
+        "LeonovKKK-2016-CNSCS",
+        "KuznetsovL-2016-ArXiv",
+        "KuznetsovAL-2016",
+        "Kuznetsov-2016",
+        "LeonovKM-2015-ArXiv",
+        "LeonovKKK-2015-arXiv-YangTigan",
+        "AbramovichKL-2015",
+        "AndrievskyKL-2015",
+        "LeonovKYY-2015-TCAS",
+        "LeonovAK-2015",
+        "LeonovK-2015-RusGidro",
+        "BianchiKLYY-2015",
+        "BlagovKLYY-2015",
+        "KuznetsovLM-2015",
+        "LeonovKKK-2015-arXiv-LuChen",
+        "LeonovKKK-2015-arXiv-Lorenz",
+        "AlexandrovKLNS-2015-IFAC-Pull-in",
+        "KuznetsovLYY-2015-IFAC",
+        "LeonovKS-2015",
+        "ALAboodiKLYY-2015-IFAC",
+        "KuznetsovLYY-2015-IFAC-Ranges",
+        "KuznetsovLSYY-2015-PD",
+        "AlexandrovKLNS-2015-IFAC",
+        "LeonovKKK-2015-IFAC",
+        "KislevaKKL-2015-IFAC",
+        "KuznetsovLS-2015-IFAC",
+        "KuznetsovLYY-2015-arxiv-Ranges",
+        "LeonovKM-2015-EPJST",
+        "SharmaSPKL-2015-EPJST",
+        "SharmaSPKL-2015",
+        "LeonovKM-2015-CNSNS",
+        "BestKKLYY-2015-ACC",
+        "KuznetsovKLNYY-2015-ISCAS",
+        "LeonovKYY-2015-DAN-PLL",
+        "LeonovKYY-2015-DAN-BPSK",
+        "KiselevaK-2015-Vestnik",
+        "LeonovK-2015-AMC",
+        "LeonovKYY-2015-SIGPRO",
+        "LeonovK-2014-NDC",
+        "KuznetsovL-2014-IFACWC",
+        "KiselevaKKLS-2014",
+        "LeonovSK-2014-IFAC",
+        "KuznetsovLYY-2014-IFAC",
+        "KuznetsovKLNYY-2014-ICUMT-QPSK",
+        "AlexandrovKLS-2014-ICUMT",
+        "KuznetsovKLSYY-2014-ICUMT-BPSK",
+        "KuznetsovLYY-2014-ICUMT",
+        "KudryashovaKKLSYY-2014-ICINCO",
+        "LeonovK-2014-arXiv-LCL",
+        "KuznetsovAL-2014-arXiv-LE",
+        "LeonovKM-2014-arXiv",
+        "LeonovKKSZ-2014",
+        "KuznetsovMV-2014-CNSNS",
+        "BestKLYY-2014-IJAC",
+        "BestKLYY-2014-DCNPS",
+        "KiselevaKLN-2014-DCNPS",
+        "LeonovK-2014-MMAES",
+        "LeonovK-2014-JMS",
+        "LeonovK-2013-AISC",
+        "LeonovKKN-2013-JAND",
+        "LeonovK-2013-IJBC",
+        "KuznetsovKL-2013-DEDS",
+        "KuznetsovLNSYY-2013-ICINCO",
+        "AndrievskyKLP-2013-IFAC",
+        "LeonovAAKPS-2013-IFAC",
+        "AndrievskyKLS-2013-IFAC",
+        "LeonovK-2013-CMAS",
+        "KiselevaKLN-2013",
+        "LeonovKKOS-2012",
+        "LeonovAKP-2012",
+        "LeonovKP-2012-DAN",
+        "LeonovKYY-2012-DAN",
+        "LeonovKV-2012-PhysD",
+        "LeonovKYY-2012-TCASII",
+        "KuznetsovLN-2013",
+        "LeonovKV-2011-PLA",
+        "BraginVKL-2011",
+        "LeonovKKSV-2011-WTSC",
+        "LeonovKYY-2011-DAN",
+        "LeonovK-2011-DAN",
+        "LeonovKK-2011-ProcSIM",
+        "LeonovKKK-2011",
+        "KuznetsovVLS-2011-NAUN",
+        "LeonovK-2010-DAN",
+        "LeonovVK-2010-DAN",
+        "LeonovBK-2010-DAN",
+        "LeonovKB-2010-Vest",
+        "KuznetsovL-2008-JVE",
+        "LeonovKK-2008",
+        "LeonovK-2007",
+        "KuznetsovL-2005-Vest-InStab",
+        "KuznetsovL-2005-Vest-Stab",
+        "KuznetsovL-2003-Vest",
+        "KuznetsovL-2001",
+        "AndrievskyKLP-2012",
+        "KuznetsovLNSYY-2012-IEEE-PLL",
+        "LeonovK-2012-IEEE",
+        "KiselevaKLN-2012-IEEE",
+        "KuznetsovLNSYY-2012-IEEE-Costas",
+        "KuznetsovLYY-2012-ICINCO",
+        "KuznetsovLS-2011-IFAC",
+        "LeonovK-2011-IFAC",
+        "LeonovK-2011-IFAC-survey",
+        "KuznetsovKL-2011-4LC",
+        "KuznetsovLYY-2011-IEEE",
+        "KuznetsovLYYS-2011-ICINCO",
+        "KuznetsovKLV-2011-ICINCO",
+        "LeonovKS-2011-RRSS",
+        "KuznetsovLV-2010-IFAC",
+        "BraginKL-2010-IFAC",
+        "KuznetsovLNSYY-2010-IFAC",
+        "LeonovSKN-2010-ICINCO",
+        "KuznetsovLS-2010-FRUCT",
+        "KuznetsovLNSYY-2010",
+        "LeonovK-2009-PhysCon",
+        "KuznetsovLSN-2009-ICINCO",
+        "KuznetsovLS-2009-IASTED",
+        "KuznetsovLS-2008-ICINCO",
+        "KuznetsovL-2008",
+        "LeonovKK-2008-plenary",
+        "KuznetsovLNP-2007-IFAC",
+        "LeonovK-2007-IFAC",
+        "LeonovKS-2006-IFAC",
+        "KuznetsovL-2005",
+        "LeonovK-2014-book",
+        "LeonovKS-2009",
+        "KudryashovaKLNS-2010",
+        "ourPatent-PLL-2011",
+        "ourPatent-2013-fin",
+        "AleksandrovKLYY-2016-arXiv-sin",
+        "AleksandrovKLYY-2016-arXiv-impulse",
+        "LadvanszkyKYY-2018-4qam"
+    ],
+    "n": [
+        "NairFZE-2007",
+        "Sprott-2007",
+        "BarronS-2008",
+        "TelG-2006",
+        "BorghezanR-2017",
+        "NazarimehrSJS-2017",
+        "MaesschalckD-2011",
+        "Ilyashenko-1985",
+        "Cima-1997",
+        "Rumyantsev-2003",
+        "GaliasZ-1998",
+        "Meisters-1989",
+        "Lyapunov-1907",
+        "Leonov-2001",
+        "Kolumban-1995"
     ],
     "overview": [
         "NairFZE-2007",
@@ -15669,6 +16438,7 @@
         "LeineVK-2003",
         "GarciaTarbouriech_IEE04",
         "TarbouriechGarcia_book11",
+        "Shifrin93",
         "FerreresBiannic_AC07",
         "Rumyantsev-2003",
         "Chetaev-1948",
@@ -15866,6 +16636,7 @@
         "Kalivas-2009-digital-comm",
         "GrayHLM-2009",
         "Lindsey-1978",
+        "EndoT-1986",
         "AscheidM-1982",
         "MeyrA-1990",
         "BelyustinaBKS-1970",
@@ -15881,6 +16652,7 @@
         "KuznetsovLYYK-2020-IFACWC",
         "KuznetsovMYYB-2020-IFACWC",
         "LeonovMKM-2020-IJBC",
+        "KuznetsovLYY-2019-DAN",
         "KudryashovaKKLM-2019",
         "KuznetsovYY-2018-DECT",
         "KuznetsovAFC-2018",
@@ -16054,6 +16826,7 @@
         "NairFZE-2007",
         "Zhukovsky-1909",
         "FroehlingCFPS-1981",
+        "PeitgenJS-2004",
         "AwrejcewiczKEDBK-2018",
         "Lorenz-1984",
         "RoucheHL-1977",
@@ -16093,6 +16866,7 @@
         "BautinL-1976",
         "Bautin-1949",
         "Khalil-2002",
+        "Bongiorno-1963",
         "GarberR-1965",
         "ChavarrigaG-2003",
         "Lloyd-1988",
@@ -16133,18 +16907,22 @@
         "KorovinI-2012-DAN",
         "michel2008stability",
         "Algaba2014758",
+        "GelfertM-2010",
         "Izobov-2012",
         "Kolmogorov-1959",
         "Kolmogorov-1958",
         "DettmannFC-1995",
         "Levinson-1944",
         "Levinson-1949",
+        "PoschHV-1986",
+        "SprottHH-2014",
         "ChebanKS-2002",
         "AkhtanovZZ-2013",
         "Belykh-1984",
         "PanchevSV-2007",
         "CoddingtonL-1955",
         "Belykh-1980",
+        "Sell-1996",
         "Celikovsky-1994",
         "Shimizu1980201",
         "ConstantinF-1985",
@@ -16473,10 +17251,14 @@
         "Rossler-1977-BMB",
         "Rossler-1979",
         "AdlerKA-1965",
+        "LetellierEAA-2004",
+        "LainscsekLG-2003",
         "BarrioBS-2009",
         "BarrioBS-2011",
         "BarrioBS-2014",
         "BarrioDT-2015-LorenzUpo",
+        "SzczepaniakM-2008",
+        "Li-2008",
         "YauR-2000",
         "AlSawalhaN-2009",
         "Ott-2006",
@@ -16522,6 +17304,7 @@
         "Shaw-1981",
         "HirschSD-2004",
         "Meisters-1989",
+        "Rasvan-2015",
         "Sell-1996",
         "Sell-1989",
         "ConstantinFT-1985",
@@ -16569,6 +17352,7 @@
         "Best-1984",
         "SuarezQ-2003",
         "Baker-2011-book",
+        "Shalfeev-2013-book",
         "SannemanR-1964",
         "JaffeR-1955",
         "Bullock-2000",
@@ -16609,6 +17393,7 @@
         "KuznetsovYYBKKM-2019",
         "KuznetsovYY-2018-DECT",
         "KuznetsovKKMA-2018",
+        "KuznetsovM-2018-arXiv",
         "AndrievskyKKKL-2018",
         "KuznetsovLMPS-2018",
         "LeonovKKM-2017",
@@ -16622,10 +17407,12 @@
         "KuznetsovLYY-2017-CNSNS",
         "AleksandrovKLNYY-2016-IFAC",
         "BlagovKKLYY-2016-IFAC",
+        "DancaKC-2016",
         "BianchiKLYY-2016",
         "BestKLYY-2016",
         "Kuznetsov-2016-HabTh",
         "LeonovKYY-2016-DAN",
+        "KuznetsovLMS-2016-INCAAM",
         "DancaFKC-2016-IJBC",
         "AndrievskyKL-2015",
         "LeonovKYY-2015-TCAS",
@@ -18409,11 +19196,45 @@
     ],
     "r": [
         "LienardC-1914",
+        "ReitmannS-2000",
+        "Rossler-1976-ZNTA-Chem",
         "MandelstamP-1932",
+        "Hayes-1953",
         "zolomy1997eight",
-        "Bellescize-1932"
+        "brendel2013millimeter",
+        "Bellescize-1932",
+        "Hasan-1985"
     ],
-    "eelle": [
+    "e": [
+        "LienardC-1914",
+        "Andronov-1929",
+        "AndronovV-1930",
+        "FalcoliniTL-2016",
+        "GrassbergerKM-1989",
+        "Heagy-1992",
+        "Grabowski-2011-cu",
+        "Gine-2012",
+        "GineS-2004",
+        "Kalman-1963",
+        "Stewart-1989",
+        "Poincare-1881",
+        "Poincare-1882",
+        "Vaisberg-2002",
+        "VirguieKG-2009",
+        "PoschHV-1986",
+        "SprottHH-2014",
+        "EvtimovPS-2000",
+        "Lyapunov-1907",
+        "PontrjaginSh-1932",
+        "Rocard-1941",
+        "Wood-2013",
+        "Acco-2004",
+        "KuznetsovLYY-arxiv2017",
+        "KuznetsovLM-2016-arXiv",
+        "KuznetsovLYY-2015-arxiv-Ranges",
+        "LeonovKM-2014-arXiv"
+    ],
+    "elle": [
         "LienardC-1914"
     ],
     "des": [
@@ -18439,6 +19260,8 @@
         "Arnold-2005",
         "Poincare-1881",
         "Poincare-1882",
+        "Milnor-2006",
+        "Zhang-2014",
         "ChoquetF-1975",
         "KalmanB-1960"
     ],
@@ -18446,34 +19269,6 @@
         "LienardC-1914",
         "Poincare-1882",
         "PontrjaginSh-1932"
-    ],
-    "e": [
-        "LienardC-1914",
-        "Andronov-1929",
-        "AndronovV-1930",
-        "FalcoliniTL-2016",
-        "GrassbergerKM-1989",
-        "Heagy-1992",
-        "Grabowski-2011-cu",
-        "Gine-2012",
-        "GineS-2004",
-        "Kalman-1963",
-        "Stewart-1989",
-        "Poincare-1881",
-        "Poincare-1882",
-        "Vaisberg-2002",
-        "VirguieKG-2009",
-        "PoschHV-1986",
-        "SprottHH-2014",
-        "EvtimovPS-2000",
-        "Lyapunov-1907",
-        "PontrjaginSh-1932",
-        "Wood-2013",
-        "Acco-2004",
-        "KuznetsovLYY-arxiv2017",
-        "KuznetsovLM-2016-arXiv",
-        "KuznetsovLYY-2015-arxiv-Ranges",
-        "LeonovKM-2014-arXiv"
     ],
     "quation": [
         "LienardC-1914"
@@ -18506,762 +19301,8 @@
         "IlyashenkoW-1999-AMS",
         "BaoLWX-2016"
     ],
-    "enard": [
+    "nard": [
         "LienardC-1914"
-    ],
-    "A": [
-        "LienardC-1914",
-        "MatveevS-2017",
-        "ChudzikPSK-2011",
-        "Vyshnegradsky-1877",
-        "Pupyrev-2006",
-        "FradkovP-1998",
-        "Fradkov-2003",
-        "FradkovE-2005",
-        "Fradkov-2007",
-        "Bissell-1998",
-        "Fuchs-2013",
-        "AwrejcewiczKEDBK-2018",
-        "BenziPPV-1984",
-        "MalinetskiiP-1988",
-        "NeseDW-1987",
-        "OttGY-1990",
-        "LehnertHFGFS-2011",
-        "PyragasP-2011",
-        "Fradkov-2017",
-        "Brockett-1999",
-        "Algaba-2015",
-        "BarronS-2008",
-        "Andronov-1929",
-        "AndronovV-1930",
-        "LoziPP-2016",
-        "LoziP-2015",
-        "LurieP-1944",
-        "Lurie-1945",
-        "Lurie-1951",
-        "DontchevL-1992",
-        "PiiroinenK-2008",
-        "GrassbergerKM-1989",
-        "VallejoS-2017",
-        "RabinovichEW-2000",
-        "Heagy-1992",
-        "HornJ-2013-book",
-        "PikovskyP-2016",
-        "Chua-1993",
-        "GrebogiOY-1983",
-        "Oraevsky-1981",
-        "RubenfeldS-1977",
-        "GarashchukKS-2017",
-        "KehletL-2017",
-        "YorkeY-1979",
-        "Alli-Oke-2012-cu",
-        "CzornikNN-2013",
-        "Hertz-2013",
-        "PisarchikF-2014",
-        "PisarchikJVGB-2006",
-        "GrahamT-1986",
-        "LiuWIP-2013",
-        "JafariSG-2013",
-        "Wei-2011",
-        "WangC-2012-CNSNS",
-        "Abooee-2013",
-        "Sprott-2014-cu",
-        "AlgabaDMR-2014-ND",
-        "LiSprott-2014-PLA-cu",
-        "HuangWWY-2008",
-        "PearsonL-2010",
-        "TesiAGW-1996",
-        "ColleraC-2004",
-        "LaBryerA-2010",
-        "MargaliotaC-2006",
-        "Rasvan-2004",
-        "Smith-1986",
-        "LuChen-2002",
-        "AlgabaEtAll-2013-Chaos",
-        "AlgabaEtAll-2013-PLA",
-        "Rossler-1976",
-        "Matsumoto-1984",
-        "Chua-1992",
-        "Chua-1995",
-        "BilottaP-2008",
-        "Zhiguo-2008",
-        "Anishchenko-1994",
-        "Krylov-1936",
-        "Belousov-1959",
-        "LiLY-2009",
-        "Cherkas-1986",
-        "Aizerman-1949",
-        "Gelig-2011",
-        "Erugin-1952",
-        "BarbashinK-1952",
-        "Pliss-1958",
-        "CherkasZh-1970",
-        "Coppel-1989",
-        "Coppel-1991",
-        "AlbarakatiLP-2000",
-        "BronshteinS-1997",
-        "BogolyubovM-1961",
-        "BautinL-1976",
-        "Shi-1981",
-        "Pervozvanskii-1986",
-        "Filippov-1988",
-        "AizermanG-1963",
-        "Aizerman-1953",
-        "Aizerman-1974",
-        "Yakubovich-1973",
-        "BergenF-1971",
-        "MeesB-1975",
-        "Krasnoselskii-1968",
-        "Yanko-Trinitskii-1958",
-        "Nelepin-1975",
-        "AndronovL-1956",
-        "AndronovLGM-1973",
-        "AndronovVKh-1966",
-        "ChavarrigaG-2003",
-        "Cherkas-1979",
-        "CherkasAL-2003",
-        "GasullGM-1997",
-        "GasullGM-1999",
-        "Lyapunov-1892",
-        "Lyapunov-1966",
-        "Reyn-1994",
-        "Rantzer-1996",
-        "Rantzer-2001",
-        "Rantzer-2001-PLL",
-        "Rantzer-2002",
-        "SabatiniCh-1999",
-        "Shi-1980",
-        "ShilnikovTCh-2001",
-        "AizermanG-1964",
-        "Yakubovich-1958",
-        "Yakubovich-1962",
-        "Yakubovich-1964-I",
-        "Efendiev-1968",
-        "Glutsyuk-1995",
-        "UMN-1998",
-        "ChancePGH-1973",
-        "GusevL-2006",
-        "Bissel-1998",
-        "LipkovichF-2015",
-        "LurieR-1960-IFAC",
-        "Filippov-1960-IFAC",
-        "Barbashin-1960-IFAC",
-        "Fessler-1995",
-        "ANSSSR-1947-eng",
-        "Gutierrez-1995",
-        "Glutsuk-1994",
-        "Febler-1995",
-        "Cima-1997",
-        "Noldus-1971",
-        "AndronovVKh-1937",
-        "BlondelM-2004",
-        "HsuM-1968",
-        "Fitts-1966",
-        "AndronovM-1944",
-        "AndronovM-1945",
-        "AndronovM-1947",
-        "AndronovM-1953",
-        "Pyragas-1992",
-        "Meisters-1996",
-        "Beyn-2002",
-        "EarnshawW-1992",
-        "Shokir-2004",
-        "deBruin-2009",
-        "KondratevaLRS-2001",
-        "Mihailovic-2004",
-        "BesselinkWN-2011",
-        "VirguieKG-2009",
-        "BenettinGGS-1980-Part1",
-        "BenettinGGS-1980-Part2",
-        "ShimadaN-1979",
-        "WolfSSV-1985",
-        "KaplanY-1979",
-        "KaplanY-1979-CMP",
-        "AugustovaBC-2015",
-        "Rossler-1976-ZNTA-Chem",
-        "Rossler-1976-ZNTA",
-        "Oseledec-1968",
-        "AdlerKA-1965",
-        "LetellierEAA-2004",
-        "LainscsekLG-2003",
-        "BarrioDT-2015-LorenzUpo",
-        "SzczepaniakM-2008",
-        "Li-2008",
-        "HuangPWF-1996",
-        "GrebogiOY-1987",
-        "BrockleyCP-1967",
-        "Ibrahim-1994",
-        "Stodola-1893",
-        "Stodola-1894",
-        "IvanovSmolensky-1980",
-        "staege1936electrical",
-        "BiannicTarbouriech_06",
-        "Dornheim92",
-        "Shifrin93",
-        "PogromskyAndrievsky_IFAC09",
-        "vandenBergPogromskyRooda_CDC06",
-        "BarbuReginatto_ACC99",
-        "DemirK-2001",
-        "Barabanov-2005",
-        "Rumyantsev-2003",
-        "Yakubovich-1963",
-        "MatrosovM-1993",
-        "RusselHO-1980",
-        "AnishchenkoANVS-2002",
-        "KorovinI-2010-DAN",
-        "KorovinI-2010-DE-10",
-        "KorovinI-2010-DE-11",
-        "KorovinI-2011-DE",
-        "IzobovK-2012-DE",
-        "KorovinI-2012-DAN",
-        "Vinograd-1954",
-        "TancrediS-1999",
-        "WuH-2003",
-        "CarbonellJB-2002",
-        "AstonD-2003",
-        "CaponettoF-2013",
-        "RamasubramanianS-2000",
-        "JanakiRHR-1999",
-        "Stachowiak-2011",
-        "Barbashin-1970",
-        "Yang-2004",
-        "Awrejcewicz-2012",
-        "Tuwankotta-2013",
-        "kaszkurewicz2000matrix",
-        "HaddadC-2011",
-        "michel2008stability",
-        "gil2005explicit",
-        "vrande1999approximate",
-        "Algaba2014772",
-        "Algaba2014758",
-        "Algaba201480",
-        "Algaba2014887",
-        "Algaba20132771",
-        "Algaba20134252",
-        "Algaba20131175",
-        "Algaba2013",
-        "Algaba20122708",
-        "OttWY-1984",
-        "Ohno-1980",
-        "RosensteinCL-1993",
-        "HornJ-1994-book",
-        "Sambarino-2014",
-        "Millionschikov-1976",
-        "Izobov-2012",
-        "Kolmogorov-1959",
-        "Kolmogorov-1958",
-        "GrebogiOY-1987-UPO",
-        "Zygmund-1968",
-        "Coomes-1989",
-        "Sprott-2011",
-        "DouadyO-1980",
-        "Henon-1976",
-        "Levinson-1949",
-        "Shilnikov-1965",
-        "Nose-1984",
-        "PoschHV-1986",
-        "Hoover-1985",
-        "ChepyzhovG-1992",
-        "Babin-2006",
-        "Shaw-1981",
-        "SprottJKK-2017",
-        "VallejoAS-2003",
-        "FeudelWGKGS-2005",
-        "VallejoVS-2008",
-        "Zubov-1964",
-        "Vannelli-1985",
-        "Stewart-1997",
-        "PikovskiRT-1978",
-        "GlukhovskyD-1980",
-        "Sommerfeld-1902",
-        "BlekhmanIF-2007",
-        "AfraimovichGLShT-2014",
-        "AkhtanovZZ-2013",
-        "Belykh-1984",
-        "CoddingtonL-1955",
-        "Parks-1992",
-        "Meisters-1989",
-        "Ladyzhenskaya-1991",
-        "Lyapunov-1907",
-        "BabinV-1992",
-        "Rasvan-2015",
-        "Celikovsky-1994",
-        "Shimizu1980201",
-        "TempkinY-2007",
-        "Eden-1989-PhD",
-        "Eden-1990",
-        "EdenFT-1991",
-        "SanderY-2015",
-        "FredericksonKYY-1983",
-        "RabinovichF-1979",
-        "Meador-2009",
-        "Yangc-2008",
-        "YangChen-2008",
-        "Stephenson-1908",
-        "FradkovTT-2011",
-        "PogromskyM-2011",
-        "AleksandrovP-1973",
-        "Young-2013",
-        "Bowen1975",
-        "Ruelle-1976",
-        "Schmeling-1998",
-        "OttY-2008",
-        "Shevchenko-2014",
-        "Lipnitskii-2015",
-        "Kuczma-2009",
-        "LuWLK-2004",
-        "NoackR-1996",
-        "FarmerOY-1983",
-        "Romanovski-2008",
-        "KaplanMY-1984",
-        "Jenkins-2013",
-        "Lozi-2013",
-        "KuznetsovKSC-1993",
-        "BelykhC-1993",
-        "GribovKK-2016",
-        "ErmentroutXPPAUTO-2002",
-        "BaierK-1990",
-        "Halanay-1966",
-        "Routh-1877",
-        "Hurwitz-1895",
-        "vanderPol-1920",
-        "Astrom-1999",
-        "KurzhanskiD-2019",
-        "MatveevS-2009",
-        "MatveevP-2019",
-        "ShapovalovKBA-2004",
-        "CruzC-1992",
-        "Recai-2010",
-        "LeonovM-2018-PolyahovskieCh",
-        "Leonov2017-Lorenz4d",
-        "LeonovSTA-2017",
-        "LeonovTNKN-2017-KIO",
-        "Leonov-2014-DAN",
-        "Leonov-2018-UMZh",
-        "Leonov-2018-UMZh-rus",
-        "Leonov-2017-CPAA",
-        "LeonovM-2017-DAN",
-        "LeonovAM-2017-VestSPSU",
-        "Leonov-2016-IJBC",
-        "Leonov-2015-DAN-Homo",
-        "Leonov-2015-ND",
-        "LeonovA-DAN-2015",
-        "Leonov-2015-DAN-GD",
-        "Leonov-2015-PLA",
-        "LeonovM-2016-DAN",
-        "Leonov-2014-SCL",
-        "Leonov-2014-ND",
-        "LeonovPS-2013-PLA",
-        "Leonov-2013-DAN-ChenLu",
-        "Leonov-2013-DAN-LD",
-        "Leonov-2013-IJBC",
-        "Leonov-2013-AMM",
-        "Leonov-2012-DECP",
-        "Leonov-2012-PLA",
-        "Leonov-2012-DRAN",
-        "Leonov-2012-PMM",
-        "LeonovS-DAN-2012",
-        "LeonovS-Vestnik-2012",
-        "LeonovKiseleva-DAN-2012",
-        "LeonovRS-2011",
-        "LeonovPS-2011",
-        "Leonov-IJBC-2011",
-        "LeonovS-2010-NDST",
-        "LeonovK-RCD-2010",
-        "Leonov-DAN-2010-bounded",
-        "Leonov-2010-PMM",
-        "Leonov-2009",
-        "Leonov-DAN-2009-LC",
-        "LeonovKuz-2009",
-        "Leonov-DAN-2009",
-        "Leonov-ARC-2009-1",
-        "Leonov-ARC-2009-2",
-        "Leonov-2009-CAMQ",
-        "Leonov-2008-DAN",
-        "Leonov-IJBC-2008",
-        "Leonov-2008-NDST",
-        "Leonov-2007",
-        "Leonov-2006",
-        "Leonov-2006-RCD",
-        "LeonovS-2005-IJIC",
-        "LeonovS-2005-IJBC",
-        "Leonov-2006-ARC",
-        "Leonov-2004-JAMM",
-        "Leonov-2003",
-        "Leonov-2003-RMS",
-        "Leonov-2002",
-        "LeonovP-2005",
-        "Leonov-2002-JAMM",
-        "Leonov-2002-RMS",
-        "Leonov-2001-DAN",
-        "LeonovNR-2001",
-        "LeonovGR-2001",
-        "Leonov-2001-AMM",
-        "KondratevaLSR-2001",
-        "LeonovL-2000",
-        "Leonov-PMM-2000",
-        "BoichenkoL-2000",
-        "BoichenkoL-1999",
-        "Leonov-1999",
-        "Leonov-1999-Vest",
-        "BoichenkoLFR-1998",
-        "Leonov-1998-UkMZ",
-        "Leonov-1998-JAMM",
-        "Leonov-1998",
-        "Leonov-1998-Vest",
-        "BoichenkoL-1998",
-        "Leonov-1997-DEDS",
-        "Leonov-1997-Vest",
-        "LeonovL-1997",
-        "Leonov-1996-Vest",
-        "LeonovS-1996",
-        "BarabanovGLLMSF-1996",
-        "Leonov-1995-Vest",
-        "LeonovPS-1995",
-        "Leonov-1995",
-        "BoichenkoL-1994",
-        "LeonovL-1993",
-        "LeonovB-1992",
-        "Leonov-1991-Vest",
-        "Leonov-1991",
-        "Leonov-1988",
-        "Leonov-1988-RMS",
-        "Leonov-1985",
-        "HalanayLR-1987",
-        "LeonovAB-1985",
-        "Leonov-1984",
-        "Leonov-1983",
-        "ErshovaL-1983",
-        "Leonov-1983-AMM",
-        "Leonov-1981",
-        "AbramovichL-1980",
-        "AbramovichL-1978",
-        "Leonov-1977",
-        "Leonov-1976",
-        "Leonov-1975",
-        "Leonov-1974",
-        "Leonov-1971",
-        "Leonov-1970",
-        "LeonovS-2012",
-        "LeonovK-2009",
-        "Leonov-2008",
-        "BoichenkoLR-2005",
-        "YakubovichLG-2004",
-        "LeonovSel-2002",
-        "Leonov-2001",
-        "LeonovS-2000",
-        "Leonov-1997",
-        "LeonovBSh-1996",
-        "LeonovPS-1996",
-        "LeonovRS-1992",
-        "LeonovR-1987",
-        "LeonovBK-1987",
-        "LeonovR-1986",
-        "GeligLY-1978",
-        "Leonov-2006-SPSU",
-        "LindseyCM-1981",
-        "Hedayat-1999-3order",
-        "Acco-2004",
-        "Guermandi-2011",
-        "farjad2002low",
-        "chang2002wide",
-        "Paemel-1994",
-        "ladvanszky2018costas",
-        "zolomy1997eight",
-        "osborne1982generalized",
-        "Janos-diff-coding-2017",
-        "ShakhtarinSK-2017",
-        "Shakhtarin2014-pfd",
-        "barbashin1969dynamical",
-        "leonov1976one",
-        "mitropolsky1967averaging",
-        "yakubovich2007dissipativity",
-        "HuqueS-2013",
-        "SmirnovaPU-2015-ISCAS",
-        "SmirnovaPU-2014",
-        "SmirnovaP-2016-ECC",
-        "smirnova-perkin",
-        "PerkinPShS-2014-MTNS",
-        "buonomo2003constructive",
-        "Gubar-1961",
-        "Orla-2007",
-        "Fikhtengolts-2001",
-        "Fiocchi-1992",
-        "Wang-1987",
-        "EmuraWYN-2000",
-        "WangE-1998",
-        "Young-1992",
-        "GardnerEH-1993",
-        "Fines-1991",
-        "SuarezQ-2003",
-        "Suarez-2009",
-        "Tretter",
-        "ShakhgildyanL-1972",
-        "ShakhgildyanL-1966",
-        "Viterbi-1966",
-        "Emura-1982",
-        "Lapsley-1997",
-        "DemirMR-2000",
-        "Xanthopoulos-2001",
-        "Abramovitch-2002",
-        "BanerjeePS-2013",
-        "MitropolskyB-1961",
-        "SarkarS-2010",
-        "ChangC-2008",
-        "Sutterlin-1998",
-        "SutterlinD-1999",
-        "FiocchiMT-1992",
-        "KimEtAl-2010",
-        "TomkinsEtAl-2009",
-        "Dyer-2004-book",
-        "Yeo-2010-book",
-        "Barry-2004-book",
-        "Crawford-1994-FS",
-        "Crawford-2008-book",
-        "Doberstein-2011-GPS",
-        "VendelinPR-2005-book",
-        "Rohde-2000-book",
-        "Godse-2010-book",
-        "BakshiG-2009-book",
-        "PiqueiraM-2003",
-        "banerjee2006",
-        "BernsteinLL-1989",
-        "SandersVM-2007-averaging",
-        "MonteiroFP-2004",
-        "GrebenikovMR-2004-averaging",
-        "Carlson-2009-book",
-        "Nguyen-2009-book",
-        "Samoilenko-2004-averiging",
-        "Grewal-2004-GPS",
-        "Chumchairat-2003",
-        "Goyal-2006",
-        "Piqueira-2010-PLL-network",
-        "Stensby-2013",
-        "Huque-2011-PhD",
-        "HuqueS-2011-exact",
-        "AscheidM-1982",
-        "BarbashinT-1969",
-        "PurkayasthaS-2015",
-        "WuZD-2014",
-        "BakaevG-1965",
-        "Karimi-Ghartemani-2006",
-        "SidorkinaSSS-2016",
-        "buonomo2013transition",
-        "shakhtarin2011sinkhronizatsiya",
-        "chernoyarov2014application",
-        "Abramovitch-2004",
-        "HsiehH-1996",
-        "Blanchard-1976",
-        "LindseyT-1973",
-        "BrigatiFMPP-2001",
-        "Davis-2011",
-        "biggio2014accurate",
-        "Viterbi-1959",
-        "afraimovich1994stability",
-        "GribovKS-2016",
-        "abramowitz1964handbook",
-        "Razavi-hb-2016",
-        "Williams-1984",
-        "GolestanGV-2017",
-        "Grebene-1969",
-        "Goldstein-1962",
-        "Al-arajiHA-2006",
-        "Ahmad-2014",
-        "intelligent-book2",
-        "Ladvanszky-2017",
-        "Turaev",
-        "Vizvari-1996",
-        "Collins-2011",
-        "GezaKolumban-2015",
-        "Matrosov-2013",
-        "Golestan-2017",
-        "Pham-2016-tcasii",
-        "ViswadevARVM-2019-tcasii",
-        "Dajun-2019-tcasii",
-        "AndrievskyKKK-2020",
-        "AlexeevaBKM-2020-IFAC",
-        "KuznetsovMKKL-2020-arxiv",
-        "KuznetsovMYY-2020-arxiv",
-        "KuznetsovMYY-2020-IFAC",
-        "KuznetsovLYYKKRA-2020-ECC",
-        "KuznetsovMYYB-2020-IFACWC",
-        "LeonovMKM-2020-IJBC",
-        "KuznetsovMMKK-2019-Lorenz-arXiv",
-        "KuznetsovMA-2019-SCDG",
-        "KudryashovaKKLM-2019",
-        "KuznetsovKKMD-2019-IFAC",
-        "KuznetsovKMMYY-2019-IFAC",
-        "KuznetsovYYBKM-2019-arXiv",
-        "KuznetsovYYBKKM-2019",
-        "AleksandrovKKKKK-2018-IFAC",
-        "KuznetsovYY-2018-DECT",
-        "KuznetsovAFC-2018",
-        "AbramovichKN-2018",
-        "KuznetsovKKMA-2018",
-        "KuznetsovM-2018-arXiv",
-        "AndrievskyKKKL-2018",
-        "LeonovK-2018-AIP",
-        "LeonovK-2018-DAN",
-        "KuznetsovLMPS-2018",
-        "KuznetsovLM-2017-arXiv",
-        "LeonovKKM-2017",
-        "KuznetsovLSYY-2017",
-        "KuznetsovLS-2017",
-        "KuznetsovLYY-arxiv2017",
-        "StankevichKLC-2017",
-        "AndrievskyKL-2017",
-        "KuznetsovKLMS-2017-IFAC",
-        "KudryashovaKLYY-2017",
-        "KuznetsovKLYY-2017",
-        "KiselevaKKKLYY-2018",
-        "ChenKLM-2017-IJBC",
-        "KuznetsovLYY-2017-CNSNS",
-        "KuznetsovL-2016",
-        "LeonovKS-2016",
-        "LeonovSK-2016",
-        "AleksandrovKLNYY-2016-IFAC",
-        "BlagovKKLYY-2016-IFAC",
-        "PhamVVJKH-2016",
-        "KuznetsovLM-2016-arXiv",
-        "BianchiKLYY-2016",
-        "BestKLYY-2016",
-        "LeonovKYY-2016-DAN",
-        "KuznetsovLMS-2016-INCAAM",
-        "DudkowskiJKKLP-2016",
-        "KiselevaKL-2016-IFAC",
-        "Kuznetsov-2016-PLA",
-        "LeonovKKK-2016-CNSCS",
-        "KuznetsovL-2016-ArXiv",
-        "KuznetsovAL-2016",
-        "Kuznetsov-2016",
-        "LeonovKM-2015-ArXiv",
-        "LeonovKKK-2015-arXiv-YangTigan",
-        "AbramovichKL-2015",
-        "AndrievskyKL-2015",
-        "LeonovKYY-2015-TCAS",
-        "LeonovAK-2015",
-        "LeonovK-2015-RusGidro",
-        "BianchiKLYY-2015",
-        "BlagovKLYY-2015",
-        "KuznetsovLM-2015",
-        "LeonovKKK-2015-arXiv-LuChen",
-        "LeonovKKK-2015-arXiv-Lorenz",
-        "AlexandrovKLNS-2015-IFAC-Pull-in",
-        "KuznetsovLYY-2015-IFAC",
-        "LeonovKS-2015",
-        "ALAboodiKLYY-2015-IFAC",
-        "KuznetsovLYY-2015-IFAC-Ranges",
-        "KuznetsovLSYY-2015-PD",
-        "AlexandrovKLNS-2015-IFAC",
-        "LeonovKKK-2015-IFAC",
-        "KislevaKKL-2015-IFAC",
-        "KuznetsovLS-2015-IFAC",
-        "KuznetsovLYY-2015-arxiv-Ranges",
-        "LeonovKM-2015-EPJST",
-        "SharmaSPKL-2015-EPJST",
-        "SharmaSPKL-2015",
-        "LeonovKM-2015-CNSNS",
-        "BestKKLYY-2015-ACC",
-        "KuznetsovKLNYY-2015-ISCAS",
-        "LeonovKYY-2015-DAN-PLL",
-        "LeonovKYY-2015-DAN-BPSK",
-        "KiselevaK-2015-Vestnik",
-        "LeonovK-2015-AMC",
-        "LeonovKYY-2015-SIGPRO",
-        "LeonovK-2014-NDC",
-        "KuznetsovL-2014-IFACWC",
-        "KiselevaKKLS-2014",
-        "LeonovSK-2014-IFAC",
-        "KuznetsovLYY-2014-IFAC",
-        "KuznetsovKLNYY-2014-ICUMT-QPSK",
-        "AlexandrovKLS-2014-ICUMT",
-        "KuznetsovKLSYY-2014-ICUMT-BPSK",
-        "KuznetsovLYY-2014-ICUMT",
-        "KudryashovaKKLSYY-2014-ICINCO",
-        "LeonovK-2014-arXiv-LCL",
-        "KuznetsovAL-2014-arXiv-LE",
-        "LeonovKM-2014-arXiv",
-        "LeonovKKSZ-2014",
-        "KuznetsovMV-2014-CNSNS",
-        "BestKLYY-2014-IJAC",
-        "BestKLYY-2014-DCNPS",
-        "KiselevaKLN-2014-DCNPS",
-        "LeonovK-2014-MMAES",
-        "LeonovK-2014-JMS",
-        "LeonovK-2013-AISC",
-        "LeonovKKN-2013-JAND",
-        "LeonovK-2013-IJBC",
-        "KuznetsovKL-2013-DEDS",
-        "KuznetsovLNSYY-2013-ICINCO",
-        "AndrievskyKLP-2013-IFAC",
-        "LeonovAAKPS-2013-IFAC",
-        "AndrievskyKLS-2013-IFAC",
-        "LeonovK-2013-CMAS",
-        "KiselevaKLN-2013",
-        "LeonovKKOS-2012",
-        "LeonovAKP-2012",
-        "LeonovKP-2012-DAN",
-        "LeonovKYY-2012-DAN",
-        "LeonovKV-2012-PhysD",
-        "LeonovKYY-2012-TCASII",
-        "KuznetsovLN-2013",
-        "LeonovKV-2011-PLA",
-        "BraginVKL-2011",
-        "LeonovKKSV-2011-WTSC",
-        "LeonovKYY-2011-DAN",
-        "LeonovK-2011-DAN",
-        "LeonovKK-2011-ProcSIM",
-        "LeonovKKK-2011",
-        "KuznetsovVLS-2011-NAUN",
-        "LeonovK-2010-DAN",
-        "LeonovVK-2010-DAN",
-        "LeonovBK-2010-DAN",
-        "LeonovKB-2010-Vest",
-        "KuznetsovL-2008-JVE",
-        "LeonovKK-2008",
-        "LeonovK-2007",
-        "KuznetsovL-2005-Vest-InStab",
-        "KuznetsovL-2005-Vest-Stab",
-        "KuznetsovL-2003-Vest",
-        "KuznetsovL-2001",
-        "AndrievskyKLP-2012",
-        "KuznetsovLNSYY-2012-IEEE-PLL",
-        "LeonovK-2012-IEEE",
-        "KiselevaKLN-2012-IEEE",
-        "KuznetsovLNSYY-2012-IEEE-Costas",
-        "KuznetsovLYY-2012-ICINCO",
-        "KuznetsovLS-2011-IFAC",
-        "LeonovK-2011-IFAC",
-        "LeonovK-2011-IFAC-survey",
-        "KuznetsovKL-2011-4LC",
-        "KuznetsovLYY-2011-IEEE",
-        "KuznetsovLYYS-2011-ICINCO",
-        "KuznetsovKLV-2011-ICINCO",
-        "LeonovKS-2011-RRSS",
-        "KuznetsovLV-2010-IFAC",
-        "BraginKL-2010-IFAC",
-        "KuznetsovLNSYY-2010-IFAC",
-        "LeonovSKN-2010-ICINCO",
-        "KuznetsovLS-2010-FRUCT",
-        "KuznetsovLNSYY-2010",
-        "LeonovK-2009-PhysCon",
-        "KuznetsovLSN-2009-ICINCO",
-        "KuznetsovLS-2009-IASTED",
-        "KuznetsovLS-2008-ICINCO",
-        "KuznetsovL-2008",
-        "LeonovKK-2008-plenary",
-        "KuznetsovLNP-2007-IFAC",
-        "LeonovK-2007-IFAC",
-        "LeonovKS-2006-IFAC",
-        "KuznetsovL-2005",
-        "LeonovK-2014-book",
-        "LeonovKS-2009",
-        "KudryashovaKLNS-2010",
-        "ourPatent-PLL-2011",
-        "ourPatent-2013-fin",
-        "AleksandrovKLYY-2016-arXiv-sin",
-        "AleksandrovKLYY-2016-arXiv-impulse",
-        "LadvanszkyKYY-2018-4qam"
     ],
     "Chipart": [
         "LienardC-1914"
@@ -19270,6 +19311,7 @@
         "LienardC-1914",
         "Matrosov-1962",
         "Popov-1960-rom",
+        "FradkovE-2005",
         "GuoGXDL-2018",
         "AwrejcewiczKEDBK-2018",
         "NeseDW-1987",
@@ -19331,9 +19373,11 @@
         "Popov-1960-IFAC",
         "Frommer-1928",
         "Fessler-1995",
+        "Febler-1995",
         "Cima-1997",
         "KrylovB-1937",
         "KrylovB-1947",
+        "AndronovM-1944",
         "Meisters-1996",
         "BernatL-1996",
         "KrauskopfOHG-2007",
@@ -19530,6 +19574,7 @@
         "KuznetsovYYBKKM-2019",
         "AleksandrovKKKKK-2018-IFAC",
         "KuznetsovYY-2018-DECT",
+        "KuznetsovAFC-2018",
         "KuznetsovLMPS-2018",
         "DancaFKC-2018",
         "KiselevaKL-2018",
@@ -19630,6 +19675,8 @@
         "Lurie-1951",
         "GarrickR-1971",
         "FalcoliniTL-2016",
+        "FalcoliniTL-2013",
+        "GaliasT-2013",
         "SterlingDM-1999",
         "GonchenkoGS-2010",
         "GrassbergerKM-1989",
@@ -19640,6 +19687,7 @@
         "PisarchikJVGB-2006",
         "JafariSG-2013",
         "Abooee-2013",
+        "AlgabaDMR-2014-ND",
         "MolaieJSG-2013",
         "GineS-2009",
         "Zoladek-1995",
@@ -19705,11 +19753,15 @@
         "BaoJWH-2015",
         "BaierK-1990",
         "Astrom-1999",
+        "Leonov-2017-IJBC",
+        "LeonovRS-2011",
         "Leonov-IJBC-2008",
         "Leonov-2002",
+        "BoichenkoL-2000",
         "BoichenkoL-1999",
         "Leonov-1996-Vest",
         "Leonov-1995-Vest",
+        "LeonovB-1992",
         "Leonov-1991-Vest",
         "osborne1982generalized",
         "Bellescize-1932",
@@ -19809,11 +19861,119 @@
         "SprottWC-2014-IJBC",
         "Fitts-1966",
         "Rossler-1976-ZNTA",
-        "Rossler-1977-BMB",
         "KuznetsovKSC-1993",
         "LeonovK-RCD-2010",
         "Leonov-1997-DEDS",
         "LeonovKK-2011-ProcSIM"
+    ],
+    "yapunov": [
+        "MatveevS-2017",
+        "SanoS-1985",
+        "VallejoS-2017",
+        "GeistPL-1990",
+        "KocakP-2010",
+        "CzornikNN-2013",
+        "MolaieJSG-2013",
+        "LiCZT-2008",
+        "Lynch-2005",
+        "Rantzer-2001",
+        "Schuko-1968",
+        "LipkovichF-2015",
+        "LurieR-1960-IFAC",
+        "Barbashin-1960-IFAC",
+        "BenettinGGS-1980-Part1",
+        "BenettinGGS-1980-Part2",
+        "WolfSSV-1985",
+        "TarbouriechTurner09",
+        "DemirK-2001",
+        "BalibreaC-2013",
+        "MatrosovM-1993",
+        "BarreiraP-2001",
+        "Hunt-1996",
+        "KorovinI-2010-DE-10",
+        "TancrediS-1999",
+        "LucaRV-1997",
+        "BremenUP-1997",
+        "WuH-2003",
+        "BruntonR-2010",
+        "Galvanetto-2000",
+        "ZhangLZ-2005",
+        "ContiRK-2012",
+        "CarbonellJB-2002",
+        "AstonD-2003",
+        "CaponettoF-2013",
+        "RangarajanHR-1998",
+        "Skokos-2010",
+        "HeXC-2000",
+        "DieciJV-2011",
+        "RamasubramanianS-2000",
+        "ChristiansenR-1997",
+        "GreeneK-1987",
+        "JanakiRHR-1999",
+        "Stachowiak-2011",
+        "LiuFY-2009",
+        "LianL-2010",
+        "Barreira-2017",
+        "HaddadC-2011",
+        "nikravesh2013nonlinear",
+        "EichhornLH-2001",
+        "Gelfert-2003",
+        "AbarbanelBK-1991",
+        "RosensteinCL-1993",
+        "Pesin-1977",
+        "Hoover-2014",
+        "DoeringGHN-1987",
+        "VallejoVS-2008",
+        "Zubov-1964",
+        "Vannelli-1985",
+        "Giesl-2007",
+        "Parks-1992",
+        "Wiesel-1993",
+        "Sell-1989",
+        "TempkinY-2007",
+        "ConstantinF-1985",
+        "Eden-1989",
+        "EdenFT-1991",
+        "Luo-2010",
+        "PogromskyM-2011",
+        "Young-2013",
+        "Young-1982",
+        "OttY-2008",
+        "Lipnitskii-2015",
+        "MierczynskiS-2013",
+        "KaplanMY-1984",
+        "Leonov-2013-DAN-LD",
+        "LeonovK-RCD-2010",
+        "LeonovKuz-2009",
+        "LeonovP-2005",
+        "LeonovL-2000",
+        "Leonov-1997-Vest",
+        "Leonov-1996-Vest",
+        "KuznetsovMKKL-2020-arxiv",
+        "KuznetsovMMKK-2019-Lorenz-arXiv",
+        "KuznetsovMA-2019-SCDG",
+        "KuznetsovM-2019-AIP",
+        "KuznetsovKKMD-2019-IFAC",
+        "KuznetsovLMPS-2018",
+        "KuznetsovLM-2017-arXiv",
+        "KuznetsovL-2016",
+        "Kuznetsov-2016-PLA",
+        "LeonovKKK-2016-CNSCS",
+        "KuznetsovL-2016-ArXiv",
+        "KuznetsovAL-2016",
+        "LeonovKM-2015-ArXiv",
+        "LeonovKKK-2015-arXiv-YangTigan",
+        "LeonovAK-2015",
+        "LeonovKKK-2015-arXiv-LuChen",
+        "LeonovKKK-2015-arXiv-Lorenz",
+        "LeonovK-2014-NDC",
+        "KuznetsovAL-2014-arXiv-LE",
+        "KuznetsovMV-2014-CNSNS",
+        "LeonovKK-2011-ProcSIM",
+        "LeonovKKK-2011",
+        "KuznetsovL-2008-JVE",
+        "KuznetsovL-2008",
+        "LeonovK-2007-IFAC"
     ],
     "methods": [
         "MatveevS-2017",
@@ -19963,6 +20123,7 @@
         "SutterlinD-1999",
         "Costas-1962-patent",
         "schaefer2015comparison",
+        "Rosenkranz-1982",
         "DuS-2010-communication",
         "Chitode-2009-communication",
         "Holmes-2007-communication",
@@ -20145,7 +20306,6 @@
         "Kengne-2016",
         "bezruchko1997basins",
         "Leonov-2014-DAN",
-        "Leonov-2017-IJBC",
         "Leonov-2013-DAN-LD",
         "Leonov-2008-NDST",
         "Leonov-2002",
@@ -20283,6 +20443,7 @@
         "BlowsR-1993",
         "LauvdalMF-1997",
         "ShimadaN-1979",
+        "Rossler-1977-BMB",
         "ParkerC-1989",
         "ChuaKM-1986",
         "Reichert_CSM92",
@@ -20352,6 +20513,7 @@
         "BoikoKMMYY-2020",
         "AlexeevaBKM-2020-IFAC",
         "KuznetsovMKKL-2020-arxiv",
+        "KuznetsovMAB-2020-ECC",
         "LeonovMKM-2020-IJBC",
         "KuznetsovMMKK-2019-Lorenz-arXiv",
         "Kuznetsov-2019-VSPU",
@@ -21006,7 +21168,6 @@
         "Dinaburg-1971",
         "RuelleT-1971",
         "Maxwell-1868",
-        "Rumyantsev-2003",
         "KorovinI-2010-DE-10",
         "LucaRV-1997",
         "Kolmogorov-1959",
@@ -21510,7 +21671,6 @@
         "AndronovVKh-1937",
         "Krasovsky-1959",
         "ChowH-1982",
-        "BenettinGGS-1980-Part1",
         "GarciaTarbouriech_IEE04",
         "TarbouriechTurner09",
         "Massera-1956",
@@ -21642,13 +21802,11 @@
         "Popov-1959",
         "Popov-1961",
         "Popov-1964",
-        "GusevL-2006",
-        "Popov-1960-IFAC",
-        "Wu-2002",
-        "Wu-1998"
+        "Popov-1960-IFAC"
     ],
     "rom": [
         "Popov-1960-rom",
+        "Fradkov-2007",
         "Popov-1966-rom",
         "LeonovPS-1995",
         "LeonovK-2013-IJBC",
@@ -21745,7 +21903,7 @@
     "memories": [
         "Pupyrev-2006"
     ],
-    "Anatoliy": [
+    "natoliy": [
         "Pupyrev-2006"
     ],
     "sakovich": [
@@ -21905,7 +22063,6 @@
         "AndrievskyKKK-2020",
         "Kuznetsov-2020-TiSU",
         "KuznetsovLYYKKRA-2020-ECC",
-        "Kuznetsov-2019-VSPU",
         "Kuznetsov-2019-SCDG",
         "Kuznetsov-2019-UFA",
         "Kuznetsov-2018-IFAC",
@@ -22237,15 +22394,8 @@
         "ChepyzhovV-2002",
         "LeonovAB-1985"
     ],
-    "Principles": [
-        "Fradkov-2003",
-        "Viterbi-1966",
-        "KaplanH-2006-GPS",
-        "KaplanH-2017-GPS",
-        "PedersonM-2008-book",
-        "Nielsen-1958",
-        "groves2013principles",
-        "Brennan-1996"
+    "rinciples": [
+        "Fradkov-2003"
     ],
     "examples": [
         "Fradkov-2003",
@@ -22275,37 +22425,8 @@
     "FradkovE": [
         "FradkovE-2005"
     ],
-    "Methods": [
-        "FradkovE-2005",
-        "AwrejcewiczKEDBK-2018",
-        "DontchevL-1992",
-        "BautinL-1976",
-        "PopovP-1960",
-        "Nelepin-1975",
-        "ShilnikovTCh-2001",
-        "ChowH-1982",
-        "KrauskopfOHG-2007",
-        "Zhang-2013",
-        "wang-2009-control",
-        "GingoldS-2011",
-        "Zhang-2014",
-        "Li-1981",
-        "Zubov-1964",
-        "Aulbach-1983",
-        "Kiseleva2013J",
-        "LeonovK-RCD-2010",
-        "LeonovBSh-1996",
-        "LeonovPS-1996",
-        "LeonovRS-1992",
-        "janos-2018-patent",
-        "MitropolskyB-1961",
-        "ChangC-2008",
-        "SandersVM-2007-averaging",
-        "Mickens-2010-averaging",
-        "GrebenikovMR-2004-averaging",
-        "Turaev",
-        "AndrievskyKL-2017",
-        "LeonovK-2013-CMAS"
+    "ethods": [
+        "FradkovE-2005"
     ],
     "applications": [
         "FradkovE-2005",
@@ -22328,7 +22449,6 @@
     ],
     "engineering": [
         "FradkovE-2005",
-        "Bissell-1998",
         "Serebryakova-1959",
         "Bissel-1998",
         "Westphal-2001",
@@ -22356,14 +22476,6 @@
         "EckmannR-1985",
         "DudkowskiKM-2019",
         "BestKLYY-2016"
-    ],
-    "From": [
-        "Fradkov-2007",
-        "AlBenderLS-2004",
-        "HalanayLR-1987",
-        "Leonov-1997",
-        "Razavi-2003",
-        "KudryashovaKLNS-2010"
     ],
     "quantum": [
         "Fradkov-2007",
@@ -22503,6 +22615,9 @@
         "Bissell-1998",
         "Bissel-1998"
     ],
+    "engineerin": [
+        "Bissell-1998"
+    ],
     "C": [
         "Bissell-1998",
         "Sprott-2003",
@@ -22515,6 +22630,9 @@
         "FalcoliniTL-2013",
         "VallejoS-2017",
         "Heagy-1992",
+        "NekorkinC-1993",
+        "Chua2-1992",
+        "Chua-1993",
         "ChenPY-2012",
         "GrebogiOY-1983",
         "BorghezanR-2017",
@@ -22535,6 +22653,7 @@
         "LiuTDAH-2006",
         "MargaliotaC-2006",
         "AlgabaEtAll-2013-Chaos",
+        "Chen-2013",
         "SprottL-2017",
         "Matsumoto-1984",
         "Chua-1990",
@@ -22560,6 +22679,7 @@
         "MihajlovicWRN-2007",
         "UedaAH-1973",
         "KrasovskyY-2012",
+        "Oseledec-1968",
         "LetellierEAA-2004",
         "LainscsekLG-2003",
         "GolubL-1996",
@@ -22585,6 +22705,7 @@
         "Algaba2014772",
         "Algaba2014758",
         "Algaba2013",
+        "Algaba20122708",
         "BoccalettiKOVZ-2002",
         "RosensteinCL-1993",
         "HornJ-1994-book",
@@ -22592,6 +22713,7 @@
         "QinC-2007",
         "SprottL-2007",
         "Sprott-2011",
+        "DengC-2011",
         "DettmannFC-1995",
         "Hoover-2014",
         "DouadyO-1980",
@@ -22627,6 +22749,7 @@
         "Kengne-2016",
         "ChenXLB-2017",
         "Bohm-1953",
+        "BarbozaC-2011",
         "Barboza-2018",
         "CruzC-1992",
         "LeonovA-DAN-2015",
@@ -22634,14 +22757,18 @@
         "Leonov-2012-PLA",
         "LeonovP-2005",
         "LindseyCM-1981",
+        "GillespieKK-2000",
         "Hedayat-1999-3order",
         "Hedayat-2014-high-order",
+        "osborne1982generalized",
         "Steed:11",
         "Lindsey-1973",
         "DjordjevicEtAl-1998",
         "DjordjevicS-1999",
         "Fiocchi-1992",
+        "Miyazaki-1991",
         "WangE-2001",
+        "HayamiII-2008",
         "BanerjeeS-2008",
         "izhikevich-1997",
         "Costas-1956",
@@ -22670,8 +22797,12 @@
         "Helaluddin-2008",
         "Jeruchim-2000",
         "Sayre-2008-wireless",
+        "Chumchairat-2003",
         "Piqueira-2010-PLL-network",
+        "Stensby-1989",
+        "Simon-1978",
         "Lindsey-1978",
+        "Olson-1975",
         "PinheiroP-2014",
         "Nielsen-1958",
         "HsiehH-1996",
@@ -22679,6 +22810,7 @@
         "simon1977optimum",
         "dorf1998modern",
         "Ladvanszky-2017",
+        "UgarteC-2015",
         "Vizvari-1996",
         "Gupta-1975",
         "Golestan-2017",
@@ -22692,6 +22824,7 @@
         "KuznetsovL-2016",
         "PhamVVJKH-2016",
         "BianchiKLYY-2016",
+        "BestKLYY-2016",
         "LeonovKYY-2016-DAN",
         "KuznetsovLMS-2016-INCAAM",
         "LeonovKKK-2015-arXiv-LuChen",
@@ -22985,7 +23118,7 @@
         "Haque-2012",
         "Galton-2018-tcasi"
     ],
-    "Patriot": [
+    "atriot": [
         "Skeel-1992",
         "Marshall-1992"
     ],
@@ -23099,6 +23232,7 @@
         "NekorkinC-1993",
         "RubenfeldS-1977",
         "KehletL-2013",
+        "NazarimehrSJS-2017",
         "LiWJ-2012-cu",
         "Banerjee-1997",
         "SprottWC-2013",
@@ -23106,10 +23240,12 @@
         "Abooee-2013",
         "Wei-2012",
         "Sprott-2014-cu",
+        "SprottWC-2014-IJBC",
         "LiSprott-2014-PLA-cu",
         "LiSprott-2014-cu",
         "LiSprott-2013-cu",
         "JafariS-2013-cu",
+        "MolaieJSG-2013",
         "BorodzikZ-2008",
         "YangH-2012",
         "Gine-2012",
@@ -23121,6 +23257,7 @@
         "SuarezAA-1995",
         "AlgabaEtAll-2013-Chaos",
         "AlgabaEtAll-2013-PLA",
+        "ChenY-2013",
         "BogoliubovK-1937",
         "Bautin-1952",
         "Li-1986",
@@ -23144,6 +23281,7 @@
         "ArtesLSch-2006",
         "CherkasAL-2003",
         "LloydP-1997",
+        "Lynch-2010",
         "Serebryakova-1959",
         "Yu-1998",
         "Efendiev-1968",
@@ -23158,16 +23296,21 @@
         "LetellierEAA-2004",
         "VandenSteen-1997",
         "KreuzerK-1996",
+        "Kovacs-1983",
         "konrad2008ac",
         "GarciaTarbouriech_IEE04",
         "BiannicTarbouriech_ACA07",
         "FerreresBiannic_AC07",
         "Yakubovich-1963",
         "HeXC-2000",
+        "DieciJV-2011",
         "LianL-2010",
+        "Barreira-2017",
         "Zhang-2013",
+        "michel2008stability",
         "vrande1999approximate",
         "lui2013nonlinear",
+        "doi:10.1142/S0218127413502003",
         "Algaba20132771",
         "Algaba2013",
         "BarreiraG-2011",
@@ -23176,6 +23319,7 @@
         "Coomes-1989",
         "Tigan-2008",
         "WangC-2013",
+        "ZhangML-2012",
         "Kharitonov-1978",
         "Henon-1976",
         "Shilnikov-1965",
@@ -23193,12 +23337,16 @@
         "DancaC-2004",
         "Young-1995",
         "Kiseleva2013J",
+        "Kuczma-2009",
         "ElhadjS-2011-IJBC",
         "KaplanMY-1984",
+        "BaoLWX-2016",
         "Marshall-1992",
+        "GribovKK-2016",
         "Kengne-2016",
         "Routh-1877",
         "Hayes-1953",
+        "Liberzon-2003",
         "MatsumotoCT-1986",
         "LeonovTNKN-2017-KIO",
         "LeonovM-2017-DAN",
@@ -23221,6 +23369,7 @@
         "Acco-2004",
         "chang2002wide",
         "Paemel-1994",
+        "ladvanszky2018costas",
         "ladvanszky2015circuit",
         "ladvanszky2017subcarrier",
         "zolomy1997eight",
@@ -23273,12 +23422,16 @@
         "Goldstein-1962",
         "KalmanB-1960",
         "Abramovitch-1988",
+        "Kolumban-1995",
         "Matrosov-2013",
         "koskin-2018-tcasii",
+        "KuznetsovM-2019-AIP",
         "KuznetsovAFC-2018",
         "AbramovichKN-2018",
+        "LeonovK-2018-AIP",
         "DancaFKC-2018",
         "SinghLKR-2017",
+        "KuznetsovLSYY-2017",
         "StankevichKLC-2017",
         "DancaK-2017-CSF",
         "ChenKLM-2017-IJBC",
@@ -23466,7 +23619,6 @@
         "ZhongA-1985",
         "MatsumotoCT-1986",
         "CruzC-1992",
-        "SakamotoN-2006",
         "Chumchairat-2003",
         "Brambilla-2003-frequency",
         "SidorkinaSSS-2016",
@@ -23477,6 +23629,7 @@
         "KuznetsovKLMS-2017-IFAC",
         "KiselevaKKKLYY-2018",
         "KuznetsovKLV-2013",
+        "LeonovK-2012-IEEE",
         "KuznetsovLYY-2012-ICINCO"
     ],
     "Guo": [
@@ -23951,7 +24104,8 @@
     ],
     "Measurement": [
         "SanoS-1985",
-        "Dyer-2004-book"
+        "Dyer-2004-book",
+        "Allen-2003"
     ],
     "spectrum": [
         "SanoS-1985",
@@ -24121,7 +24275,6 @@
         "NazarimehrSJS-2017",
         "JafariSG-2013",
         "SprottWC-2013",
-        "WeiP-2012",
         "Sprott-2014-cu",
         "Sprott-2015-IJBC",
         "SprottWC-2014-IJBC",
@@ -24333,57 +24486,9 @@
         "Wei-2012",
         "DettmannFC-1995"
     ],
-    "New": [
+    "ew": [
         "PeitgenJS-2004",
-        "Sprott-2015-IJBC",
-        "Lefschetz-1957",
-        "BogolyubovM-1961",
-        "Popov-1962",
-        "AndronovLGM-1973",
-        "AnosovAABGIl-1997",
-        "Perko-2001",
-        "DumortierLA-2006",
-        "Lloyd-1988",
-        "Lyapunov-1966",
-        "MarsdenMcC-1976",
-        "Lefschetz-1965",
-        "ChancePGH-1973",
-        "Allgower-1990",
-        "Shokir-2004",
-        "Rossler-1979",
-        "LaSalleL-1961",
-        "Hippe06",
-        "Temam-1988",
-        "Temam-1997",
-        "AnishchenkoANVS-2002",
-        "Kolmogorov-1958",
-        "Zhang-2014",
-        "Sparrow-1982",
-        "Sprott-2015",
-        "Kuratowski-1966",
-        "LaiT-2011",
-        "DudkowskiPK-2017",
-        "Hartman-1964",
-        "Tetzlaff-2014-book",
-        "Halanay-1966",
-        "Gantmacher-1959",
-        "Gardner-1979",
-        "Lindsey-1972",
-        "Margaris-2004",
-        "Egan-1981-book",
-        "Egan-2000-book",
-        "Egan-1998-book",
-        "Egan-2007-book",
-        "Viterbi-1966",
-        "Gardner-1966",
-        "Gardner-2005-book",
-        "Lapsley-1997",
-        "MitropolskyB-1961",
-        "KlapperF-1972",
-        "bianchi2007electronic",
-        "chernoyarov2014new",
-        "Kolumban-2005",
-        "KiselevaKL-2018"
+        "Leonov-IJBC-2008"
     ],
     "frontiers": [
         "PeitgenJS-2004"
@@ -24400,6 +24505,7 @@
         "PeitgenJS-2004",
         "BihamW-1989",
         "NekorkinC-1993",
+        "Hertz-2013",
         "Rossler-1976",
         "Chua-1990",
         "Chua-1992",
@@ -24416,6 +24522,7 @@
         "ParkerC-1989",
         "ChuaKM-1986",
         "KreuzerK-1996",
+        "Rumyantsev-2003",
         "ShortenWMWK-2007",
         "Brogliato-2006dissipative",
         "DellnitzJ-2002",
@@ -24469,7 +24576,30 @@
         "KuznetsovKLV-2011-ICINCO",
         "BraginKL-2010-IFAC"
     ],
-    "urgens": [
+    "u": [
+        "PeitgenJS-2004",
+        "ReitmannS-2000",
+        "AlgabaDMR-2014-ND",
+        "AlgabaEtAll-2013-PLA",
+        "Duffing-1918",
+        "Rossler-1976-ZNTA-Chem",
+        "Algaba2014772",
+        "Algaba2014758",
+        "Algaba20132771",
+        "ZhangML-2012",
+        "MandelstamP-1932",
+        "Hayes-1953",
+        "Leonov-2013-DAN-ChenLu",
+        "Leonov-2012-PLA",
+        "sancho2004general",
+        "brendel2013millimeter",
+        "heine2014european",
+        "Hasan-1985",
+        "LeonovKKK-2015-arXiv-LuChen",
+        "LeonovK-2015-AMC",
+        "LeonovK-2014-arXiv-LCL"
+    ],
+    "rgens": [
         "PeitgenJS-2004"
     ],
     "Saupe": [
@@ -24491,6 +24621,58 @@
         "Awrejcewicz-1995",
         "Margaris-2004",
         "izhikevich-1997"
+    ],
+    "New": [
+        "PeitgenJS-2004",
+        "Sprott-2015-IJBC",
+        "Lefschetz-1957",
+        "BogolyubovM-1961",
+        "Popov-1962",
+        "AndronovLGM-1973",
+        "AnosovAABGIl-1997",
+        "Perko-2001",
+        "DumortierLA-2006",
+        "Lloyd-1988",
+        "Lyapunov-1966",
+        "MarsdenMcC-1976",
+        "Lefschetz-1965",
+        "ChancePGH-1973",
+        "Allgower-1990",
+        "Shokir-2004",
+        "Rossler-1979",
+        "LaSalleL-1961",
+        "Hippe06",
+        "Temam-1988",
+        "Temam-1997",
+        "AnishchenkoANVS-2002",
+        "Kolmogorov-1958",
+        "Zhang-2014",
+        "Sparrow-1982",
+        "Sprott-2015",
+        "Kuratowski-1966",
+        "LaiT-2011",
+        "DudkowskiPK-2017",
+        "Hartman-1964",
+        "Tetzlaff-2014-book",
+        "Halanay-1966",
+        "Gantmacher-1959",
+        "Gardner-1979",
+        "Lindsey-1972",
+        "Margaris-2004",
+        "Egan-1981-book",
+        "Egan-2000-book",
+        "Egan-1998-book",
+        "Egan-2007-book",
+        "Viterbi-1966",
+        "Gardner-1966",
+        "Gardner-2005-book",
+        "Lapsley-1997",
+        "MitropolskyB-1961",
+        "KlapperF-1972",
+        "bianchi2007electronic",
+        "chernoyarov2014new",
+        "Kolumban-2005",
+        "KiselevaKL-2018"
     ],
     "York": [
         "PeitgenJS-2004",
@@ -24692,13 +24874,50 @@
         "LeonovK-2013-CMAS",
         "KuznetsovVLS-2011-NAUN"
     ],
-    "Part": [
+    "Methods": [
         "AwrejcewiczKEDBK-2018",
-        "GardnerEH-1993",
-        "Gardner-1993",
-        "TeplinskyF-2000",
-        "EndoT-1986",
+        "DontchevL-1992",
+        "BautinL-1976",
+        "PopovP-1960",
+        "Nelepin-1975",
+        "ShilnikovTCh-2001",
+        "ChowH-1982",
+        "KrauskopfOHG-2007",
+        "Zhang-2013",
+        "wang-2009-control",
+        "GingoldS-2011",
+        "Zhang-2014",
+        "Li-1981",
+        "Zubov-1964",
+        "Aulbach-1983",
+        "Kiseleva2013J",
+        "LeonovK-RCD-2010",
+        "LeonovBSh-1996",
+        "LeonovPS-1996",
+        "LeonovRS-1992",
+        "janos-2018-patent",
+        "MitropolskyB-1961",
+        "ChangC-2008",
+        "SandersVM-2007-averaging",
+        "Mickens-2010-averaging",
+        "GrebenikovMR-2004-averaging",
+        "Turaev",
+        "AndrievskyKL-2017",
         "LeonovK-2013-CMAS"
+    ],
+    "art": [
+        "AwrejcewiczKEDBK-2018",
+        "ShilnikovTCh-2001",
+        "BenettinGGS-1980-Part1",
+        "BenettinGGS-1980-Part2",
+        "Awrejcewicz-2012",
+        "MatveevP-2019",
+        "Leonov-2013-IJBC",
+        "BanerjeePS-2013",
+        "Osborne-1980a",
+        "Osborne-1980b",
+        "TeplinskyF-2000",
+        "PinheiroP-2014"
     ],
     "imple": [
         "AwrejcewiczKEDBK-2018"
@@ -25067,6 +25286,7 @@
         "BesselinkWN-2011",
         "WolfSSV-1985",
         "Pesin-1988",
+        "YauR-2000",
         "GarciaTarbouriech_IEE04",
         "PogromskyAndrievsky_IFAC09",
         "DemirK-2001",
@@ -25093,6 +25313,7 @@
         "GaveauS-2015",
         "AleksandrovP-1973",
         "BenedicksY-1993",
+        "Schmeling-1998",
         "TasakiGD-1998",
         "DeroinD-2015",
         "Hauser-1999",
@@ -25199,44 +25420,10 @@
     ],
     "Lorenz": [
         "Lorenz-1984",
-        "OvsyannikovT-2017",
-        "KehletL-2013",
-        "GaliasT-2008-LorenzUpo",
-        "Sprott-2015-IJBC",
-        "LiSprott-2014-cu",
-        "ChenY-2013",
         "Lorenz-1963",
-        "KaplanY-1979-CMP",
-        "BarrioDT-2015-LorenzUpo",
-        "Algaba2014772",
-        "Algaba201480",
-        "Algaba2014887",
-        "Algaba2013",
-        "GaliasZ-1998",
-        "Zhang-2014",
-        "DoeringG-1995",
-        "Sparrow-1982",
-        "Sprott-2015",
-        "AfraimovicBSh-1977",
-        "Liu-2011",
-        "Tigan-2004",
         "Ruelle-1976-Lorenz",
-        "Robinson-1990",
         "Tokunaga-1989",
-        "MaslennikovNK-2018",
-        "Barboza-2018",
-        "LeonovM-2018-PolyahovskieCh",
-        "Leonov-2017-CPAA",
-        "Leonov-2016-IJBC",
-        "Leonov-2015-DAN-Homo",
-        "Leonov-2015-ND",
-        "Leonov-2013-IJBC",
-        "LeonovPS-2011",
-        "LeonovAB-1985",
-        "Leonov-1983",
         "Leonov-1983-AMM",
-        "LeonovBK-1987",
-        "KuznetsovMKKL-2020-arxiv",
         "KuznetsovMMKK-2019-Lorenz-arXiv",
         "LeonovKKK-2015-arXiv-Lorenz"
     ],
@@ -25393,6 +25580,7 @@
         "Ruelle-1976-Lorenz",
         "Tokunaga-1989",
         "BelykhC-1993",
+        "Leonov-2017-IJBC",
         "Leonov-2015-DAN-Homo",
         "Leonov-2015-ND",
         "LeonovPS-2013-PLA",
@@ -25520,6 +25708,7 @@
         "LeonovS-Vestnik-2012",
         "LeonovPS-2011",
         "BarabanovGLLMSF-1996",
+        "LeonovL-1993",
         "Guermandi-2011",
         "Best-2018",
         "janos-2018-patent",
@@ -25973,7 +26162,6 @@
         "ChenW-1979",
         "HeXC-2000",
         "Algaba2013",
-        "Algaba20122708",
         "QinC-2007",
         "WangC-2013",
         "ZhangC-2017",
@@ -26140,12 +26328,12 @@
         "Algaba20134252",
         "Algaba20131175",
         "Algaba20122708",
+        "GelfertM-2010",
         "Gelfert-2003",
         "AbarbanelBK-1991",
         "Sambarino-2014",
         "Stewart-1997",
         "Venkatasubramanian-2001",
-        "Parks-1992",
         "Meisters-1989",
         "Rasvan-2006",
         "TempkinY-2007",
@@ -26478,7 +26666,6 @@
         "Stensby-1997",
         "ChangTC-1993",
         "ShirahamaFYT-1998",
-        "Nielsen-1958",
         "Brambilla-2003-frequency",
         "BonninCG-2014",
         "Al-arajiHA-2006",
@@ -26623,7 +26810,30 @@
     "Lehnert": [
         "LehnertHFGFS-2011"
     ],
-    "ovel": [
+    "o": [
+        "LehnertHFGFS-2011",
+        "Thomas-1999",
+        "Algaba-2015",
+        "BarronS-2008",
+        "BorghezanR-2017",
+        "BorodzikZ-2008",
+        "ZhouZ-2005",
+        "Rossler-1976",
+        "SprottL-2017",
+        "Rossler-1976-ZNTA-Chem",
+        "Rossler-1976-ZNTA",
+        "Rossler-1977-BMB",
+        "Rossler-1979",
+        "BarrioBS-2014",
+        "AstromRundqwist_ACC89",
+        "Parks-1992",
+        "Bohm-1953",
+        "Leonov-2014-DAN",
+        "LeonovR-1986",
+        "zolomy1997eight",
+        "Williams-1984"
+    ],
+    "vel": [
         "LehnertHFGFS-2011"
     ],
     "Flunkert": [
@@ -26635,27 +26845,49 @@
     "Sch": [
         "LehnertHFGFS-2011"
     ],
-    "o": [
-        "LehnertHFGFS-2011",
-        "Thomas-1999",
-        "Algaba-2015",
-        "BarronS-2008",
-        "BorghezanR-2017",
-        "BorodzikZ-2008",
-        "ZhouZ-2005",
-        "Rossler-1976",
-        "SprottL-2017",
-        "BarrioBS-2014",
-        "AstromRundqwist_ACC89",
-        "LeonovR-1986",
-        "zolomy1997eight"
-    ],
     "ll": [
         "LehnertHFGFS-2011"
     ],
-    "043111": [
+    "An": [
         "LehnertHFGFS-2011",
-        "BaoLWX-2016"
+        "Algaba-2015",
+        "PiiroinenK-2008",
+        "FalcoliniTL-2016",
+        "YangWC-2010",
+        "LaBryerA-2012",
+        "LiuTDAH-2006",
+        "Rossler-1976",
+        "Bongiorno-1963",
+        "GasullGM-1997",
+        "GasullGM-1999",
+        "EarnshawW-1992",
+        "MihajlovicWHN-2006",
+        "BarrioBS-2014",
+        "BremenUP-1997",
+        "Robinson-2013",
+        "KunzeK-2001",
+        "Zelinka-2013",
+        "vrande1999approximate",
+        "ZhangC-2017",
+        "LiaoTA-2010",
+        "Eden-1989-PhD",
+        "TasakiGD-1998",
+        "Kuczma-2009",
+        "BaoLWX-2016",
+        "MaslennikovNK-2018",
+        "Wang-2005",
+        "HuqueS-2013",
+        "DjordjevicEtAl-1998",
+        "Djordjevic-1998",
+        "Helaluddin-2008",
+        "Stensby-2011",
+        "Stensby-2013",
+        "HuqueS-2011-exact",
+        "KummKZ-2010",
+        "KudryashovaKLNS-2010"
+    ],
+    "043111": [
+        "LehnertHFGFS-2011"
     ],
     "PyragasP": [
         "PyragasP-2011",
@@ -26889,6 +27121,7 @@
         "KLurie-2001",
         "BronshteinS-1997",
         "Khalil-2002",
+        "Rantzer-1996",
         "ChancePGH-1973",
         "UMN-1982",
         "Barabanov-1988",
@@ -26931,6 +27164,7 @@
         "LeonovPS-2011",
         "LeonovGR-2001",
         "BarabanovGLLMSF-1996",
+        "Leonov-1995-Vest",
         "Acco-2004",
         "Lindsey-1973",
         "HayamiII-2008",
@@ -26960,8 +27194,10 @@
         "intelligent-book3",
         "Kolumban-2005",
         "BoikoKMMYY-2020",
+        "KuznetsovKMMYY-2019-IFAC",
         "AleksandrovKKKKK-2018-IFAC",
         "KuznetsovKKMA-2018",
+        "LeonovK-2018-AIP",
         "LeonovK-2018-DAN",
         "SinghLKR-2017",
         "LeonovKKM-2017",
@@ -27145,7 +27381,6 @@
         "Poincare-1885",
         "Poincare-1890",
         "AugustovaBC-2015",
-        "PontrjaginSh-1932",
         "ChoquetF-1975",
         "Eden-1989",
         "KudryashovaKKLM-2019",
@@ -27193,6 +27428,7 @@
         "Ruelle-1976-Lorenz",
         "BenedicksV-2001",
         "Romanovski-2008",
+        "Shilnikov-1994",
         "LeonovM-2017-DAN",
         "Leonov-2013-AMM",
         "Leonov-2012-DRAN",
@@ -27233,8 +27469,12 @@
         "Algaba-2015",
         "Rossler-1976",
         "SprottL-2017",
-        "Febler-1995",
+        "Rossler-1976-ZNTA-Chem",
+        "Rossler-1976-ZNTA",
+        "Rossler-1977-BMB",
+        "Rossler-1979",
         "BarrioBS-2014",
+        "Leonov-2014-DAN",
         "LeonovR-1986"
     ],
     "equations": [
@@ -27338,7 +27578,6 @@
         "LeonovK-2014-JMS",
         "LeonovK-2013-IJBC",
         "LeonovK-2013-CMAS",
-        "LeonovK-2012-IEEE",
         "KuznetsovKLV-2011-ICINCO",
         "KuznetsovLSN-2009-ICINCO",
         "AleksandrovKLYY-2016-arXiv-sin",
@@ -27462,6 +27701,7 @@
         "Algaba-2015",
         "GarashchukKS-2017",
         "KehletL-2013",
+        "CzornikNN-2013",
         "GaliasT-2008-LorenzUpo",
         "YangWC-2010",
         "Wei-2011",
@@ -27506,7 +27746,9 @@
         "LlibreZ-2002",
         "DengC-2011",
         "ZhangML-2012",
+        "DieciL-2008",
         "Venkatasubramanian-2001",
+        "Sell-1989",
         "Yangc-2008",
         "YangChen-2008",
         "Luo-2010",
@@ -27525,7 +27767,6 @@
         "Leonov-2008-NDST",
         "Leonov-2001-AMM",
         "Leonov-1999-Vest",
-        "LeonovL-1993",
         "Leonov-1988",
         "Leonov-1988-RMS",
         "LeonovAB-1985",
@@ -27548,7 +27789,6 @@
         "Belyustina-1970-eng",
         "GribovKS-2016",
         "AhmadB-2016",
-        "KalmanB-1960",
         "Pham-2016-tcasii",
         "KuznetsovMKKL-2020-arxiv",
         "KuznetsovMMKK-2019-Lorenz-arXiv",
@@ -27558,8 +27798,8 @@
         "PhamVVJKH-2016",
         "DancaKC-2016",
         "KuznetsovLMS-2016-INCAAM",
-        "LeonovKKK-2016-CNSCS",
         "LeonovKM-2015-ArXiv",
+        "LeonovKKK-2015-arXiv-YangTigan",
         "DancaFKC-2016-IJBC",
         "LeonovAK-2015",
         "KuznetsovLM-2015",
@@ -27574,6 +27814,7 @@
         "AndrievskyKLS-2013-IFAC",
         "KiselevaKLN-2013",
         "LeonovKP-2012-DAN",
+        "KuznetsovL-2008-JVE",
         "KuznetsovLV-2010-IFAC",
         "LeonovSKN-2010-ICINCO",
         "LeonovKK-2008-plenary",
@@ -27590,7 +27831,7 @@
         "Algaba-2015",
         "Rodriguez-2007"
     ],
-    "iguez": [
+    "guez": [
         "Algaba-2015",
         "Rodriguez-2007"
     ],
@@ -27692,17 +27933,6 @@
     ],
     "Barr": [
         "BarronS-2008"
-    ],
-    "n": [
-        "BarronS-2008",
-        "BorghezanR-2017",
-        "NazarimehrSJS-2017",
-        "MaesschalckD-2011",
-        "Ilyashenko-1985",
-        "Cima-1997",
-        "Meisters-1989",
-        "Lyapunov-1907",
-        "Leonov-2001"
     ],
     "Miguel": [
         "BarronS-2008",
@@ -27839,6 +28069,7 @@
         "VanderPol-1922",
         "Jenkins-2013",
         "Ponomarenko-2017",
+        "Kuznetsov-2019-VSPU",
         "LeonovK-2012-IEEE"
     ],
     "hysteresis": [
@@ -27978,10 +28209,8 @@
         "Andronov-1929",
         "Dulac-1923"
     ],
-    "Poincar": [
-        "Andronov-1929",
-        "Poincare-1881",
-        "Poincare-1882"
+    "oincar": [
+        "Andronov-1929"
     ],
     "th": [
         "Andronov-1929",
@@ -27996,7 +28225,8 @@
     ],
     "orie": [
         "Andronov-1929",
-        "AndronovV-1930"
+        "AndronovV-1930",
+        "Rocard-1941"
     ],
     "auto": [
         "Andronov-1929",
@@ -28059,11 +28289,8 @@
     ],
     "Liapunov": [
         "RoucheHL-1977",
-        "LaSalle-1960",
-        "Hahn-1963",
         "Yoshizawa-1966",
-        "Parks-1966",
-        "Lasalle-1960"
+        "Parks-1966"
     ],
     "s": [
         "RoucheHL-1977",
@@ -28123,13 +28350,17 @@
         "LeonovL-1993",
         "LeonovB-1992",
         "Hein-1988",
+        "Guermandi-2011",
         "Smith-1999",
         "SarkarSB-2014",
         "TomkinsEtAl-2009",
+        "BakshiG-2009-book",
         "piqueira2006all",
         "banerjee2006",
         "Osborne-1980b",
+        "Goyal-2006",
         "ShirahamaFYT-1998",
+        "Abramovitch-2004",
         "Williams-1984",
         "GolestanGV-2017",
         "UgarteC-2014",
@@ -28138,6 +28369,7 @@
         "AguirreBH-1986",
         "UgarteC-2015",
         "Lasalle-1960",
+        "KuznetsovLYYK-2020-IFACWC",
         "KuznetsovYYBKKM-2019",
         "KuznetsovLYY-2014-IFAC",
         "AlexandrovKLS-2014-ICUMT",
@@ -28447,10 +28679,14 @@
         "AlgabaDMR-2014-ND",
         "Sprott-2015-IJBC",
         "AlgabaEtAll-2013-Chaos",
+        "Chen-2013",
         "Algaba2014772",
         "Algaba2013",
+        "Algaba20122708",
         "QinC-2007",
+        "DengC-2011",
         "Sprott-2015",
+        "BarbozaC-2011",
         "Barboza-2018",
         "Leonov-2013-DAN-ChenLu",
         "Leonov-2012-PLA",
@@ -28506,40 +28742,68 @@
         "Leonov-1999",
         "LeonovK-2013-AISC"
     ],
-    "extended": [
-        "OvsyannikovT-2017",
-        "HalanayLR-1987",
-        "banerjee2012"
-    ],
     "orenz": [
         "OvsyannikovT-2017",
         "LiaoW-2014",
+        "KehletL-2013",
         "YorkeY-1979",
+        "GaliasT-2008-LorenzUpo",
         "AlgabaDMR-2014-ND",
+        "Sprott-2015-IJBC",
+        "LiSprott-2014-cu",
         "AlgabaEtAll-2013-Chaos",
         "AlgabaEtAll-2013-PLA",
+        "ChenY-2013",
+        "KaplanY-1979-CMP",
+        "BarrioDT-2015-LorenzUpo",
+        "Algaba2014772",
         "Algaba2014758",
+        "Algaba201480",
+        "Algaba2014887",
         "Algaba20132771",
         "Algaba20134252",
         "Algaba2013",
         "Coomes-1989",
         "Tucker-1999",
+        "GaliasZ-1998",
+        "Zhang-2014",
         "LlibreZ-2002",
+        "DoeringG-1995",
+        "Sparrow-1982",
+        "Sprott-2015",
+        "AfraimovicBSh-1977",
         "EvtimovPS-2000",
         "PanchevSV-2007",
         "LiaoTA-2010",
+        "Liu-2011",
         "Luo-2010",
+        "Tigan-2004",
+        "Ruelle-1976-Lorenz",
+        "Robinson-1990",
+        "MaslennikovNK-2018",
+        "Barboza-2018",
+        "LeonovM-2018-PolyahovskieCh",
+        "Leonov-2017-CPAA",
         "LeonovAM-2017-VestSPSU",
+        "Leonov-2016-IJBC",
+        "Leonov-2015-DAN-Homo",
+        "Leonov-2015-ND",
         "Leonov-2015-DAN-GD",
         "LeonovPS-2013-PLA",
         "Leonov-2013-DAN-LD",
+        "Leonov-2013-IJBC",
         "Leonov-2012-PLA",
+        "LeonovPS-2011",
         "Leonov-2002",
         "Leonov-2001-AMM",
         "Leonov-1999-Vest",
         "LeonovL-1993",
         "Leonov-1988",
         "Leonov-1988-RMS",
+        "LeonovAB-1985",
+        "Leonov-1983",
+        "LeonovBK-1987",
+        "KuznetsovMKKL-2020-arxiv",
         "LeonovMKM-2020-IJBC",
         "KuznetsovMMKK-2019-Lorenz-arXiv",
         "ChenKLM-2017-IJBC",
@@ -28550,6 +28814,11 @@
         "LeonovK-2015-AMC",
         "LeonovK-2014-arXiv-LCL",
         "LeonovKM-2014-arXiv"
+    ],
+    "extended": [
+        "OvsyannikovT-2017",
+        "HalanayLR-1987",
+        "banerjee2012"
     ],
     "Ovsyannikov": [
         "OvsyannikovT-2017"
@@ -28817,10 +29086,9 @@
     "simulate": [
         "PiiroinenK-2008"
     ],
-    "Filippov": [
+    "ilippov": [
         "PiiroinenK-2008",
-        "Filippov-1988",
-        "Filippov-1960-IFAC"
+        "KiselevaK-2015-Vestnik"
     ],
     "sliding": [
         "PiiroinenK-2008",
@@ -29150,8 +29418,7 @@
     ],
     "Keldysh": [
         "ParhomovskyP-1971",
-        "Keldysh-1944",
-        "LeonovK-2018-AIP"
+        "Keldysh-1944"
     ],
     "research": [
         "ParhomovskyP-1971"
@@ -29284,7 +29551,6 @@
         "Burd-2010-averaging",
         "Watada-1998",
         "bizzarri2012periodic",
-        "Kolumban-1995",
         "GezaKolumban-2015",
         "Kolumban-2005",
         "KuznetsovLYYK-2020-IFACWC",
@@ -29387,6 +29653,7 @@
         "GrassbergerKM-1989",
         "Heagy-1992",
         "Celikovsky-1994",
+        "BenedicksY-1993",
         "BenedicksC-1991",
         "Varin-2004",
         "MaslennikovNK-2018",
@@ -29407,14 +29674,16 @@
     "013104": [
         "FalcoliniTL-2016"
     ],
-    "Henon": [
+    "enon": [
         "FalcoliniTL-2013",
         "GaliasT-2013",
-        "Henon-1976",
-        "VallejoAS-2003",
-        "BenedicksC-1991",
-        "BenedicksV-2001",
-        "BoichenkoL-2000"
+        "SterlingDM-1999",
+        "GonchenkoGS-2010",
+        "BenedicksY-1993",
+        "BaierK-1990",
+        "Leonov-2002",
+        "BoichenkoL-2000",
+        "KuznetsovLM-2017-arXiv"
     ],
     "sinks": [
         "FalcoliniTL-2013"
@@ -29551,14 +29820,6 @@
         "LeonovS-2005-IJBC",
         "LeonovMKM-2020-IJBC"
     ],
-    "enon": [
-        "SterlingDM-1999",
-        "GonchenkoGS-2010",
-        "BenedicksY-1993",
-        "BaierK-1990",
-        "Leonov-2002",
-        "KuznetsovLM-2017-arXiv"
-    ],
     "GonchenkoGS": [
         "GonchenkoGS-2010"
     ],
@@ -29596,7 +29857,6 @@
         "ReitmannS-2000",
         "Galvanetto-2000",
         "JanakiRHR-1999",
-        "BenedicksY-1993",
         "TasakiGD-1998",
         "BaierK-1990"
     ],
@@ -29648,7 +29908,6 @@
         "Feit-1978",
         "BenettinGGS-1980-Part1",
         "BenettinGGS-1980-Part2",
-        "Oseledec-1968",
         "Persidskii-1947",
         "HeXC-2000",
         "Pesin-1977",
@@ -29682,7 +29941,6 @@
         "Skokos-2010",
         "DieciJV-2011",
         "LianL-2010",
-        "Barreira-2017",
         "EichhornLH-2001",
         "AbarbanelBK-1991",
         "RosensteinCL-1993",
@@ -29890,9 +30148,7 @@
         "PikovskiRT-1978",
         "Rabinovich-1978",
         "RabinovichF-1979",
-        "afraimovich1994stability",
-        "DancaKC-2016",
-        "KuznetsovLMS-2016-INCAAM"
+        "afraimovich1994stability"
     ],
     "Ezersky": [
         "RabinovichEW-2000"
@@ -29906,12 +30162,9 @@
     "Hausdorff": [
         "ReitmannS-2000",
         "NoackR-1996",
-        "Leonov-2017-IJBC",
-        "LeonovRS-2011",
         "LeonovGR-2001",
         "BoichenkoLFR-1998",
-        "Leonov-1998-Vest",
-        "LeonovB-1992"
+        "Leonov-1998-Vest"
     ],
     "estimates": [
         "ReitmannS-2000",
@@ -30021,14 +30274,6 @@
         "ZhouZ-2005",
         "Rossler-1976-ZNTA-Chem",
         "MandelstamP-1932",
-        "Hayes-1953",
-        "brendel2013millimeter",
-        "Hasan-1985"
-    ],
-    "ur": [
-        "ReitmannS-2000",
-        "Grabowski-2011-cu",
-        "Rossler-1976-ZNTA-Chem",
         "Hayes-1953",
         "brendel2013millimeter",
         "Hasan-1985"
@@ -30325,7 +30570,6 @@
         "ParkerC-1989",
         "ChuaKM-1986",
         "HuangPWF-1996",
-        "BaoLWX-2016",
         "Tokunaga-1989",
         "KuznetsovKSC-1993",
         "BelykhC-1993",
@@ -30352,6 +30596,48 @@
     "chain": [
         "NekorkinC-1993",
         "Piqueira-2010-PLL-network"
+    ],
+    "hua": [
+        "NekorkinC-1993",
+        "Chua2-1992",
+        "Chua-1993",
+        "Matsumoto-1984",
+        "Chua-1990",
+        "Chua-1992",
+        "Chua-1995",
+        "Banerjee-2012",
+        "BilottaP-2008",
+        "Zhiguo-2008",
+        "Anishchenko-1994",
+        "LoziU-1993",
+        "BaoLWX-2016",
+        "KuznetsovKSC-1993",
+        "BelykhC-1993",
+        "Shilnikov-1994",
+        "RochaM-2015",
+        "BaoJWH-2015",
+        "GribovKK-2016",
+        "Kengne-2016",
+        "ChenXLB-2017",
+        "CruzC-1992",
+        "LeonovKKM-2017",
+        "StankevichKLC-2017",
+        "KuznetsovKLMS-2017-IFAC",
+        "KiselevaKKKLYY-2018",
+        "KuznetsovLMS-2016-INCAAM",
+        "LeonovKKK-2015-IFAC",
+        "LeonovK-2014-JMS",
+        "LeonovK-2013-IJBC",
+        "KuznetsovKLV-2013",
+        "LeonovK-2013-CMAS",
+        "LeonovKV-2012-PhysD",
+        "LeonovKV-2011-PLA",
+        "BraginVKL-2011",
+        "KuznetsovVLS-2011-NAUN",
+        "LeonovVK-2010-DAN",
+        "LeonovK-2012-IEEE",
+        "KuznetsovKLV-2011-ICINCO",
+        "KuznetsovLV-2010-IFAC"
     ],
     "03": [
         "NekorkinC-1993",
@@ -30542,7 +30828,6 @@
         "Daniels-2008",
         "Kroupa-1973-book",
         "Razavi-1996",
-        "Shu-2005",
         "Manassewitch-2005",
         "Xanthopoulos-2001",
         "Abramovitch-2008-1",
@@ -30685,8 +30970,7 @@
     ],
     "Comparison": [
         "GeistPL-1990",
-        "schaefer2015comparison",
-        "UgarteC-2015"
+        "schaefer2015comparison"
     ],
     "different": [
         "GeistPL-1990",
@@ -30833,7 +31117,6 @@
         "Meador-2009",
         "Hayes-1953",
         "Leonov-2009",
-        "Leonov-IJBC-2008",
         "Leonov-2007",
         "Leonov-1997-DEDS",
         "HalanayLR-1987"
@@ -30953,7 +31236,7 @@
     "periodicity": [
         "BorghezanR-2017"
     ],
-    "Vallis": [
+    "allis": [
         "BorghezanR-2017"
     ],
     "l": [
@@ -31073,8 +31356,7 @@
     ],
     "Glukhovsky": [
         "GarashchukKS-2017",
-        "GlukhovskyD-1980",
-        "LeonovM-2016-DAN"
+        "GlukhovskyD-1980"
     ],
     "Dolzhansky": [
         "GarashchukKS-2017",
@@ -31478,30 +31760,34 @@
         "SharmaSPKL-2015",
         "KuznetsovKL-2011-4LC"
     ],
-    "art": [
+    "rt": [
         "NazarimehrSJS-2017",
+        "SprottWC-2013",
         "SprottWC-2014-IJBC",
+        "LiSprott-2014-cu",
+        "LiSprott-2013-cu",
         "MolaieJSG-2013",
+        "AlgabaEtAll-2013-Chaos",
         "ChenY-2013",
-        "ShilnikovTCh-2001",
-        "BenettinGGS-1980-Part1",
-        "BenettinGGS-1980-Part2",
         "DieciJV-2011",
-        "Awrejcewicz-2012",
         "doi:10.1142/S0218127413502003",
         "ZhangML-2012",
         "SprottHH-2014",
         "BaoLWX-2016",
         "GribovKK-2016",
-        "MatveevP-2019",
-        "Leonov-2013-IJBC",
-        "BanerjeePS-2013",
-        "Osborne-1980a",
-        "Osborne-1980b",
-        "PinheiroP-2014",
         "KuznetsovM-2019-AIP",
+        "KuznetsovAFC-2018",
         "LeonovK-2018-AIP",
-        "KuznetsovLSYY-2017"
+        "KuznetsovLSYY-2017",
+        "StankevichKLC-2017",
+        "ChenKLM-2017-IJBC",
+        "KuznetsovLMS-2016-INCAAM",
+        "DancaFKC-2016-IJBC",
+        "SharmaSPKL-2015",
+        "BestKKLYY-2015-ACC",
+        "LeonovK-2013-IJBC",
+        "AndrievskyKLP-2012",
+        "KuznetsovLNSYY-2012-IEEE-PLL"
     ],
     "um": [
         "NazarimehrSJS-2017"
@@ -31830,6 +32116,7 @@
     ],
     "alman": [
         "Alli-Oke-2012-cu",
+        "Rantzer-1996",
         "UMN-1982",
         "Barabanov-1988",
         "BernatL-1996",
@@ -31837,6 +32124,7 @@
         "LeonovM-2017-DAN",
         "BarabanovGLLMSF-1996",
         "BoikoKMMYY-2020",
+        "KuznetsovKMMYY-2019-IFAC",
         "KuznetsovKKMA-2018",
         "LeonovKKM-2017",
         "LeonovK-2014-JMS",
@@ -32013,6 +32301,10 @@
         "LeonovKK-2008",
         "KuznetsovKL-2011-4LC"
     ],
+    "ur": [
+        "Grabowski-2011-cu",
+        "Kalman-1963"
+    ],
     "applicationto": [
         "Grabowski-2011-cu"
     ],
@@ -32112,7 +32404,7 @@
     "Sensitive": [
         "KocakP-2010"
     ],
-    "Dependence": [
+    "Dependenc": [
         "KocakP-2010"
     ],
     "CzornikNN": [
@@ -32147,9 +32439,8 @@
         "Hertz-2013",
         "Mane-1984"
     ],
-    "Oseledets": [
-        "Hertz-2013",
-        "Oseledec-1968"
+    "seledets": [
+        "Hertz-2013"
     ],
     "splitting": [
         "Hertz-2013"
@@ -32499,22 +32790,6 @@
         "Leonov-1998-UkMZ",
         "Leonov-1988"
     ],
-    "rt": [
-        "SprottWC-2013",
-        "LiSprott-2014-cu",
-        "LiSprott-2013-cu",
-        "AlgabaEtAll-2013-Chaos",
-        "KuznetsovAFC-2018",
-        "StankevichKLC-2017",
-        "ChenKLM-2017-IJBC",
-        "KuznetsovLMS-2016-INCAAM",
-        "DancaFKC-2016-IJBC",
-        "SharmaSPKL-2015",
-        "BestKKLYY-2015-ACC",
-        "LeonovK-2013-IJBC",
-        "AndrievskyKLP-2012",
-        "KuznetsovLNSYY-2012-IEEE-PLL"
-    ],
     "num": [
         "SprottWC-2013",
         "SprottWC-2014-IJBC",
@@ -32551,6 +32826,7 @@
         "LandisP-1957",
         "PetrovskiiL-1959",
         "Li-2008",
+        "Rasvan-2013",
         "Yangc-2008",
         "YangChen-2008",
         "Luo-2010",
@@ -32732,6 +33008,9 @@
         "Leonov-2013-DAN-LD",
         "KuznetsovLV-2010-IFAC"
     ],
+    "prott": [
+        "WeiP-2012"
+    ],
     "Optoelectronics": [
         "WeiP-2012",
         "Steed:11"
@@ -32754,7 +33033,6 @@
         "Tomasi-2001",
         "Viterbi-1966",
         "Tranter-2010-book",
-        "Rosenkranz-1982",
         "Holmes-2007-communication",
         "MeyrA-1990",
         "shakhtarin2009application",
@@ -32811,24 +33089,8 @@
         "Belyustina-1959-rus",
         "Belyustina-1959"
     ],
-    "Hopf": [
-        "AlgabaDMR-2014-ND",
-        "MarsdenMcC-1976",
-        "JiangHB-2010",
-        "YuC-2004"
-    ],
-    "u": [
-        "AlgabaDMR-2014-ND",
-        "AlgabaEtAll-2013-PLA",
-        "Duffing-1918",
-        "Algaba2014772",
-        "Algaba2014758",
-        "MandelstamP-1932",
-        "Leonov-2013-DAN-ChenLu",
-        "Leonov-2012-PLA",
-        "LeonovKKK-2015-arXiv-LuChen",
-        "LeonovK-2015-AMC",
-        "LeonovK-2014-arXiv-LCL"
+    "opf": [
+        "AlgabaDMR-2014-ND"
     ],
     "Netherlands": [
         "AlgabaDMR-2014-ND",
@@ -33010,57 +33272,6 @@
     "Molaie": [
         "MolaieJSG-2013"
     ],
-    "yapunov": [
-        "MolaieJSG-2013",
-        "LiCZT-2008",
-        "Lynch-2005",
-        "Schuko-1968",
-        "LipkovichF-2015",
-        "WolfSSV-1985",
-        "TarbouriechTurner09",
-        "MatrosovM-1993",
-        "KorovinI-2010-DE-10",
-        "TancrediS-1999",
-        "LucaRV-1997",
-        "BremenUP-1997",
-        "HaddadC-2011",
-        "EichhornLH-2001",
-        "Zubov-1964",
-        "Vannelli-1985",
-        "Giesl-2007",
-        "Parks-1992",
-        "Wiesel-1993",
-        "Sell-1989",
-        "Lipnitskii-2015",
-        "MierczynskiS-2013",
-        "LeonovK-RCD-2010",
-        "LeonovKuz-2009",
-        "LeonovP-2005",
-        "LeonovL-2000",
-        "Leonov-1997-Vest",
-        "Leonov-1996-Vest",
-        "KuznetsovMKKL-2020-arxiv",
-        "KuznetsovMA-2019-SCDG",
-        "KuznetsovLMPS-2018",
-        "KuznetsovL-2016",
-        "Kuznetsov-2016-PLA",
-        "LeonovKKK-2016-CNSCS",
-        "KuznetsovL-2016-ArXiv",
-        "KuznetsovAL-2016",
-        "LeonovKM-2015-ArXiv",
-        "LeonovKKK-2015-arXiv-YangTigan",
-        "LeonovAK-2015",
-        "LeonovKKK-2015-arXiv-LuChen",
-        "LeonovKKK-2015-arXiv-Lorenz",
-        "LeonovK-2014-NDC",
-        "KuznetsovAL-2014-arXiv-LE",
-        "KuznetsovMV-2014-CNSNS",
-        "LeonovKK-2011-ProcSIM",
-        "LeonovKKK-2011",
-        "KuznetsovL-2008-JVE",
-        "KuznetsovL-2008",
-        "LeonovK-2007-IFAC"
-    ],
     "quantities": [
         "MolaieJSG-2013",
         "Lynch-2005",
@@ -33156,7 +33367,8 @@
     "frac": [
         "MaesschalckD-2011",
         "PetrovskiiL-1955",
-        "LandisP-1957"
+        "LandisP-1957",
+        "PetrovskiiL-1959"
     ],
     "YangH": [
         "YangH-2012"
@@ -33182,7 +33394,6 @@
         "AstonD-2003",
         "JanakiRHR-1999",
         "kaszkurewicz2000matrix",
-        "LeonovK-RCD-2010",
         "Leonov-2008-DAN",
         "YuldashevM-2011",
         "biggio2014accurate",
@@ -33376,8 +33587,11 @@
         "Gine-2007-AMC",
         "GasullGM-1997",
         "GasullGM-1999",
+        "LaSalle-1960",
         "LaSalleL-1961",
-        "FredericksonKYY-1983"
+        "Hahn-1963",
+        "FredericksonKYY-1983",
+        "Lasalle-1960"
     ],
     "constants": [
         "GineS-2004",
@@ -33808,7 +34022,6 @@
         "Stewart-1989",
         "TarbouriechTurner09",
         "BylovVGN-1966",
-        "Shilnikov-1994",
         "ShapovalovKBA-2004",
         "Leonov-2001",
         "LeonovS-2000",
@@ -33864,7 +34077,6 @@
         "Jansen-1991",
         "Kunze-2000",
         "KunzeK-2001",
-        "GelfertM-2010",
         "BoichenkoLFR-1998",
         "mitropolsky1967averaging",
         "Margaris-2004",
@@ -33960,13 +34172,11 @@
     ],
     "Kalman": [
         "AracilG-2004",
-        "Rantzer-1996",
         "Kalman-1957",
         "Kalman-1963",
         "GusevL-2006",
         "HeathCS-2018",
-        "KalmanB-1960",
-        "KuznetsovKMMYY-2019-IFAC"
+        "KalmanB-1960"
     ],
     "LlibrePR": [
         "LlibrePR-2011"
@@ -34089,7 +34299,6 @@
         "Chumchairat-2003",
         "Matrosov-2006",
         "Haque-2012",
-        "Stensby-2009",
         "HuqueS-2011-exact",
         "Woodbury-1968",
         "Watada-1998",
@@ -34188,6 +34397,7 @@
         "Rasvan-2004",
         "Fitts-1966",
         "Leonov-ARC-2009-2",
+        "BoikoKMMYY-2020",
         "KiselevaK-2015-Vestnik",
         "LeonovK-2014-JMS",
         "LeonovK-2013-IJBC",
@@ -34216,7 +34426,6 @@
     "Application": [
         "Smith-1986",
         "Filippov-1960-IFAC",
-        "BenettinGGS-1980-Part2",
         "AlSawalhaN-2009",
         "Ott-2006",
         "Jury-1964",
@@ -34234,9 +34443,12 @@
         "Eden-1989",
         "Eden-1990",
         "BarreiraS-2000",
+        "Leonov-2017-IJBC",
+        "LeonovRS-2011",
         "BoichenkoL-1999",
         "Leonov-1996-Vest",
         "Leonov-1995-Vest",
+        "LeonovB-1992",
         "Leonov-1991-Vest"
     ],
     "Dimension": [
@@ -34319,6 +34531,7 @@
     ],
     "avier": [
         "Ilyashenko-1982",
+        "Sell-1996",
         "ConstantinF-1985"
     ],
     "tokes": [
@@ -34348,8 +34561,6 @@
     "Lu": [
         "LuChen-2002",
         "LianL-2010",
-        "Algaba20132771",
-        "ZhangML-2012",
         "LuWLK-2004",
         "lu2001discrete"
     ],
@@ -34420,9 +34631,8 @@
         "AlgabaEtAll-2013-Chaos",
         "Algaba2013"
     ],
-    "033108": [
-        "AlgabaEtAll-2013-Chaos",
-        "Algaba2013"
+    "03310": [
+        "AlgabaEtAll-2013-Chaos"
     ],
     "particular": [
         "AlgabaEtAll-2013-PLA",
@@ -34466,14 +34676,7 @@
         "Rossler-1976-ZNTA-Chem",
         "Rossler-1976-ZNTA",
         "Rossler-1977-BMB",
-        "Rossler-1979",
-        "LetellierEAA-2004",
-        "LainscsekLG-2003",
-        "BarrioBS-2009",
-        "BarrioBS-2011",
-        "SzczepaniakM-2008",
-        "Li-2008",
-        "KuznetsovM-2018-arXiv"
+        "Rossler-1979"
     ],
     "continuous": [
         "Rossler-1976",
@@ -34530,44 +34733,6 @@
         "Anishchenko-1994",
         "MatsumotoCT-1986",
         "SinghLKR-2017"
-    ],
-    "hua": [
-        "Matsumoto-1984",
-        "Chua-1990",
-        "Chua-1992",
-        "Chua-1995",
-        "Banerjee-2012",
-        "BilottaP-2008",
-        "Zhiguo-2008",
-        "Anishchenko-1994",
-        "LoziU-1993",
-        "KuznetsovKSC-1993",
-        "BelykhC-1993",
-        "Shilnikov-1994",
-        "RochaM-2015",
-        "BaoJWH-2015",
-        "GribovKK-2016",
-        "Kengne-2016",
-        "ChenXLB-2017",
-        "CruzC-1992",
-        "LeonovKKM-2017",
-        "StankevichKLC-2017",
-        "KuznetsovKLMS-2017-IFAC",
-        "KiselevaKKKLYY-2018",
-        "KuznetsovLMS-2016-INCAAM",
-        "LeonovKKK-2015-IFAC",
-        "LeonovK-2014-JMS",
-        "LeonovK-2013-IJBC",
-        "KuznetsovKLV-2013",
-        "LeonovK-2013-CMAS",
-        "LeonovKV-2012-PhysD",
-        "LeonovKV-2011-PLA",
-        "BraginVKL-2011",
-        "KuznetsovVLS-2011-NAUN",
-        "LeonovVK-2010-DAN",
-        "LeonovK-2012-IEEE",
-        "KuznetsovKLV-2011-ICINCO",
-        "KuznetsovLV-2010-IFAC"
     ],
     "Circuit": [
         "Matsumoto-1984",
@@ -35084,9 +35249,6 @@
     "Corrections": [
         "PetrovskiiL-1959"
     ],
-    "fracP": [
-        "PetrovskiiL-1959"
-    ],
     "x": [
         "PetrovskiiL-1959",
         "lui2013nonlinear",
@@ -35175,7 +35337,6 @@
         "ShilnikovTCh-2001",
         "BarrioBS-2009",
         "BarrioBS-2011",
-        "Rasvan-2013",
         "Belykh-1980"
     ],
     "LiLY": [
@@ -35234,7 +35395,6 @@
     "space": [
         "ArtesLV-2008",
         "Stewart-1989",
-        "LianL-2010",
         "Hoover-1985",
         "RochaM-2015",
         "Leonov-1976",
@@ -35297,7 +35457,7 @@
         "KLurie-2001",
         "Gelig-2011"
     ],
-    "Anatolii": [
+    "natolii": [
         "KLurie-2001"
     ],
     "Dulac": [
@@ -35384,8 +35544,7 @@
         "AizermanG-1963",
         "Aizerman-1953",
         "Aizerman-1974",
-        "AizermanG-1964",
-        "BoikoKMMYY-2020"
+        "AizermanG-1964"
     ],
     "concerning": [
         "Aizerman-1949"
@@ -35453,9 +35612,6 @@
     "http": [
         "Gelig-2011",
         "Meisters-1996",
-        "BiannicTarbouriech_ACA07",
-        "BiannicTarbouriech_06",
-        "ChaosBook",
         "Siderskiy-cite",
         "LeonovL-2000",
         "Chumchairat-2003",
@@ -36257,6 +36413,10 @@
         "JaffeR-1955",
         "Lasalle-1960"
     ],
+    "Filippov": [
+        "Filippov-1988",
+        "Filippov-1960-IFAC"
+    ],
     "discontinuous": [
         "Filippov-1988",
         "Aizerman-1974",
@@ -36301,8 +36461,7 @@
     ],
     "Tsypkin": [
         "Tsypkin-1984",
-        "Tzipkin-1984",
-        "KuznetsovMAB-2020-ECC"
+        "Tzipkin-1984"
     ],
     "Relay": [
         "Tsypkin-1984",
@@ -36422,8 +36581,7 @@
         "Popov-1966-rom"
     ],
     "Romania": [
-        "Popov-1966-rom",
-        "Rasvan-2015"
+        "Popov-1966-rom"
     ],
     "Hyperstability": [
         "Popov-1973",
@@ -36450,7 +36608,7 @@
     "transformatei": [
         "Popov-1959"
     ],
-    "Laplace": [
+    "aplace": [
         "Popov-1959"
     ],
     "Cercet": [
@@ -36556,7 +36714,7 @@
     "extension": [
         "Bongiorno-1963"
     ],
-    "Nyquist": [
+    "yquist": [
         "Bongiorno-1963"
     ],
     "arkhausen": [
@@ -37235,12 +37393,15 @@
         "Kuczma-2009",
         "Liberzon-2003"
     ],
-    "auser": [
+    "user": [
         "Lynch-2010",
         "Barreira-2017",
         "michel2008stability",
+        "Young-1995",
         "Kuczma-2009",
-        "Liberzon-2003"
+        "Liberzon-2003",
+        "KuznetsovLN-2013",
+        "LeonovK-2009-PhysCon"
     ],
     "MarsdenMcC": [
         "MarsdenMcC-1976"
@@ -37250,6 +37411,11 @@
     ],
     "McCracken": [
         "MarsdenMcC-1976"
+    ],
+    "Hopf": [
+        "MarsdenMcC-1976",
+        "JiangHB-2010",
+        "YuC-2004"
     ],
     "Poincare": [
         "Poincare-1885",
@@ -37413,8 +37579,11 @@
     ],
     "opov": [
         "Rantzer-1996",
+        "GusevL-2006",
         "Noldus-1971",
-        "deBruin-2009"
+        "deBruin-2009",
+        "Wu-2002",
+        "Wu-1998"
     ],
     "lemma": [
         "Rantzer-1996",
@@ -37431,6 +37600,7 @@
         "milicevic2008time",
         "Hein-1988",
         "Hedayat-1999-3order",
+        "Guermandi-2011",
         "Paemel-1994",
         "golestan2012design",
         "HuqueS-2013",
@@ -37452,6 +37622,7 @@
         "Djordjevic-1999",
         "Banerjee-2003",
         "Banerjee-2006",
+        "Goyal-2006",
         "Piqueira-2010-PLL-network",
         "Stensby-2011",
         "Stensby-2013",
@@ -37459,6 +37630,7 @@
         "WuZD-2014",
         "Thompson-2005",
         "Belyustina-1970",
+        "Abramovitch-2004",
         "Allen-2003",
         "NicolleTMOJ-2007",
         "UgarteC-2010",
@@ -37469,6 +37641,7 @@
         "Kolumban-1997",
         "Zhao-2020-tcasii",
         "koskin-2018-tcasii",
+        "KuznetsovLYYK-2020-IFACWC",
         "KudryashovaKLYY-2017",
         "BlagovKKLYY-2016-IFAC",
         "KuznetsovLMS-2016-INCAAM",
@@ -37902,9 +38075,6 @@
         "Ibrahim-1994",
         "LeineVK-2003"
     ],
-    "Lur": [
-        "Kalman-1963"
-    ],
     "National": [
         "Kalman-1963",
         "Daniels-2008",
@@ -37931,8 +38101,7 @@
         "MarkusY-1960"
     ],
     "Markus": [
-        "MarkusY-1960",
-        "Febler-1995"
+        "MarkusY-1960"
     ],
     "Yamabe": [
         "MarkusY-1960"
@@ -38181,13 +38350,16 @@
         "DancaFKC-2018"
     ],
     "ss": [
-        "Fessler-1995"
+        "Fessler-1995",
+        "Febler-1995"
     ],
     "ler": [
-        "Fessler-1995"
+        "Fessler-1995",
+        "Febler-1995"
     ],
     "arkus": [
         "Fessler-1995",
+        "Febler-1995",
         "Cima-1997",
         "Meisters-1996",
         "BernatL-1996"
@@ -38278,9 +38450,8 @@
     "Glutsuk": [
         "Glutsuk-1994"
     ],
-    "Jacobian": [
-        "Glutsuk-1994",
-        "Meisters-1982"
+    "acobian": [
+        "Glutsuk-1994"
     ],
     "Febler": [
         "Febler-1995"
@@ -38309,7 +38480,8 @@
         "Cima-1997",
         "BergP-2006",
         "VandenSteen-1997",
-        "vandenBergPogromskyRooda_CDC06"
+        "vandenBergPogromskyRooda_CDC06",
+        "LeonovL-1993"
     ],
     "Essen": [
         "Cima-1997"
@@ -38444,7 +38616,7 @@
         "AndronovM-1947",
         "AndronovM-1953"
     ],
-    "Mizes": [
+    "izes": [
         "AndronovM-1944"
     ],
     "theoryof": [
@@ -38460,10 +38632,8 @@
         "LlibreZ-2002",
         "DengC-2011"
     ],
-    "Vyshnegradky": [
-        "AndronovM-1945"
-    ],
     "yshnegradky": [
+        "AndronovM-1945",
         "AndronovM-1947",
         "AndronovM-1953"
     ],
@@ -38529,6 +38699,9 @@
         "LeonovKKK-2015-arXiv-Lorenz",
         "KuznetsovLN-2013",
         "LeonovK-2009-PhysCon"
+    ],
+    "Jacobian": [
+        "Meisters-1982"
     ],
     "Rocky": [
         "Meisters-1982"
@@ -38753,7 +38926,6 @@
         "Simon-1978",
         "Stensby-1997",
         "Woodbury-1968",
-        "FleischmannLW-1969",
         "YoshimuraIMM-2013",
         "AscheidM-1982",
         "MeyrA-1990",
@@ -39024,6 +39196,10 @@
     ],
     "foliation": [
         "Stewart-1989"
+    ],
+    "Poincar": [
+        "Poincare-1881",
+        "Poincare-1882"
     ],
     "moire": [
         "Poincare-1881",
@@ -39989,7 +40165,6 @@
         "Williams-2016",
         "Rosenkranz-1985",
         "Rouphael-2014",
-        "Ndjountche-2011",
         "intelligent-book",
         "MirabbasiM-1999",
         "GezaKolumban-2015",
@@ -40094,6 +40269,9 @@
         "BenettinGGS-1980-Part1",
         "BenettinGGS-1980-Part2"
     ],
+    "Theor": [
+        "BenettinGGS-1980-Part1"
+    ],
     "Meccanica": [
         "BenettinGGS-1980-Part1",
         "BenettinGGS-1980-Part2"
@@ -40149,6 +40327,9 @@
         "LET-1998"
     ],
     "Part2": [
+        "BenettinGGS-1980-Part2"
+    ],
+    "Applicatio": [
         "BenettinGGS-1980-Part2"
     ],
     "ShimadaN": [
@@ -40240,8 +40421,7 @@
         "Pesin-1988",
         "LeonovS-Vestnik-2012",
         "osborne1982generalized",
-        "Przedpelski-1978",
-        "UgarteC-2014"
+        "Przedpelski-1978"
     ],
     "Characteristics": [
         "Pesin-1988",
@@ -40350,18 +40530,6 @@
     "Chem": [
         "Rossler-1976-ZNTA-Chem"
     ],
-    "ossler": [
-        "Rossler-1976-ZNTA-Chem",
-        "Rossler-1976-ZNTA",
-        "Rossler-1977-BMB",
-        "Rossler-1979",
-        "YauR-2000",
-        "AlSawalhaN-2009",
-        "Ott-2006",
-        "Leonov-2014-DAN",
-        "KuznetsovKKMD-2019-IFAC",
-        "KuznetsovMV-2014-CNSNS"
-    ],
     "Naturforschung": [
         "Rossler-1976-ZNTA-Chem",
         "Rossler-1976-ZNTA"
@@ -40382,6 +40550,9 @@
     "kinetics": [
         "Rossler-1977-BMB"
     ],
+    "wo": [
+        "Rossler-1977-BMB"
+    ],
     "prototypes": [
         "Rossler-1977-BMB"
     ],
@@ -40399,6 +40570,9 @@
         "Oseledec-1968",
         "Mane-1984"
     ],
+    "Oseledets": [
+        "Oseledec-1968"
+    ],
     "multiplicative": [
         "Oseledec-1968"
     ],
@@ -40408,6 +40582,9 @@
         "Pesin-1977",
         "Sinai-1972",
         "Bowen1975"
+    ],
+    "haracteristic": [
+        "Oseledec-1968"
     ],
     "japunov": [
         "Oseledec-1968"
@@ -40505,6 +40682,20 @@
     "Possible": [
         "LetellierEAA-2004",
         "Abramovitch-1988"
+    ],
+    "ossler": [
+        "LetellierEAA-2004",
+        "LainscsekLG-2003",
+        "BarrioBS-2009",
+        "BarrioBS-2011",
+        "SzczepaniakM-2008",
+        "Li-2008",
+        "YauR-2000",
+        "AlSawalhaN-2009",
+        "Ott-2006",
+        "KuznetsovKKMD-2019-IFAC",
+        "KuznetsovM-2018-arXiv",
+        "KuznetsovMV-2014-CNSNS"
     ],
     "physd": [
         "LetellierEAA-2004",
@@ -40690,7 +40881,7 @@
     "Lattice": [
         "YauR-2000"
     ],
-    "Boltzmann": [
+    "oltzmann": [
         "YauR-2000"
     ],
     "solver": [
@@ -40878,7 +41069,6 @@
         "Leine-2000",
         "Mihailovic-2005",
         "Olson-1996",
-        "Huque-2011-PhD",
         "KuznetsovLN-2013"
     ],
     "dissertation": [
@@ -40899,7 +41089,6 @@
         "Leine-2000",
         "Olson-1996",
         "Eden-1989-PhD",
-        "Huque-2011-PhD",
         "Kuznetsov-2016-HabTh"
     ],
     "Eindhoven": [
@@ -41034,9 +41223,9 @@
         "Kovacs-1983",
         "ladvanszky2011software"
     ],
-    "acs": [
+    "cs": [
         "Kovacs-1983",
-        "janos-2018-patent"
+        "ladvanszky2011software"
     ],
     "Maxwell": [
         "Maxwell-1868"
@@ -41108,6 +41297,13 @@
         "AlBenderLS-2004",
         "Leonov-1995"
     ],
+    "From": [
+        "AlBenderLS-2004",
+        "HalanayLR-1987",
+        "Leonov-1997",
+        "Razavi-2003",
+        "KudryashovaKLNS-2010"
+    ],
     "heuristic": [
         "AlBenderLS-2004"
     ],
@@ -41147,8 +41343,9 @@
         "MarinoTV-2010",
         "doi:10.1142/S0218127413502003"
     ],
-    "PATENTS": [
-        "MarinoTV-2010"
+    "PATENT": [
+        "MarinoTV-2010",
+        "Kuznetsov-2008"
     ],
     "wilxins1930well": [
         "wilxins1930well"
@@ -41381,10 +41578,8 @@
     ],
     "Tarbouriech": [
         "GarciaTarbouriech_IEE04",
-        "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech_06",
         "TarbouriechGarcia_book11",
-        "BiannicTarbouriech09",
         "TarbouriechTurner09"
     ],
     "Gomes": [
@@ -41425,6 +41620,10 @@
         "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech_06",
         "FerreresBiannic_AC07",
+        "BiannicTarbouriech09"
+    ],
+    "Tarbouriec": [
+        "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech09"
     ],
     "performance": [
@@ -41488,6 +41687,20 @@
         "Lyapunov-1907",
         "acco2003etude"
     ],
+    "h": [
+        "BiannicTarbouriech_ACA07",
+        "BiannicTarbouriech_06",
+        "ChaosBook",
+        "Huque-2011-PhD",
+        "KuznetsovL-2016-ArXiv",
+        "KuznetsovLM-2015"
+    ],
+    "ttp": [
+        "BiannicTarbouriech_ACA07",
+        "BiannicTarbouriech_06",
+        "ChaosBook",
+        "KuznetsovLM-2015"
+    ],
     "ifac": [
         "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech_06"
@@ -41504,14 +41717,14 @@
         "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech_06"
     ],
-    "html": [
+    "htm": [
         "BiannicTarbouriech_ACA07",
         "BiannicTarbouriech_06"
     ],
     "BiannicTarbouriech_06": [
         "BiannicTarbouriech_06"
     ],
-    "Farret": [
+    "Farre": [
         "BiannicTarbouriech_06"
     ],
     "5th": [
@@ -41593,7 +41806,7 @@
     "cause": [
         "Shifrin93"
     ],
-    "Gripen": [
+    "ripen": [
         "Shifrin93"
     ],
     "PogromskyAndrievsky_IFAC09": [
@@ -41650,7 +41863,7 @@
         "vandenBergPogromskyRooda_CDC06",
         "Smith-1999"
     ],
-    "address": [
+    "addres": [
         "vandenBergPogromskyRooda_CDC06"
     ],
     "Reichert_CSM92": [
@@ -41788,6 +42001,7 @@
         "BruntonR-2010",
         "ZhangLZ-2005",
         "AstonD-2003",
+        "Barreira-2017",
         "VallejoVS-2008"
     ],
     "DemirK": [
@@ -42498,7 +42712,7 @@
     "rescaling": [
         "RangarajanHR-1998"
     ],
-    "reorthogonalization": [
+    "reorthogonalizatio": [
         "RangarajanHR-1998"
     ],
     "Skokos": [
@@ -42548,7 +42762,7 @@
     "approximating": [
         "DieciJV-2011"
     ],
-    "011003": [
+    "01100": [
         "DieciJV-2011"
     ],
     "ShortenWMWK": [
@@ -42697,6 +42911,9 @@
     "anach": [
         "LianL-2010",
         "Meisters-1989"
+    ],
+    "spac": [
+        "LianL-2010"
     ],
     "Lian": [
         "LianL-2010"
@@ -42969,7 +43186,6 @@
     ],
     "Frequency": [
         "wang-2009-control",
-        "LeonovA-DAN-2015",
         "Leonov-1999",
         "ErshovaL-1983",
         "LeonovBSh-1996",
@@ -43329,8 +43545,6 @@
     ],
     "doi": [
         "doi:10.1142/S0218127413502003",
-        "Milnor-2006",
-        "Zhang-2014",
         "GezaKolumban-2015",
         "BoikoKMMYY-2020",
         "LeonovMKM-2020-IJBC",
@@ -43381,9 +43595,8 @@
         "Osipenko-1999",
         "Belykh-1984"
     ],
-    "LORENZ": [
+    "ORENZ": [
         "doi:10.1142/S0218127413502003",
-        "GaliasZ-1998",
         "Belykh-1984",
         "Leonov2017-Lorenz4d"
     ],
@@ -43392,6 +43605,10 @@
     ],
     "Milnor": [
         "Milnor-2006"
+    ],
+    "oi": [
+        "Milnor-2006",
+        "Zhang-2014"
     ],
     "scholarpedia": [
         "Milnor-2006"
@@ -43494,6 +43711,11 @@
     "Algaba20134252": [
         "Algaba20134252"
     ],
+    "hilnikov": [
+        "Algaba20134252",
+        "Algaba20131175",
+        "AfraimovichGLShT-2014"
+    ],
     "Algaba20131175": [
         "Algaba20131175"
     ],
@@ -43502,6 +43724,9 @@
         "Rohde-2000-book"
     ],
     "Algaba2013": [
+        "Algaba2013"
+    ],
+    "033108": [
         "Algaba2013"
     ],
     "Algaba20122708": [
@@ -43866,8 +44091,9 @@
         "Kolmogorov-1958",
         "Schmeling-1998"
     ],
-    "Lebesgue": [
-        "Kolmogorov-1958"
+    "ebesgue": [
+        "Kolmogorov-1958",
+        "Leonov-2017-IJBC"
     ],
     "spaces": [
         "Kolmogorov-1958",
@@ -43875,7 +44101,6 @@
     ],
     "Sinai": [
         "Sinai-1959",
-        "BenedicksY-1993",
         "Sinai-1972"
     ],
     "notion": [
@@ -44089,7 +44314,7 @@
     "Zgliczy": [
         "GaliasZ-1998"
     ],
-    "nski": [
+    "ski": [
         "GaliasZ-1998"
     ],
     "Assisted": [
@@ -44102,6 +44327,9 @@
         "GaliasZ-1998"
     ],
     "zlorenzphysicad": [
+        "GaliasZ-1998"
+    ],
+    "LORENZ": [
         "GaliasZ-1998"
     ],
     "INT": [
@@ -44260,7 +44488,7 @@
         "LedrappierY-1985-I",
         "LedrappierY-1985-II"
     ],
-    "Lyapounov": [
+    "yapounov": [
         "Ledrappier-1981"
     ],
     "DouadyO": [
@@ -44324,6 +44552,12 @@
     "Differentsialnye": [
         "Kharitonov-1978"
     ],
+    "Henon": [
+        "Henon-1976",
+        "VallejoAS-2003",
+        "BenedicksC-1991",
+        "BenedicksV-2001"
+    ],
     "mapping": [
         "Henon-1976",
         "ElhadjS-2011-IJBC",
@@ -44370,7 +44604,7 @@
     "PoschHV": [
         "PoschHV-1986"
     ],
-    "Nos": [
+    "os": [
         "PoschHV-1986",
         "SprottHH-2014"
     ],
@@ -44411,7 +44645,7 @@
         "Sell-1989",
         "perkin2014asymptotic"
     ],
-    "042914": [
+    "04291": [
         "SprottHH-2014"
     ],
     "SprottH": [
@@ -44809,9 +45043,6 @@
     "heritage": [
         "AfraimovichGLShT-2014"
     ],
-    "hilnikov": [
-        "AfraimovichGLShT-2014"
-    ],
     "Lerman": [
         "AfraimovichGLShT-2014"
     ],
@@ -44821,7 +45052,7 @@
     "Afra": [
         "AfraimovicBSh-1977"
     ],
-    "imovic": [
+    "movic": [
         "AfraimovicBSh-1977"
     ],
     "Bykov": [
@@ -44856,7 +45087,6 @@
     "Belykh": [
         "Belykh-1984",
         "Belykh-1980",
-        "Schmeling-1998",
         "BelykhC-1993",
         "BelykhL-1983"
     ],
@@ -45085,7 +45315,7 @@
     "groups": [
         "Ladyzhenskaya-1991"
     ],
-    "eme": [
+    "me": [
         "Lyapunov-1907"
     ],
     "ral": [
@@ -45148,6 +45378,9 @@
         "KuznetsovLSN-2009-ICINCO",
         "KuznetsovLS-2008-ICINCO"
     ],
+    "omania": [
+        "Rasvan-2015"
+    ],
     "influence": [
         "Rasvan-2015",
         "Tikhonov-1959"
@@ -45156,6 +45389,9 @@
         "Rasvan-2015"
     ],
     "seminar": [
+        "Rasvan-2013"
+    ],
+    "ualitative": [
         "Rasvan-2013"
     ],
     "Scientists": [
@@ -45179,10 +45415,6 @@
     "Sell": [
         "Sell-1996",
         "Sell-1989"
-    ],
-    "Navier": [
-        "Sell-1996",
-        "Ruelle-1976-Lorenz"
     ],
     "Connection": [
         "Sell-1989"
@@ -45236,6 +45468,12 @@
     "propri": [
         "PontrjaginSh-1932"
     ],
+    "t": [
+        "PontrjaginSh-1932",
+        "Przedpelski-1978",
+        "Przedpelski-1978-2",
+        "KalmanB-1960"
+    ],
     "trique": [
         "PontrjaginSh-1932"
     ],
@@ -45246,8 +45484,7 @@
         "Shimizu1980201"
     ],
     "Shimizu": [
-        "Shimizu1980201",
-        "Leonov-2012-DRAN"
+        "Shimizu1980201"
     ],
     "Morioka": [
         "Shimizu1980201"
@@ -45373,8 +45610,7 @@
         "Eden-1989",
         "Eden-1989-PhD",
         "Eden-1990",
-        "EdenFT-1991",
-        "LeonovL-1993"
+        "EdenFT-1991"
     ],
     "Alp": [
         "Eden-1989"
@@ -45518,6 +45754,8 @@
         "Meador-2009",
         "KuznetsovLMPS-2018",
         "ChenKLM-2017-IJBC",
+        "DancaKC-2016",
+        "KuznetsovLMS-2016-INCAAM",
         "DancaFKC-2016-IJBC",
         "KuznetsovLM-2015"
     ],
@@ -45684,11 +45922,6 @@
     "Chatterji": [
         "Young-1995"
     ],
-    "user": [
-        "Young-1995",
-        "KuznetsovLN-2013",
-        "LeonovK-2009-PhysCon"
-    ],
     "BenedicksY": [
         "BenedicksY-1993"
     ],
@@ -45696,6 +45929,9 @@
         "BenedicksY-1993",
         "BenedicksC-1991",
         "BenedicksV-2001"
+    ],
+    "inai": [
+        "BenedicksY-1993"
     ],
     "owen": [
         "BenedicksY-1993"
@@ -45763,6 +45999,9 @@
     "Turbulence": [
         "Ruelle-1976-Lorenz"
     ],
+    "Navier": [
+        "Ruelle-1976-Lorenz"
+    ],
     "Stokes": [
         "Ruelle-1976-Lorenz"
     ],
@@ -45813,12 +46052,15 @@
     "Jyv": [
         "Kiseleva2013J"
     ],
-    "askyl": [
+    "skyl": [
         "Kiseleva2013J"
     ],
     "Schmeling": [
         "Schmeling-1998",
         "BarreiraS-2000"
+    ],
+    "elykh": [
+        "Schmeling-1998"
     ],
     "TasakiGD": [
         "TasakiGD-1998"
@@ -46009,7 +46251,7 @@
     "Inequality": [
         "Kuczma-2009"
     ],
-    "anyi": [
+    "nyi": [
         "Kuczma-2009"
     ],
     "HurewiczW": [
@@ -46131,6 +46373,9 @@
         "BaoJWH-2015",
         "ChenXLB-2017"
     ],
+    "04311": [
+        "BaoLWX-2016"
+    ],
     "Barkhausen": [
         "Barkhausen-1935"
     ],
@@ -46163,7 +46408,7 @@
     "Resonanzerscheinungen": [
         "MandelstamP-1932"
     ],
-    "Frequenzteilung": [
+    "Frequenzteilun": [
         "MandelstamP-1932"
     ],
     "Physik": [
@@ -46513,7 +46758,7 @@
     "lineare": [
         "Bohm-1953"
     ],
-    "ohm": [
+    "hm": [
         "Bohm-1953"
     ],
     "Annali": [
@@ -46615,9 +46860,6 @@
         "Rocard-1941"
     ],
     "Th": [
-        "Rocard-1941"
-    ],
-    "eorie": [
         "Rocard-1941"
     ],
     "oscillateurs": [
@@ -46878,7 +47120,8 @@
         "Ndjountche-2011"
     ],
     "IC": [
-        "CruzC-1992"
+        "CruzC-1992",
+        "BakshiG-2009-book"
     ],
     "Recai": [
         "Recai-2010"
@@ -47127,9 +47370,6 @@
         "Leonov-2012-PLA",
         "KuznetsovL-2008-JVE"
     ],
-    "ebesgue": [
-        "Leonov-2017-IJBC"
-    ],
     "Negative": [
         "LeonovM-2017-DAN"
     ],
@@ -47204,6 +47444,9 @@
     "LeonovA": [
         "LeonovA-DAN-2015"
     ],
+    "requency": [
+        "LeonovA-DAN-2015"
+    ],
     "omain": [
         "LeonovA-DAN-2015"
     ],
@@ -47218,14 +47461,15 @@
     ],
     "hase": [
         "LeonovA-DAN-2015",
+        "FleischmannLW-1969",
         "Nielsen-1958"
     ],
     "ynchronization": [
         "LeonovA-DAN-2015"
     ],
-    "ystems": [
+    "ystem": [
         "LeonovA-DAN-2015",
-        "Nielsen-1958",
+        "LeonovR-1986",
         "KalmanB-1960"
     ],
     "GD": [
@@ -47236,6 +47480,7 @@
     ],
     "lukhovsky": [
         "Leonov-2015-PLA",
+        "LeonovM-2016-DAN",
         "ChenKLM-2017-IJBC",
         "KuznetsovLM-2016-arXiv",
         "LeonovKM-2015-ArXiv"
@@ -47271,8 +47516,7 @@
         "Leonov-2014-SCL"
     ],
     "Fishing": [
-        "Leonov-2014-ND",
-        "LeonovMKM-2020-IJBC"
+        "Leonov-2014-ND"
     ],
     "heteroclinic": [
         "Leonov-2014-ND"
@@ -47354,11 +47598,13 @@
         "LeonovK-2009",
         "LeonovSel-2002",
         "LeonovS-2000",
+        "Shalfeev-2013-book",
         "Shakhtarin-1969",
         "Kuznetsov-2016-HabTh"
     ],
     "himizu": [
         "Leonov-2012-PLA",
+        "Leonov-2012-DRAN",
         "LeonovAK-2015"
     ],
     "orioka": [
@@ -47519,6 +47765,9 @@
         "LeonovKKK-2011",
         "KuznetsovKL-2011-4LC",
         "KuznetsovKLV-2011-ICINCO"
+    ],
+    "Computatio": [
+        "LeonovK-RCD-2010"
     ],
     "bounded": [
         "Leonov-DAN-2010-bounded"
@@ -47731,7 +47980,7 @@
         "Shmaliy-2009-gps",
         "KuznetsovLS-2010-FRUCT"
     ],
-    "ew": [
+    "equatio": [
         "Leonov-IJBC-2008"
     ],
     "Vest": [
@@ -48279,7 +48528,7 @@
     "Outer": [
         "Leonov-1995-Vest"
     ],
-    "Karatheodory": [
+    "aratheodory": [
         "Leonov-1995-Vest"
     ],
     "Measure": [
@@ -48317,6 +48566,10 @@
     ],
     "MATH": [
         "BoichenkoL-1994"
+    ],
+    "syste": [
+        "LeonovL-1993",
+        "LeonovKKK-2016-CNSCS"
     ],
     "Sankt": [
         "LeonovL-1993",
@@ -48587,9 +48840,6 @@
     "Das": [
         "LeonovR-1986"
     ],
-    "ystem": [
-        "LeonovR-1986"
-    ],
     "ist": [
         "LeonovR-1986",
         "Chumchairat-2003"
@@ -48782,14 +49032,8 @@
         "Kolumban-1995",
         "Kolumban-2005"
     ],
-    "Charge": [
-        "GillespieKK-2000",
-        "bi2011linearized",
-        "Hedayat-2014-high-order",
-        "YoshimuraIMM-2013",
-        "Razavi-hb-2016",
-        "Gardner-1980",
-        "KuznetsovYYBKM-2019-arXiv"
+    "harge": [
+        "GillespieKK-2000"
     ],
     "ump": [
         "GillespieKK-2000"
@@ -48884,6 +49128,14 @@
     "higher": [
         "bi2011linearized"
     ],
+    "Charge": [
+        "bi2011linearized",
+        "Hedayat-2014-high-order",
+        "YoshimuraIMM-2013",
+        "Razavi-hb-2016",
+        "Gardner-1980",
+        "KuznetsovYYBKM-2019-arXiv"
+    ],
     "Pump": [
         "bi2011linearized",
         "Hedayat-2014-high-order",
@@ -48892,11 +49144,7 @@
     ],
     "PLLs": [
         "bi2011linearized",
-        "Guermandi-2011",
-        "Goyal-2006",
-        "Abramovitch-2004",
-        "Golestan-2017",
-        "KuznetsovLYYK-2020-IFACWC"
+        "Golestan-2017"
     ],
     "Chuang": [
         "bi2011linearized"
@@ -48973,7 +49221,7 @@
         "Suarez-2012",
         "Saponara-2014"
     ],
-    "uarez": [
+    "arez": [
         "sancho2004general"
     ],
     "Almudena": [
@@ -49419,27 +49667,16 @@
     "Costas": [
         "ladvanszky2018costas",
         "Best-2018",
-        "osborne1982generalized",
         "Janos-complex-2017",
         "Janos-diff-coding-2017",
-        "DjordjevicEtAl-1998",
-        "Miyazaki-1991",
-        "HayamiII-2008",
         "Costas-1956",
         "Waters-1982-patent",
         "Costas-1962-patent",
-        "Djordjevic-1998",
-        "Chumchairat-2003",
-        "Stensby-1989",
-        "Simon-1978",
-        "Lindsey-1978",
-        "Olson-1975",
         "SidorkinaSSS-2016",
         "simon1977optimum",
         "cahn1977improving",
         "SchaeferR-2015",
         "AleksandrovKKKKK-2018-IFAC",
-        "BestKLYY-2016",
         "KuznetsovLNSYY-2012-IEEE-Costas"
     ],
     "variant": [
@@ -49457,15 +49694,12 @@
         "janos-2018-patent",
         "Ladvanszky-2017"
     ],
-    "anszky": [
+    "nszky": [
         "ladvanszky2018costas",
         "ladvanszky2015circuit",
         "ladvanszky2017subcarrier",
-        "ladvanszky2011software",
-        "Janos-complex-2017",
-        "Janos-diff-coding-2017",
-        "janos-2018-patent",
-        "Ladvanszky-2017"
+        "zolomy1997eight",
+        "ladvanszky2011software"
     ],
     "Asian": [
         "ladvanszky2018costas"
@@ -49561,7 +49795,7 @@
     "Amplification": [
         "zolomy1997eight"
     ],
-    "olomy": [
+    "lomy": [
         "zolomy1997eight"
     ],
     "Berceli": [
@@ -49577,9 +49811,6 @@
         "zolomy1997eight"
     ],
     "BaranyiA": [
-        "zolomy1997eight"
-    ],
-    "nszky": [
         "zolomy1997eight"
     ],
     "Liang": [
@@ -49608,9 +49839,6 @@
         "ladvanszky2011software"
     ],
     "noises": [
-        "ladvanszky2011software"
-    ],
-    "cs": [
         "ladvanszky2011software"
     ],
     "bor": [
@@ -49697,6 +49925,46 @@
     ],
     "polarity": [
         "osborne1982generalized"
+    ],
+    "ostas": [
+        "osborne1982generalized",
+        "DjordjevicEtAl-1998",
+        "DjordjevicS-1999",
+        "Miyazaki-1991",
+        "HayamiII-2008",
+        "Costas-1956",
+        "Mitchell-2002",
+        "Djordjevic-1998",
+        "Djordjevic-1999",
+        "Helaluddin-2008",
+        "Chumchairat-2003",
+        "Stensby-1989",
+        "Simon-1978",
+        "Lindsey-1978",
+        "Olson-1975",
+        "Ladvanszky-2017",
+        "KuznetsovLSYY-2017",
+        "KuznetsovKLYY-2017",
+        "BianchiKLYY-2016",
+        "BestKLYY-2016",
+        "LeonovKYY-2016-DAN",
+        "ALAboodiKLYY-2015-IFAC",
+        "BestKKLYY-2015-ACC",
+        "LeonovKYY-2015-DAN-BPSK",
+        "LeonovKYY-2015-SIGPRO",
+        "KuznetsovKLNYY-2014-ICUMT-QPSK",
+        "AlexandrovKLS-2014-ICUMT",
+        "KuznetsovKLSYY-2014-ICUMT-BPSK",
+        "KuznetsovLYY-2014-ICUMT",
+        "KudryashovaKKLSYY-2014-ICINCO",
+        "BestKLYY-2014-IJAC",
+        "KuznetsovLNSYY-2013-ICINCO",
+        "LeonovKYY-2012-DAN",
+        "KuznetsovLNSYY-2012-IEEE-Costas",
+        "KuznetsovLYY-2012-ICINCO",
+        "KuznetsovLS-2009-IASTED",
+        "ourPatent-2013-fin",
+        "LadvanszkyKYY-2018-4qam"
     ],
     "MPSK": [
         "osborne1982generalized"
@@ -49793,6 +50061,12 @@
     "Demodulation": [
         "Janos-complex-2017"
     ],
+    "anszky": [
+        "Janos-complex-2017",
+        "Janos-diff-coding-2017",
+        "janos-2018-patent",
+        "Ladvanszky-2017"
+    ],
     "EDI": [
         "Janos-complex-2017"
     ],
@@ -49825,6 +50099,9 @@
     "Cov": [
         "janos-2018-patent"
     ],
+    "acs": [
+        "janos-2018-patent"
+    ],
     "Ericsson": [
         "janos-2018-patent"
     ],
@@ -49832,8 +50109,7 @@
         "janos-2018-patent"
     ],
     "apparatus": [
-        "janos-2018-patent",
-        "HasegawaKW-2001"
+        "janos-2018-patent"
     ],
     "demodulation": [
         "janos-2018-patent",
@@ -50092,8 +50368,7 @@
         "Gardner-1966",
         "Gardner-2005-book",
         "Gardner-1996",
-        "Gardner-1980",
-        "KuznetsovLYY-2019-DAN"
+        "Gardner-1980"
     ],
     "Phaselock": [
         "Gardner-1979",
@@ -50700,35 +50975,6 @@
         "Djordjevic-1999",
         "Helaluddin-2008"
     ],
-    "ostas": [
-        "DjordjevicS-1999",
-        "Costas-1956",
-        "Mitchell-2002",
-        "Djordjevic-1999",
-        "Helaluddin-2008",
-        "Ladvanszky-2017",
-        "KuznetsovLSYY-2017",
-        "KuznetsovKLYY-2017",
-        "BianchiKLYY-2016",
-        "LeonovKYY-2016-DAN",
-        "ALAboodiKLYY-2015-IFAC",
-        "BestKKLYY-2015-ACC",
-        "LeonovKYY-2015-DAN-BPSK",
-        "LeonovKYY-2015-SIGPRO",
-        "KuznetsovKLNYY-2014-ICUMT-QPSK",
-        "AlexandrovKLS-2014-ICUMT",
-        "KuznetsovKLSYY-2014-ICUMT-BPSK",
-        "KuznetsovLYY-2014-ICUMT",
-        "KudryashovaKKLSYY-2014-ICINCO",
-        "BestKLYY-2014-IJAC",
-        "KuznetsovLNSYY-2013-ICINCO",
-        "LeonovKYY-2012-DAN",
-        "KuznetsovLNSYY-2012-IEEE-Costas",
-        "KuznetsovLYY-2012-ICINCO",
-        "KuznetsovLS-2009-IASTED",
-        "ourPatent-2013-fin",
-        "LadvanszkyKYY-2018-4qam"
-    ],
     "multichannel": [
         "DjordjevicS-1999",
         "Djordjevic-1999"
@@ -51110,6 +51356,12 @@
         "Gardner-1993",
         "Middlestead-2017"
     ],
+    "Part": [
+        "GardnerEH-1993",
+        "Gardner-1993",
+        "EndoT-1986",
+        "LeonovK-2013-CMAS"
+    ],
     "Fines": [
         "Fines-1991"
     ],
@@ -51257,6 +51509,9 @@
         "Dajun-2019-tcasii"
     ],
     "Sinencio": [
+        "Shu-2005"
+    ],
+    "desig": [
         "Shu-2005"
     ],
     "Manassewitch": [
@@ -51421,6 +51676,15 @@
         "Viterbi-1966",
         "Viterbi-1959",
         "viterbi1963phase"
+    ],
+    "Principles": [
+        "Viterbi-1966",
+        "KaplanH-2006-GPS",
+        "KaplanH-2017-GPS",
+        "PedersonM-2008-book",
+        "Nielsen-1958",
+        "groves2013principles",
+        "Brennan-1996"
     ],
     "coherent": [
         "Viterbi-1966",
@@ -51706,11 +51970,6 @@
     ],
     "Don": [
         "Przedpelski-1978"
-    ],
-    "t": [
-        "Przedpelski-1978",
-        "Przedpelski-1978-2",
-        "KalmanB-1960"
     ],
     "Estimate": [
         "Przedpelski-1978"
@@ -52244,6 +52503,9 @@
         "HasegawaKW-2001",
         "BakaevG-1965"
     ],
+    "apparatu": [
+        "HasegawaKW-2001"
+    ],
     "Hasegawa": [
         "HasegawaKW-2001",
         "Kolumban-1997"
@@ -52270,6 +52532,9 @@
         "HasegawaKW-2001"
     ],
     "SakamotoN": [
+        "SakamotoN-2006"
+    ],
+    "circui": [
         "SakamotoN-2006"
     ],
     "Sakamoto": [
@@ -52478,7 +52743,7 @@
     "Frank": [
         "heine2014european"
     ],
-    "uhlnikel": [
+    "hlnikel": [
         "heine2014european"
     ],
     "Gerd": [
@@ -52965,9 +53230,6 @@
         "BakshiG-2009-book"
     ],
     "BakshiG": [
-        "BakshiG-2009-book"
-    ],
-    "ICs": [
         "BakshiG-2009-book"
     ],
     "Fitz": [
@@ -53641,6 +53903,9 @@
     "sweep": [
         "Stensby-2009"
     ],
+    "loo": [
+        "Stensby-2009"
+    ],
     "derivation": [
         "Huque-2011-PhD",
         "WilsonNF-2009",
@@ -53656,6 +53921,9 @@
         "Huque-2011-PhD"
     ],
     "Huntsville": [
+        "Huque-2011-PhD"
+    ],
+    "thesi": [
         "Huque-2011-PhD"
     ],
     "Thirty": [
@@ -53747,7 +54015,7 @@
     "EndoT": [
         "EndoT-1986"
     ],
-    "Galerkin": [
+    "alerkin": [
         "EndoT-1986"
     ],
     "Tada": [
@@ -53887,7 +54155,7 @@
         "UgarteC-2014",
         "UgarteC-2015"
     ],
-    "anuel": [
+    "nuel": [
         "CarlosenaM-2007"
     ],
     "zaro": [
@@ -53910,6 +54178,9 @@
     "Nielsen": [
         "Nielsen-1958"
     ],
+    "pplications": [
+        "Nielsen-1958"
+    ],
     "ock": [
         "Nielsen-1958"
     ],
@@ -53918,6 +54189,10 @@
     ],
     "oherent": [
         "Nielsen-1958"
+    ],
+    "ystems": [
+        "Nielsen-1958",
+        "KalmanB-1960"
     ],
     "Jet": [
         "Nielsen-1958",
@@ -54377,7 +54652,7 @@
     "patents": [
         "Abramovitch-2004"
     ],
-    "US20040208274": [
+    "US2004020827": [
         "Abramovitch-2004"
     ],
     "HsiehH": [
@@ -54418,9 +54693,6 @@
     ],
     "Zucchelli": [
         "Zucchelli-2007"
-    ],
-    "Measurements": [
-        "Allen-2003"
     ],
     "pallen": [
         "Allen-2003"
@@ -54497,7 +54769,7 @@
     "level": [
         "KaaldLHS-2009"
     ],
-    "Sigma": [
+    "igma": [
         "KaaldLHS-2009"
     ],
     "elta": [
@@ -54509,7 +54781,6 @@
     "imulink": [
         "KaaldLHS-2009",
         "KuznetsovKLNYY-2014-ICUMT-QPSK",
-        "KuznetsovKLSYY-2014-ICUMT-BPSK",
         "KuznetsovLYY-2014-ICUMT"
     ],
     "NicolleTMOJ": [
@@ -54640,7 +54911,7 @@
     "viterbi1963phase": [
         "viterbi1963phase"
     ],
-    "Fokker": [
+    "okker": [
         "viterbi1963phase"
     ],
     "lanck": [
@@ -54739,7 +55010,7 @@
     "electr": [
         "Williams-1984"
     ],
-    "onica": [
+    "nica": [
         "Williams-1984"
     ],
     "circuitos": [
@@ -54875,6 +55146,9 @@
         "Ndjountche-2011"
     ],
     "Speed": [
+        "Ndjountche-2011"
+    ],
+    "Desig": [
         "Ndjountche-2011"
     ],
     "intelligent": [
@@ -55179,6 +55453,9 @@
     "April": [
         "AguirreBH-1986"
     ],
+    "omparison": [
+        "UgarteC-2015"
+    ],
     "uidelines": [
         "UgarteC-2015"
     ],
@@ -55270,7 +55547,7 @@
     "ICT": [
         "GezaKolumban-2015"
     ],
-    "xpress": [
+    "xpres": [
         "GezaKolumban-2015"
     ],
     "S2405": [
@@ -55748,6 +56025,9 @@
     "KuznetsovMAB": [
         "KuznetsovMAB-2020-ECC"
     ],
+    "sypkin": [
+        "KuznetsovMAB-2020-ECC"
+    ],
     "LPRS": [
         "KuznetsovMAB-2020-ECC"
     ],
@@ -55771,6 +56051,9 @@
     "LeonovMKM": [
         "LeonovMKM-2020-IJBC"
     ],
+    "ishing": [
+        "LeonovMKM-2020-IJBC"
+    ],
     "S0218127420501205": [
         "LeonovMKM-2020-IJBC"
     ],
@@ -55785,6 +56068,10 @@
         "KuznetsovLYY-2014-ICUMT",
         "KuznetsovLYY-2012-ICINCO",
         "KuznetsovLYY-2011-IEEE"
+    ],
+    "ardner": [
+        "KuznetsovLYY-2019-DAN",
+        "KuznetsovLYY-arxiv2017"
     ],
     "S1064562419060218": [
         "KuznetsovLYY-2019-DAN"
@@ -56034,7 +56321,8 @@
     ],
     "ayano": [
         "KuznetsovYY-2018-DECT",
-        "LeonovKS-2016"
+        "LeonovKS-2016",
+        "LeonovK-2015-RusGidro"
     ],
     "hushenskaya": [
         "KuznetsovYY-2018-DECT",
@@ -56047,7 +56335,7 @@
     "KuznetsovAFC": [
         "KuznetsovAFC-2018"
     ],
-    "Memoriam": [
+    "emoriam": [
         "KuznetsovAFC-2018"
     ],
     "ennady": [
@@ -56146,11 +56434,12 @@
     "AndrievskyKKKL": [
         "AndrievskyKKKL-2018"
     ],
+    "eldysh": [
+        "LeonovK-2018-AIP",
+        "LeonovK-2018-DAN"
+    ],
     "020002": [
         "LeonovK-2018-AIP"
-    ],
-    "eldysh": [
-        "LeonovK-2018-DAN"
     ],
     "KuznetsovLMPS": [
         "KuznetsovLMPS-2018"
@@ -56288,9 +56577,6 @@
         "KuznetsovLS-2017"
     ],
     "arxiv2017": [
-        "KuznetsovLYY-arxiv2017"
-    ],
-    "ardner": [
         "KuznetsovLYY-arxiv2017"
     ],
     "ArXiv": [
@@ -56587,10 +56873,6 @@
     "uclidean": [
         "KuznetsovL-2016-ArXiv"
     ],
-    "h": [
-        "KuznetsovL-2016-ArXiv",
-        "KuznetsovLM-2015"
-    ],
     "ttps": [
         "KuznetsovL-2016-ArXiv"
     ],
@@ -56712,9 +56994,6 @@
     "Hydropower": [
         "LeonovK-2015-RusGidro"
     ],
-    "Sayano": [
-        "LeonovK-2015-RusGidro"
-    ],
     "Limitations": [
         "BianchiKLYY-2015",
         "BlagovKLYY-2015",
@@ -56732,9 +57011,6 @@
         "BlagovKLYY-2015"
     ],
     "04723v1": [
-        "KuznetsovLM-2015"
-    ],
-    "ttp": [
         "KuznetsovLM-2015"
     ],
     "04726v1": [
@@ -56840,9 +57116,6 @@
     "elig": [
         "KiselevaK-2015-Vestnik"
     ],
-    "ilippov": [
-        "KiselevaK-2015-Vestnik"
-    ],
     "yatnitskii": [
         "KiselevaK-2015-Vestnik"
     ],
@@ -56874,7 +57147,7 @@
     "Reversal": [
         "LeonovK-2014-NDC"
     ],
-    "Approximation": [
+    "Approximatio": [
         "LeonovK-2014-NDC"
     ],
     "02353": [
@@ -56913,6 +57186,9 @@
         "AlexandrovKLS-2014-ICUMT"
     ],
     "KuznetsovKLSYY": [
+        "KuznetsovKLSYY-2014-ICUMT-BPSK"
+    ],
+    "imulin": [
         "KuznetsovKLSYY-2014-ICUMT-BPSK"
     ],
     "KudryashovaKKLSYY": [
@@ -57574,9 +57850,6 @@
     ],
     "_0002": [
         "KudryashovaKLNS-2010"
-    ],
-    "PATENT": [
-        "Kuznetsov-2008"
     ],
     "ourPatent": [
         "ourPatent-PLL-2011",
