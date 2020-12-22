@@ -1,20 +1,6 @@
 {
     "paths": [
         {
-            "name": "/item",
-            "lambdaFunction": "bibmanagerbackend14439369",
-            "privacy": {
-                "open": true
-            }
-        },
-        {
-            "name": "/bib",
-            "lambdaFunction": "bibmanagerbackend14439369",
-            "privacy": {
-                "open": true
-            }
-        },
-        {
             "name": "/all",
             "lambdaFunction": "bibmanagerbackend14439369",
             "privacy": {
@@ -45,5 +31,5 @@
             ]
         }
     ],
-    "uuid": "eb0ac13d"
+    "uuid": "6a3f420f"
 }
