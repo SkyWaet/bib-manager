@@ -12,33 +12,27 @@ var express = require('express')
 var bodyParser = require('body-parser')
 var awsServerlessExpressMiddleware = require('aws-serverless-express/middleware')
 var fs = require('fs')
-const invertedIndex = JSON.parse(fs.readFileSync('./invertedIndex.json', 'utf-8'));
-const bibFile = JSON.parse(fs.readFileSync('./global_bib.json', 'utf-8'));
+
 
 // declare a new express app
 var app = express()
-const PORT = process.env.port||4000;
+const PORT = process.env.port || 4000;
 app.use(bodyParser.json())
 app.use(awsServerlessExpressMiddleware.eventContext())
 
 // Enable CORS for all methods
-app.use(function(req, res, next) {
+app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*")
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept")
   next()
 });
 
 
-app.get('/item',(req,res)=>{
-  res.json({"results":[{tag:'KuznetsovMYY-2020-IFAC',title:'Stability analysis of charge-pump phase-locked loops: the hold-in and pull-in ranges'}]})
+app.get('/all', (req, res) => {
+  const bibFile = JSON.parse(fs.readFileSync('./bibWorkers/global_bib.json', 'utf-8'));
+  res.json({ "results": Object.values(bibFile) })
 })
+const invertedIndexSearch = require('./invertedIndex/invertedIndexSearch');
 
-const invertedIndexSearch = require('./invertedIndexSearch');
-
-app.get('/bib',(req,res)=>{
-  const searchResult = invertedIndexSearch(bibFile,invertedIndex,req.query.searchstring);
-  console.log(searchResult);
-  res.json({"results": searchResult});
-})
 
 module.exports = app

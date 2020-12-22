@@ -69,7 +69,7 @@
         "Timeout": "25",
         "Code": {
           "S3Bucket": "amplify-bibmanagerbackend-dev-191809-deployment",
-          "S3Key": "amplify-builds/bibmanagerbackend14439369-465a5175507047497164-build.zip"
+          "S3Key": "amplify-builds/bibmanagerbackend14439369-434c376f2f6b51706236-build.zip"
         }
       }
     },
